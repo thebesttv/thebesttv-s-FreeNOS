@@ -1,0 +1,17 @@
+*.o
+*.a
+*.pyc
+build/
+config.log
+.sconf_temp
+.sconsign.dblite
+/kernel/System
+.gdbinit
+/build*.conf
+*.diff
+*.bak
+*.BAK
+*.rej
+*.orig
+*.tar.gz
+ChangeLog-*
