@@ -20,6 +20,6 @@
 
 int gethostname(char *name, size_t namelen)
 {
-    strlcpy(name, "localhost", namelen);
+    strlcpy(name, "tbt", namelen);
     return 0;
 }
