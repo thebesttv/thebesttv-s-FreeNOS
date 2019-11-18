@@ -47,8 +47,9 @@ class Cat : public POSIXApplication
 
     /**
      * Initialize the application.
-     *
-     * @return Result code
+     * Check if excuted with at least one positional.
+     * 
+     * @return Result code. If has no positional, return ShowUsage; else return Success.
      */
     virtual Result initialize();
 

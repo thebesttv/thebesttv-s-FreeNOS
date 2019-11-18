@@ -43,13 +43,13 @@ Cat::Result Cat::initialize()
 
 Cat::Result Cat::exec()
 {
-    Result result = Success, ret = Success;
+    Result result = Success, ret = Success; // ret: return
     const Vector<Argument *> & positionals = arguments().getPositionals();
 
-    // Cat all given files. */
+    // Cat all given files.
     for (Size i = 0; i < positionals.count(); i++)
     {
-        // Perform cat. */
+        // Perform cat.
         result = cat(*(positionals[i]->getValue()));
     
         // Update exit code if needed

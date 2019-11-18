@@ -35,12 +35,13 @@ BenchMark::~BenchMark()
 
 BenchMark::Result BenchMark::exec()
 {
-    u64 t1 = 0, t2 = 0;
+    u64 t1 = 0, t2 = 0; // timestamp
     ProcessInfo info;
     Memory::Range range;
     char *foo[128];
     struct stat st;
 
+    // ???
     // Retrieve current process ID with kernel trap
     t1 = timestamp();
     ProcessCtl(SELF, GetPID);
@@ -78,7 +79,7 @@ BenchMark::Result BenchMark::exec()
     for (int i = 0; i < 128; i++)
         foo[i] = new char[16];
     t2 = timestamp();
-    printf("allocate() Ticks: %u (%u AVG)\r\n",
+    printf("allocate() Ticks: %u (%u on average)\r\n",
             (u32)(t2 - t1), (u32)(t2 - t1) / 128);
 
     // Release heap memory
@@ -86,7 +87,7 @@ BenchMark::Result BenchMark::exec()
     for (int i = 0; i < 128; i++)
         delete foo[i];
     t2 = timestamp();
-    printf("release() Ticks: %u (%u AVG)\r\n",
+    printf("release() Ticks: %u (%u on average)\r\n",
             (u32)(t2 - t1), (u32)(t2 - t1) / 128);
 
     // Done
