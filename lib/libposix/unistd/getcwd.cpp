@@ -20,9 +20,10 @@
 #include "Runtime.h"
 #include "unistd.h"
 
-char *getcwd(char *buf, size_t size)
+char *getcwd(char *buf, size_t size)    // 声明位于 unistd.h
 {
     // Copy our current working directory
+    // 函数调用位于 runtime.cpp，buf最长为 64，即 PATH_MAX = 64
     memcpy(buf, **getCurrentDirectory(), size);
 
     // Set errno

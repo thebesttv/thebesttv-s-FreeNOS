@@ -27,7 +27,7 @@ UnixName::UnixName(int argc, char **argv)
 {
     parser().setDescription("Print the operating system name");
     parser().registerFlag('s', "system", "Print the system name");
-    parser().registerFlag('n', "node", "Print the node name");
+    parser().registerFlag('n', "node", "Print the node name");  // hostname
     parser().registerFlag('r', "release", "Print the operating system release");
     parser().registerFlag('m', "machine", "Print the machine name");
     parser().registerFlag('a', "all", "Print all available information");

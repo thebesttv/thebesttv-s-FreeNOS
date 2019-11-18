@@ -63,7 +63,8 @@ CreateFile::Result CreateFile::exec()
 
 CreateFile::Result CreateFile::createFile(const String & file) const
 {
-    // Attempt to create the file. */
+    // Attempt to create the file.
+    // XXX 无法创建文件: operation not supported
     if (creat(*file, S_IRUSR|S_IWUSR) < 0)
     {
         ERROR("failed to create file `" << *file << "': " << strerror(errno));
