@@ -58,8 +58,10 @@ class MemoryBlock
     static Size copy(void *dest, const void *src, Size count);
 
     /**
-     * Copy a character string.
-     *
+     * Copy a character string untill hit '\0' or reach n-1 characters
+     *  (always append '\0' at the end. if len(src) >= n, then use the
+     *    last cell to hold '\0')
+     * 
      * @param dest Destination string.
      * @param src Source string.
      * @param count Number of bytes to copy.
@@ -84,7 +86,7 @@ class MemoryBlock
      *
      * @param p1 Memory pointer one.
      * @param p2 Memory pointer two.
-     * @param count Number of bytes to compare or zero to continue until a ZERO byte.
+     * @param count Number of bytes to compare or **zero to continue until a ZERO byte**.
      *
      * @return True if equal, false otherwise.
      */

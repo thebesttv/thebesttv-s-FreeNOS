@@ -18,11 +18,11 @@
 #include "Macros.h"
 #include "MemoryBlock.h"
 
-void * MemoryBlock::set(void *dest, int ch, unsigned count)
+void *MemoryBlock::set(void *dest, int ch, unsigned count)
 {
     char *temp;
 
-    for(temp = (char *) dest; count != 0; count--)
+    for (temp = (char *)dest; count != 0; count--)
     {
         *temp++ = ch;
     }
@@ -34,7 +34,7 @@ Size MemoryBlock::copy(void *dest, const void *src, Size count)
     const char *sp = (const char *)src;
     char *dp = (char *)dest;
 
-    for(Size i = count; i != 0; i--)
+    for (Size i = count; i != 0; i--)
         *dp++ = *sp++;
 
     return (count);
@@ -47,24 +47,48 @@ Size MemoryBlock::copy(char *dst, char *src, Size count)
     unsigned n = count;
 
     // Copy as many bytes as will fit
-    if (n != 0) {
-        while (--n != 0) {
-            if ((*d++ = *s++) == '\0')
+    if (n != 0)
+    {
+        while (--n != 0)
+        {                              // <b> --n </b>
+            if ((*d++ = *s++) == '\0') // if reach '\0'
                 break;
         }
     }
 
     // Not enough room in dst, add NUL and traverse rest of src
-    if (n == 0) {
+    if (n == 0)
+    { // while 正常结束，已复制 n-1 个元素
         if (count != 0)
             *d = '\0';
-        while (*s++)
+        while (*s++) // 遍历 src
             ;
     }
-    // Count does not include NUL
-    return(s - src - 1);
+    // Count does not including NUL
+    return (s - src - 1); // ???
 }
 
+bool MemoryBlock::compare(const char *p1, const char *p2, Size count)
+{
+    if (!count)
+    {
+        while (*p1 && *p2)
+        {
+            p1++, p2++;
+        }
+    }
+    else
+    {
+        for (Size i = 0; i < count; ++i)
+        {
+            if (*p1 != *p2)
+                break;
+        }
+    }
+    return (*p1 == *p2);
+}
+
+/*
 bool MemoryBlock::compare(const char *p1, const char *p2, Size count)
 {
     for (Size i = count; i > 0 || !count; i--)
@@ -79,3 +103,4 @@ bool MemoryBlock::compare(const char *p1, const char *p2, Size count)
     }
     return (*p1 == *p2);
 }
+*/
