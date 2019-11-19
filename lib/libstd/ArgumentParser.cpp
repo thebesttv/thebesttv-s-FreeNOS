@@ -24,7 +24,7 @@ ArgumentParser::ArgumentParser()
     m_description = "program description";
 }
 
-ArgumentParser::~ArgumentParser()
+ArgumentParser::~ArgumentParser()   // same with ~ArgumentContainer
 {
     // cleanup flags
     for (HashIterator<String, Argument *> it(m_flags);

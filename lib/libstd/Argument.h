@@ -51,7 +51,7 @@ class Argument
     Argument(const String & name);
 
     /**
-     * Get single character identifier
+     * Get *single character identifier*
      *
      * @return Single character identifier
      */
@@ -65,21 +65,21 @@ class Argument
     const String & getName() const;
 
     /**
-     * Retrieve single line argument description
+     * Retrieve *single line* argument description
      *
      * @return Argument description
      */
     const String & getDescription() const;
 
     /**
-     * Retrieve argument option value (if any)
+     * Retrieve argument **option value** (if any)
      *
      * @return Argument value
      */
     const String & getValue() const;
 
     /**
-     * Retrieve maximum argument count (if set)
+     * Retrieve *maximum argument count* (if set)
      *
      * @return Maximum argument count
      */
@@ -107,7 +107,7 @@ class Argument
     void setDescription(const char *description);
 
     /**
-     * Set argument option value
+     * Set **argument option value**
      *
      * @param value New argument option value
      */
@@ -120,8 +120,9 @@ class Argument
      */
     void setCount(Size count);
 
+
     /**
-     * Equality operator
+     * Equality operator: compares argument identifier
      *
      * @param arg Argument reference
      *
@@ -140,7 +141,7 @@ class Argument
 
   private:
 
-    /** Argument identifier */
+    /** Argument identifier (single character) */
     char m_id;
 
     /** Argument name */
@@ -150,7 +151,7 @@ class Argument
     String m_description;
 
     /** Optional argument value */
-    String m_value;
+    String m_value; // ** value 为 String 类 **
 
     /** Maximum argument count */
     Size m_count;

@@ -136,10 +136,10 @@ class ArgumentParser
 
   private:
 
-    /** Contains all registered flag arguments by name. */
+    /** Contains all registered flag arguments *by name*. */
     HashTable<String, Argument *> m_flags;
 
-    /** Contains all registered flag arguments by single character identifier. */
+    /** Contains all registered flag arguments *by single character identifier*. */
     HashTable<String, Argument *> m_flagsId;
 
     /** Contains all registered positional arguments. */

@@ -66,12 +66,12 @@ const char * ArgumentContainer::get(const char *name) const
 
 ArgumentContainer::Result ArgumentContainer::addPositional(Argument *arg)
 {
-    m_positionals.insert(arg);
+    m_positionals.insert(arg);  // push back argument
     return Success;
 }
 
 ArgumentContainer::Result ArgumentContainer::addFlag(Argument *arg)
 {
-    m_flags.insert(arg->getName(), arg);
+    m_flags.insert(arg->getName(), arg);    // map argument name to argument
     return Success;
 }

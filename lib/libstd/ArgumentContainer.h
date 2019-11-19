@@ -64,7 +64,7 @@ class ArgumentContainer
     virtual ~ArgumentContainer();
 
     /**
-     * Get argument by name
+     * Get argument by name (eigher identifier or fullname)
      *
      * @param name Name of the argument
      *

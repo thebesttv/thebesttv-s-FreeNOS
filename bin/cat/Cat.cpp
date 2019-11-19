@@ -67,7 +67,7 @@ Cat::Result Cat::cat(const char *file) const
     char buf[PAGESIZE];
     int fd, e;
     struct stat st;
-    const char *name = *(parser().name());
+    const char *name = *(parser().name());  // get program name
 
     DEBUG("file = " << file);
 
