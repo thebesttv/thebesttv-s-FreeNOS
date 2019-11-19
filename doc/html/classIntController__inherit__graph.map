@@ -1,6 +1,0 @@
-<map id="IntController" name="IntController">
-<area shape="rect" id="node2" href="$classARMInterrupt.html" title="ARM interrupt controller. " alt="" coords="20,263,140,369"/>
-<area shape="rect" id="node4" href="$classIntelAPIC.html" title="Intel Advanced Programmable Interrupt Controller (APIC) " alt="" coords="165,189,294,443"/>
-<area shape="rect" id="node5" href="$classIntelPIC.html" title="Intel 8259 Programmable Interrupt Controller (PIC). " alt="" coords="318,219,426,413"/>
-<area shape="rect" id="node3" href="$classBroadcomInterrupt.html" title="Raspberry Pi Interrupt Controller implementation. " alt="" coords="5,491,155,627"/>
-</map>

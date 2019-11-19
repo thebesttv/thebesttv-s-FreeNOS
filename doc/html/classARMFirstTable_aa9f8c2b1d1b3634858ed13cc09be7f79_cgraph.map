@@ -1,5 +1,0 @@
-<map id="ARMFirstTable::translate" name="ARMFirstTable::translate">
-<area shape="rect" id="node2" href="$classARMFirstTable.html#a423179a4b57dd66dfb7d530aaa681427" title="Retrieve second level page table. " alt="" coords="225,5,405,47"/>
-<area shape="rect" id="node4" href="$classARMSecondTable.html#a9543d09a2b1fe54589f63ae0b8c3fd37" title="Translate virtual address to physical address. " alt="" coords="221,71,408,98"/>
-<area shape="rect" id="node3" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="456,13,611,39"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="FileSystem::lookupFile" name="FileSystem::lookupFile">
-<area shape="rect" id="node2" href="$classAssociative.html#a602e6677bddbe08bfd94663bd215e664" title="Check if the given key exists. " alt="" coords="213,5,359,32"/>
-<area shape="rect" id="node3" href="$classFile.html#aeeb18ed1a35f572f93d337ccb842e5fe" title="Retrieve our filetype. " alt="" coords="237,56,335,83"/>
-<area shape="rect" id="node4" href="$classListIterator.html#a6750d850524a46222fff4d24d1479f4c" title="Check if there is a current item on the List. " alt="" coords="208,107,364,133"/>
-<area shape="rect" id="node5" href="$classDirectory.html#a383e9009e96c4ccc749a3cf149a3491d" title="Retrieve a File from storage. " alt="" coords="225,157,347,184"/>
-<area shape="rect" id="node6" href="$classFileSystemPath.html#acf03c28bc958d8329a1e13275f71104e" title="Returns a List of separate path elements. " alt="" coords="213,208,359,235"/>
-<area shape="rect" id="node7" href="$classHashTable.html#a0e5f4164b2a8a70006f92b5edd42098d" title="Return the first value for the given key. " alt="" coords="224,259,348,285"/>
-</map>

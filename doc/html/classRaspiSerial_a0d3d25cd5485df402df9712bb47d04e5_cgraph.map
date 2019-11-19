@@ -1,5 +1,0 @@
-<map id="RaspiSerial::init" name="RaspiSerial::init">
-<area shape="rect" id="node2" href="$classRaspiSerial.html#a5e9ca4f1815a47a350021f2b0210a787" title="delay function " alt="" coords="168,5,296,32"/>
-<area shape="rect" id="node3" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="181,56,283,83"/>
-<area shape="rect" id="node4" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="344,56,391,83"/>
-</map>

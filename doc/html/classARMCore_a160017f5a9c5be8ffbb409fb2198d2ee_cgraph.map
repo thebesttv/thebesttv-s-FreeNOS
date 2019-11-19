@@ -1,5 +1,0 @@
-<map id="ARMCore::logException" name="ARMCore::logException">
-<area shape="rect" id="node2" href="$classARMCore.html#a42c2e5e7b4c0a3520010e978ee5cddbf" title="Log the CPU state. " alt="" coords="216,31,352,57"/>
-<area shape="rect" id="node3" href="$classARMCore.html#a24a35b3575f173d45f898bcf7ae96be6" title="Log a register. " alt="" coords="400,5,555,32"/>
-<area shape="rect" id="node4" href="$classARMControl.html#aa41086e47dbff0987e6f2205cafbd85e" title="Read a register from the CP15. " alt="" coords="414,56,541,83"/>
-</map>

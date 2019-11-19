@@ -1,9 +1,0 @@
-<map id="NetworkProtocol" name="NetworkProtocol">
-<area shape="rect" id="node4" href="$classARP.html" title="Address Resolution Protocol. " alt="" coords="5,726,152,1023"/>
-<area shape="rect" id="node5" href="$classEthernet.html" title="Ethernet networking protocol. " alt="" coords="176,748,328,1001"/>
-<area shape="rect" id="node6" href="$classICMP.html" title="Internet Control Message Protocol (ICMP) " alt="" coords="353,770,471,979"/>
-<area shape="rect" id="node7" href="$classIPV4.html" title="Internet Protocol Version 4. " alt="" coords="496,704,648,1045"/>
-<area shape="rect" id="node8" href="$classUDP.html" title="User Datagram Protocol (UDP) " alt="" coords="673,748,791,1001"/>
-<area shape="rect" id="node2" href="$classDirectory.html" title="Directory File functionality. " alt="" coords="361,277,463,457"/>
-<area shape="rect" id="node3" href="$classFile.html" title="Represents a file present on a FileSystem. " alt="" coords="362,5,462,229"/>
-</map>

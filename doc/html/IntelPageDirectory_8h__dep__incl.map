@@ -1,6 +1,0 @@
-<map id="lib/libarch/intel/IntelPageDirectory.h" name="lib/libarch/intel/IntelPageDirectory.h">
-<area shape="rect" id="node2" href="$IntelPageDirectory_8cpp.html" title="lib/libarch/intel/IntelPage\lDirectory.cpp" alt="" coords="5,95,169,136"/>
-<area shape="rect" id="node3" href="$IntelPaging_8h.html" title="lib/libarch/intel/IntelPaging.h" alt="" coords="193,102,379,129"/>
-<area shape="rect" id="node4" href="$IntelPaging_8cpp.html" title="lib/libarch/intel/IntelPaging.cpp" alt="" coords="77,184,276,211"/>
-<area shape="rect" id="node5" href="$IntelProcess_8cpp.html" title="kernel/intel/IntelProcess.cpp" alt="" coords="301,184,487,211"/>
-</map>

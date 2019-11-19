@@ -1,5 +1,0 @@
-<map id="cursor" name="cursor">
-<area shape="rect" id="node2" href="$classTerminal.html#a3b44ff74df429ab72c73bd920eaa2686" title="Hides the cursor from the VGA screen. " alt="" coords="116,5,259,32"/>
-<area shape="rect" id="node3" href="$classTerminal.html#a0573be232f02adbbbb7d12fefef628d7" title="Sets the new position of the cursor. " alt="" coords="311,81,448,108"/>
-<area shape="rect" id="node4" href="$classTerminal.html#ad1c2ffea180ef92347982c0e247bb393" title="Show the VGA cursor. " alt="" coords="112,107,263,133"/>
-</map>

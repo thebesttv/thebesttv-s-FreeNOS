@@ -1,8 +1,0 @@
-<map id="lib/libposix/dirent/readdir.cpp" name="lib/libposix/dirent/readdir.cpp">
-<area shape="rect" id="node2" href="$Macros_8h.html" title="Macros.h" alt="" coords="24,319,100,345"/>
-<area shape="rect" id="node4" href="$dirent_8h.html" title="dirent.h" alt="" coords="108,95,173,121"/>
-<area shape="rect" id="node3" href="$Types_8h.html" title="Types.h" alt="" coords="139,393,209,420"/>
-<area shape="rect" id="node5" href="$types_8h.html" title="sys/types.h" alt="" coords="181,244,271,271"/>
-<area shape="rect" id="node6" href="$string_8h.html" title="string.h" alt="" coords="108,169,173,196"/>
-<area shape="rect" id="node7" href="$errno_8h.html" title="errno.h" alt="" coords="93,244,156,271"/>
-</map>

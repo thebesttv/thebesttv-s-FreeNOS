@@ -1,5 +1,0 @@
-<map id="IntelPageDirectory::translate" name="IntelPageDirectory::translate">
-<area shape="rect" id="node2" href="$classIntelPageDirectory.html#a363a61c2e7066c97db6cc7188fbe6a9c" title="Retrieve second level page table. " alt="" coords="202,5,333,47"/>
-<area shape="rect" id="node4" href="$classIntelPageTable.html#ad2cee9c31e810a79989f7944d8b49898" title="Translate virtual address to physical address. " alt="" coords="184,71,351,98"/>
-<area shape="rect" id="node3" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="399,13,553,39"/>
-</map>

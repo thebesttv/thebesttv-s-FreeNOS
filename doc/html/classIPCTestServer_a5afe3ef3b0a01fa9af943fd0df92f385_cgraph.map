@@ -1,5 +1,0 @@
-<map id="IPCTestServer::IPCTestServer" name="IPCTestServer::IPCTestServer">
-<area shape="rect" id="node2" href="$classChannelServer.html#a8a2abcf4992a5431dea74e4321f2da9c" title="Register a new IPC message action handler. " alt="" coords="257,5,495,47"/>
-<area shape="rect" id="node3" href="$classIPCTestServer.html#a6fd4112cbff0cb75170101ca3903ad50" title="Handler for ActionA messages. " alt="" coords="288,71,464,112"/>
-<area shape="rect" id="node4" href="$classIPCTestServer.html#a98e134e40e69d2a9222c5d2f63c7528d" title="Handler for ActionB messages. " alt="" coords="288,136,464,177"/>
-</map>

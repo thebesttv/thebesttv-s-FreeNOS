@@ -1,6 +1,0 @@
-<map id="kernel" name="kernel">
-<area shape="rect" id="node1" href="$group__kernel__intel.html" title="Intel architecture specific kernel code such as context switching and bootup code. " alt="" coords="176,5,223,32"/>
-<area shape="rect" id="node2" href="$group__kernelapi.html" title="Application Programming Interface (API) provided by the Kernel for user programs. ..." alt="" coords="111,56,288,83"/>
-<area shape="rect" id="node4" href="$group__kernel__arm.html" title="ARM architecture specific kernel code such as context switching and bootup code. " alt="" coords="173,107,225,133"/>
-<area shape="rect" id="node5" href="$group__kernelapi__handler.html" title="API handlers contain the kernel side implementation of the Application Programming Interface (API)..." alt="" coords="127,157,271,184"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="IntelIO::unset" name="IntelIO::unset">
-<area shape="rect" id="node2" href="$classIO.html#a49b27a2ee79bce0de4e3ef163cbebd30" title="Constructor. " alt="" coords="174,5,233,32"/>
-<area shape="rect" id="node3" href="$classIntelIO.html#a9ebec3347af983d7623001bf98a37b69" title="Read memory mapped register. " alt="" coords="156,56,251,83"/>
-<area shape="rect" id="node4" href="$classIntelIO.html#acac064b53744689861075df14670a208" title="Write memory mapped register. " alt="" coords="155,107,252,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Timer" name="Timer">
-<area shape="rect" id="node2" href="$classARMTimer.html" title="ARM Generic Timer. " alt="" coords="5,387,168,538"/>
-<area shape="rect" id="node3" href="$classBroadcomTimer.html" title="Broadcom System&#45;on&#45;Chip system timer. " alt="" coords="193,409,314,516"/>
-<area shape="rect" id="node4" href="$classIntelAPIC.html" title="Intel Advanced Programmable Interrupt Controller (APIC) " alt="" coords="338,336,467,589"/>
-<area shape="rect" id="node5" href="$classIntelPIT.html" title="Intel 8254 Programmable Interrupt Timer (PIT). " alt="" coords="491,380,615,545"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="usb" name="usb">
-<area shape="rect" id="node1" href="$group__server.html" title="Servers are programs that provide a part of the operating system in userspace, for example device dri..." alt="" coords="5,5,64,32"/>
-<area shape="rect" id="node2" href="$group__usb__controller.html" title="These servers contain USB controller device driver implementations. " alt="" coords="203,5,277,32"/>
-</map>

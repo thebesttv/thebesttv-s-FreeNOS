@@ -1,6 +1,0 @@
-<map id="TestReporter::collect" name="TestReporter::collect">
-<area shape="rect" id="node2" href="$classTestResult.html#ad0d90374857329e5ad55e11ded217cb8" title="Check if the test failed. " alt="" coords="211,5,350,32"/>
-<area shape="rect" id="node3" href="$classTestResult.html#ad46afc99cd0c54f32c02f2a672b25a53" title="Check if the test passed. " alt="" coords="219,56,342,83"/>
-<area shape="rect" id="node4" href="$classTestResult.html#aee67c49d2bc3027caa7b67c211968089" title="Check if the test is skipped. " alt="" coords="205,107,356,133"/>
-<area shape="rect" id="node5" href="$classTestReporter.html#a8f9b662d634fdfea0379dffb2fd29cfe" title="Report finish of a test. " alt="" coords="197,157,364,184"/>
-</map>

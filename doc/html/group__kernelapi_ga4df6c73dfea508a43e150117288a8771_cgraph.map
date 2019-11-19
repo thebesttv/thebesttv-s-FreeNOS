@@ -1,9 +1,0 @@
-<map id="WriteLong" name="WriteLong">
-<area shape="rect" id="node2" href="$group__kernelapi__handler.html#ga1195d0994acf9f2ad5592f3d335bccbb" title="Kernel handler prototype for various I/O functions. " alt="" coords="135,107,233,133"/>
-<area shape="rect" id="node8" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="140,157,228,184"/>
-<area shape="rect" id="node3" href="$classARMIO.html#a15f33ae908d563240aed6c5c7b559932" title="Read a byte from a port. " alt="" coords="287,5,378,32"/>
-<area shape="rect" id="node4" href="$classARMIO.html#ad6b1a8f949292ffd9e395e0972dc517c" title="Output a byte to a port. " alt="" coords="283,56,382,83"/>
-<area shape="rect" id="node5" href="$classARMIO.html#a2bfa36144acb8530253ec47d403b6e5a" title="Read a word from a port. " alt="" coords="285,107,380,133"/>
-<area shape="rect" id="node6" href="$classARMIO.html#a7b79edf1ce5ba5e96f23e80c5ec6bb6a" title="Output a word to a port. " alt="" coords="281,157,384,184"/>
-<area shape="rect" id="node7" href="$classARMIO.html#a01f0ee59b742e46c6fc6a3b1cbb62bf7" title="Output a long to a I/O port. " alt="" coords="285,208,380,235"/>
-</map>

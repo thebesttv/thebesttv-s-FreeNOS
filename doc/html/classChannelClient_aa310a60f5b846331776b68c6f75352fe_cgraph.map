@@ -1,5 +1,0 @@
-<map id="ChannelClient::receiveAny" name="ChannelClient::receiveAny">
-<area shape="rect" id="node2" href="$classChannelRegistry.html#a2a4f95cf74583932a726e8abf97a5366" title="Get all consumers. " alt="" coords="231,5,443,32"/>
-<area shape="rect" id="node3" href="$classHashIterator.html#ae0e2e0d8c2b992aa6734059ac052bb0d" title="Check if there is a current item. " alt="" coords="253,56,420,83"/>
-<area shape="rect" id="node4" href="$classListIterator.html#a6750d850524a46222fff4d24d1479f4c" title="Check if there is a current item on the List. " alt="" coords="491,56,647,83"/>
-</map>

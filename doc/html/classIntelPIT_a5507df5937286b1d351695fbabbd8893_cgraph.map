@@ -1,6 +1,0 @@
-<map id="IntelPIT::waitTrigger" name="IntelPIT::waitTrigger">
-<area shape="rect" id="node2" href="$classIntelPIT.html#a7de92c419ae60ab5ed33e5a30b4921e5" title="Get current timer counter. " alt="" coords="193,31,333,57"/>
-<area shape="rect" id="node3" href="$classIntelIO.html#a58a8c196cc79f0fe47688f250c4a67ee" title="Read a byte from a port. " alt="" coords="406,5,493,32"/>
-<area shape="rect" id="node4" href="$classIntelPIT.html#a3e7e1dedfe78ac70781e8d6b8be778df" title="Set Control register. " alt="" coords="381,56,517,83"/>
-<area shape="rect" id="node5" href="$classIntelIO.html#afdc3b7cf51a68c193f04a07e0d6e1514" title="Output a byte to a port. " alt="" coords="565,56,660,83"/>
-</map>

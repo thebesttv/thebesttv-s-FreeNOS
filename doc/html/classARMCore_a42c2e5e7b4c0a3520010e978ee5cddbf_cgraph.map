@@ -1,4 +1,0 @@
-<map id="ARMCore::logState" name="ARMCore::logState">
-<area shape="rect" id="node2" href="$classARMCore.html#a24a35b3575f173d45f898bcf7ae96be6" title="Log a register. " alt="" coords="189,5,344,32"/>
-<area shape="rect" id="node3" href="$classARMControl.html#aa41086e47dbff0987e6f2205cafbd85e" title="Read a register from the CP15. " alt="" coords="203,56,330,83"/>
-</map>

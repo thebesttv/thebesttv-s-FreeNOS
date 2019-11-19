@@ -1,7 +1,0 @@
-<map id="teken_subr_do_reset" name="teken_subr_do_reset">
-<area shape="rect" id="node2" href="$teken__scs_8h.html#aa488c4afc463e3423343884f0d658474" title="teken_scs_us_ascii" alt="" coords="209,5,347,32"/>
-<area shape="rect" id="node3" href="$teken__subr_8h.html#aa1cb923e17cbd637481809eca671d28f" title="teken_subr_save_cursor" alt="" coords="196,56,360,83"/>
-<area shape="rect" id="node4" href="$teken__subr_8h.html#a3c7758cdb6604eec672b218a4ad02ada" title="teken_tab_default" alt="" coords="215,107,341,133"/>
-<area shape="rect" id="node5" href="$group__libposix.html#ga9d73d3a02c9adaedb3aef9b17cf275f4" title="Fill memory with a constant byte. " alt="" coords="425,81,495,108"/>
-<area shape="rect" id="node6" href="$teken__subr_8h.html#a217070289179f40b5f27cf1d0efdac49" title="teken_tab_set" alt="" coords="408,132,512,159"/>
-</map>

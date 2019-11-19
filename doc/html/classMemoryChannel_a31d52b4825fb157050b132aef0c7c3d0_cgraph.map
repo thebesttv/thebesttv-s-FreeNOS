@@ -1,5 +1,0 @@
-<map id="MemoryChannel::flush" name="MemoryChannel::flush">
-<area shape="rect" id="node2" href="$classCache.html#a09585625a870f0cf9d46379ecc1244a7" title="Clean one data page. " alt="" coords="207,5,333,32"/>
-<area shape="rect" id="node4" href="$classIO.html#aa7928b1d2869033b7686e80f34d55bd5" title="Get I/O base offset. " alt="" coords="224,56,316,83"/>
-<area shape="rect" id="node3" href="$classCache.html#ac9e2011537a8785521eaefb181d51884" title="Clean one memory page. " alt="" coords="381,5,528,32"/>
-</map>

@@ -15,4 +15,4 @@ config.log
 *.orig
 *.tar.gz
 ChangeLog-*
-doc/
+doc-doxygen/

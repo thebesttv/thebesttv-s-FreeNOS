@@ -1,8 +1,0 @@
-<map id="lib/libposix/sys/wait.h" name="lib/libposix/sys/wait.h">
-<area shape="rect" id="node2" href="$Login_8cpp.html" title="bin/login/Login.cpp" alt="" coords="5,87,136,114"/>
-<area shape="rect" id="node3" href="$Shell_8cpp.html" title="bin/sh/Shell.cpp" alt="" coords="160,87,275,114"/>
-<area shape="rect" id="node4" href="$TimeCommand_8cpp.html" title="bin/sh/TimeCommand.cpp" alt="" coords="299,87,474,114"/>
-<area shape="rect" id="node5" href="$waitpid_8cpp.html" title="lib/libposix/sys/wait\l/waitpid.cpp" alt="" coords="499,80,635,121"/>
-<area shape="rect" id="node6" href="$ExternalTest_8cpp.html" title="lib/libtest/ExternalTest.cpp" alt="" coords="659,87,837,114"/>
-<area shape="rect" id="node7" href="$CoreServer_8cpp.html" title="server/core/CoreServer.cpp" alt="" coords="861,87,1043,114"/>
-</map>

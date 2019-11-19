@@ -1,5 +1,0 @@
-<map id="ARMTimer::tick" name="ARMTimer::tick">
-<area shape="rect" id="node2" href="$classARMTimer.html#a683cad49ff161ec85270eb343791c194" title="Retrieve system timer frequency. " alt="" coords="168,5,385,32"/>
-<area shape="rect" id="node3" href="$classARMTimer.html#a689f1e7fe26c754d39c42f954176226d" title="Set Timer 1 control value. " alt="" coords="189,56,365,83"/>
-<area shape="rect" id="node4" href="$classARMTimer.html#a89c66dc38402c74e73f68c140d9a23fb" title="Set Timer 1 value. " alt="" coords="177,107,377,133"/>
-</map>

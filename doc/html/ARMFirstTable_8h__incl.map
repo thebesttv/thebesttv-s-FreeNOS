@@ -1,9 +1,0 @@
-<map id="lib/libarch/arm/ARMFirstTable.h" name="lib/libarch/arm/ARMFirstTable.h">
-<area shape="rect" id="node3" href="$Types_8h.html" title="Types.h" alt="" coords="273,393,342,420"/>
-<area shape="rect" id="node4" href="$MemoryContext_8h.html" title="MemoryContext.h" alt="" coords="371,169,497,196"/>
-<area shape="rect" id="node9" href="$ARMSecondTable_8h.html" title="ARMSecondTable.h" alt="" coords="229,95,367,121"/>
-<area shape="rect" id="node5" href="$Macros_8h.html" title="Macros.h" alt="" coords="269,319,345,345"/>
-<area shape="rect" id="node6" href="$BitOperations_8h.html" title="BitOperations.h" alt="" coords="482,393,594,420"/>
-<area shape="rect" id="node7" href="$Memory_8h.html" title="Memory.h" alt="" coords="421,319,501,345"/>
-<area shape="rect" id="node8" href="$MemoryMap_8h.html" title="MemoryMap.h" alt="" coords="472,244,577,271"/>
-</map>

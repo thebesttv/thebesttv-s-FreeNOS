@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classAllocator.html" title="Memory Allocator. " alt="" coords="5,107,79,133"/>
-<area shape="rect" id="node2" href="$classBitAllocator.html" title="Bit memory allocator. " alt="" coords="139,5,228,32"/>
-<area shape="rect" id="node3" href="$classBubbleAllocator.html" title="Keeps growing allocated memory, and can&#39;t actually free memory (hence the name). " alt="" coords="127,56,240,83"/>
-<area shape="rect" id="node4" href="$classPageAllocator.html" title="Allocates virtual memory using the memory server. " alt="" coords="132,107,235,133"/>
-<area shape="rect" id="node5" href="$classPoolAllocator.html" title="Memory allocator which uses pools. " alt="" coords="134,157,233,184"/>
-<area shape="rect" id="node6" href="$classSplitAllocator.html" title="Allocator which separates kernel mapped low&#45;memory and higher memory. " alt="" coords="134,208,233,235"/>
-</map>

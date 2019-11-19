@@ -1,5 +1,0 @@
-<map id="PrivExecHandler" name="PrivExecHandler">
-<area shape="rect" id="node2" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="181,5,349,32"/>
-<area shape="rect" id="node3" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="173,56,356,83"/>
-<area shape="rect" id="node4" href="$classProcessManager.html#a6355b26bd944687ed85bdba0a8f03416" title="Set the idle process. " alt="" coords="181,107,348,133"/>
-</map>

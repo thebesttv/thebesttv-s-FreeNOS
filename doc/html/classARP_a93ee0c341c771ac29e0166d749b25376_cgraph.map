@@ -1,8 +1,0 @@
-<map id="ARP::sendReply" name="ARP::sendReply">
-<area shape="rect" id="node2" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="436,5,575,32"/>
-<area shape="rect" id="node3" href="$classIPV4.html#a576d750783f893603e0a50d19af6dbb8" title="Get current IP address. " alt="" coords="205,45,331,72"/>
-<area shape="rect" id="node4" href="$classEthernet.html#a60618d1805589b67c93fb7cd607c3590" title="Get a new packet for transmission. " alt="" coords="173,96,363,123"/>
-<area shape="rect" id="node7" href="$classNetworkDevice.html#a90c01d858f47ea5e4aae3de63569bcd2" title="Transmit one network packet. " alt="" coords="185,147,351,173"/>
-<area shape="rect" id="node5" href="$classNetworkDevice.html#aae60292ea5be2c9204bad3e341087944" title="Get transmit queue. " alt="" coords="411,78,600,119"/>
-<area shape="rect" id="node6" href="$classNetworkQueue.html#a9b9501dddae13170f4ecf4d0ae19b275" title="Get unused packet. " alt="" coords="438,144,573,171"/>
-</map>

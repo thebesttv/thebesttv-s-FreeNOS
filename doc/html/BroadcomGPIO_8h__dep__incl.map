@@ -1,9 +1,0 @@
-<map id="lib/libarch/arm/broadcom/BroadcomGPIO.h" name="lib/libarch/arm/broadcom/BroadcomGPIO.h">
-<area shape="rect" id="node2" href="$BroadcomGPIO_8cpp.html" title="lib/libarch/arm/broadcom\l/BroadcomGPIO.cpp" alt="" coords="5,95,169,136"/>
-<area shape="rect" id="node3" href="$BroadcomI2C_8h.html" title="lib/libi2c/BroadcomI2C.h" alt="" coords="193,102,357,129"/>
-<area shape="rect" id="node6" href="$BroadcomSPI_8h.html" title="lib/libspi/BroadcomSPI.h" alt="" coords="382,102,547,129"/>
-<area shape="rect" id="node4" href="$BroadcomI2C_8cpp.html" title="lib/libi2c/BroadcomI2C.cpp" alt="" coords="13,191,191,218"/>
-<area shape="rect" id="node5" href="$server_2i2c_2grovepi_2Main_8cpp.html" title="server/i2c/grovepi\l/Main.cpp" alt="" coords="215,184,341,225"/>
-<area shape="rect" id="node7" href="$BroadcomSPI_8cpp.html" title="lib/libspi/BroadcomSPI.cpp" alt="" coords="371,191,550,218"/>
-<area shape="rect" id="node8" href="$server_2nfc_2pn532_2Main_8cpp.html" title="server/nfc/pn532/Main.cpp" alt="" coords="574,191,750,218"/>
-</map>

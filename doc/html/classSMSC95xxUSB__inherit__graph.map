@@ -1,5 +1,0 @@
-<map id="SMSC95xxUSB" name="SMSC95xxUSB">
-<area shape="rect" id="node2" href="$classUSBDevice.html" title="USB device class. " alt="" coords="5,461,176,861"/>
-<area shape="rect" id="node3" href="$classDevice.html" title="Abstract device class interface. " alt="" coords="35,277,146,413"/>
-<area shape="rect" id="node4" href="$classFile.html" title="Represents a file present on a FileSystem. " alt="" coords="41,5,141,229"/>
-</map>

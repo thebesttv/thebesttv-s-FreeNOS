@@ -1,6 +1,0 @@
-<map id="Kernel::executeIntVector" name="Kernel::executeIntVector">
-<area shape="rect" id="node2" href="$classKernel.html#a78150ddbf611c5315beffade433d97f5" title="Enable or disable an hardware interrupt (IRQ). " alt="" coords="233,31,363,57"/>
-<area shape="rect" id="node5" href="$classListIterator.html#a6750d850524a46222fff4d24d1479f4c" title="Check if there is a current item on the List. " alt="" coords="220,81,376,108"/>
-<area shape="rect" id="node3" href="$classIntController.html#a4b6f8810ed57e31ab1b3dc823f6ca5cd" title="Disable hardware interrupt (IRQ). " alt="" coords="424,5,567,32"/>
-<area shape="rect" id="node4" href="$classIntController.html#af38bce3abca853e6ff728bbd3fc17b68" title="Enable hardware interrupt (IRQ). " alt="" coords="426,56,565,83"/>
-</map>

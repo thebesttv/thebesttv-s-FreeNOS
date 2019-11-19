@@ -1,5 +1,0 @@
-<map id="Kernel" name="Kernel">
-<area shape="rect" id="node3" href="$classARMKernel.html" title="Represents the ARM kernel implementation. " alt="" coords="5,535,160,715"/>
-<area shape="rect" id="node4" href="$classIntelKernel.html" title="Implements an x86 compatible kernel. " alt="" coords="184,542,288,707"/>
-<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; Kernel \&gt;\n|+ instance\l|+ Singleton()\l}" alt="" coords="90,5,227,83"/>
-</map>

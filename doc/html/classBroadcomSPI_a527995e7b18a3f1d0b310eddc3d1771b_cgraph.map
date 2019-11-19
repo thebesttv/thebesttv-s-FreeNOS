@@ -1,4 +1,0 @@
-<map id="BroadcomSPI::setClockDivider" name="BroadcomSPI::setClockDivider">
-<area shape="rect" id="node2" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="257,5,360,32"/>
-<area shape="rect" id="node3" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="408,5,455,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="ARMCacheV7::cleanAddress" name="ARMCacheV7::cleanAddress">
-<area shape="rect" id="node2" href="$group__libarch__arm.html#ga89596467a58726132500429f17e28f8e" title="Data Synchronisation Barrier. " alt="" coords="247,5,289,32"/>
-<area shape="rect" id="node3" href="$group__libarch__arm.html#ga1d551f3ef9c6508623db573e3e1c8ed0" title="Instruction Synchronisation Barrier (ARMv7 and above) " alt="" coords="249,56,287,83"/>
-</map>

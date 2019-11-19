@@ -1,5 +1,0 @@
-<map id="IntelPageDirectory::unmap" name="IntelPageDirectory::unmap">
-<area shape="rect" id="node2" href="$classIntelPageDirectory.html#a363a61c2e7066c97db6cc7188fbe6a9c" title="Retrieve second level page table. " alt="" coords="197,5,327,47"/>
-<area shape="rect" id="node4" href="$classIntelPageTable.html#afc57277664612b5fddeed3dc87489266" title="Remove virtual address mapping. " alt="" coords="184,71,340,98"/>
-<area shape="rect" id="node3" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="388,13,543,39"/>
-</map>

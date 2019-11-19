@@ -1,8 +1,0 @@
-<map id="lib/libmpi/mpi.h" name="lib/libmpi/mpi.h">
-<area shape="rect" id="node2" href="$bin_2mpiping_2Main_8cpp.html" title="bin/mpiping/Main.cpp" alt="" coords="5,80,151,107"/>
-<area shape="rect" id="node3" href="$bin_2mpiprime_2Main_8cpp.html" title="bin/mpiprime/Main.cpp" alt="" coords="175,80,328,107"/>
-<area shape="rect" id="node4" href="$MPI_8cpp.html" title="lib/libmpi/MPI.cpp" alt="" coords="352,80,479,107"/>
-<area shape="rect" id="node5" href="$MPI__Comm_8cpp.html" title="lib/libmpi/MPI_Comm.cpp" alt="" coords="503,80,675,107"/>
-<area shape="rect" id="node6" href="$MPI__Recv_8cpp.html" title="lib/libmpi/MPI_Recv.cpp" alt="" coords="699,80,863,107"/>
-<area shape="rect" id="node7" href="$MPI__Send_8cpp.html" title="lib/libmpi/MPI_Send.cpp" alt="" coords="887,80,1050,107"/>
-</map>

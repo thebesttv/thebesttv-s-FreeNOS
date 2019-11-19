@@ -1,7 +1,0 @@
-<map id="lib/libarch/CoreManager.h" name="lib/libarch/CoreManager.h">
-<area shape="rect" id="node2" href="$CoreManager_8cpp.html" title="lib/libarch/CoreManager.cpp" alt="" coords="5,80,189,107"/>
-<area shape="rect" id="node3" href="$IntelACPI_8h.html" title="lib/libarch/intel/IntelACPI.h" alt="" coords="214,80,391,107"/>
-<area shape="rect" id="node5" href="$IntelMP_8h.html" title="lib/libarch/intel/IntelMP.h" alt="" coords="423,80,588,107"/>
-<area shape="rect" id="node4" href="$IntelACPI_8cpp.html" title="lib/libarch/intel/IntelACPI.cpp" alt="" coords="203,155,394,181"/>
-<area shape="rect" id="node6" href="$IntelMP_8cpp.html" title="lib/libarch/intel/IntelMP.cpp" alt="" coords="419,155,597,181"/>
-</map>

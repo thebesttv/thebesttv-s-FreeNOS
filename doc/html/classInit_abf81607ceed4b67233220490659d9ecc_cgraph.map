@@ -1,8 +1,0 @@
-<map id="Init::Init" name="Init::Init">
-<area shape="rect" id="node2" href="$classApplication.html#aebd040ff73509d68c710a7bb834516f5" title="Get program arguments parser. " alt="" coords="159,5,289,32"/>
-<area shape="rect" id="node3" href="$classArgumentParser.html#ab3a7eaa7ae27087ad8c5dddefbe78dcf" title="Register a flag Argument. " alt="" coords="128,56,320,83"/>
-<area shape="rect" id="node7" href="$classArgumentParser.html#a8e84b945e1af8063ef9a92d7e3ddd516" title="Set program description. " alt="" coords="120,107,328,133"/>
-<area shape="rect" id="node4" href="$classHashTable.html#aca817cc527f487ee411e43d76300be51" title="Inserts the given item to the Assocation. " alt="" coords="399,5,524,32"/>
-<area shape="rect" id="node5" href="$classArgument.html#a7c94c53b0a6d910c4108957837c3c8cc" title="Set argument single line description. " alt="" coords="376,56,547,83"/>
-<area shape="rect" id="node6" href="$classArgument.html#a2c89bf16403a987c0bb3ebc4d2d79acf" title="Set argument identifier. " alt="" coords="384,107,539,133"/>
-</map>

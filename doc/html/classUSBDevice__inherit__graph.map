@@ -1,6 +1,0 @@
-<map id="USBDevice" name="USBDevice">
-<area shape="rect" id="node4" href="$classSMSC95xxUSB.html" title="SMSC95xx USB&#45;based Ethernet controller. " alt="" coords="5,909,176,1309"/>
-<area shape="rect" id="node5" href="$classUSBHub.html" title="USB Hub driver. " alt="" coords="201,1041,325,1177"/>
-<area shape="rect" id="node2" href="$classDevice.html" title="Abstract device class interface. " alt="" coords="121,277,231,413"/>
-<area shape="rect" id="node3" href="$classFile.html" title="Represents a file present on a FileSystem. " alt="" coords="126,5,226,229"/>
-</map>

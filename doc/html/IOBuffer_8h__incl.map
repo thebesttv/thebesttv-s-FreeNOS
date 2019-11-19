@@ -1,8 +1,0 @@
-<map id="lib/libfs/IOBuffer.h" name="lib/libfs/IOBuffer.h">
-<area shape="rect" id="node3" href="$Types_8h.html" title="Types.h" alt="" coords="281,229,351,256"/>
-<area shape="rect" id="node4" href="$FileSystemMessage_8h.html" title="FileSystemMessage.h" alt="" coords="240,80,392,107"/>
-<area shape="rect" id="node5" href="$ChannelMessage_8h.html" title="ChannelMessage.h" alt="" coords="354,155,489,181"/>
-<area shape="rect" id="node6" href="$FileType_8h.html" title="FileType.h" alt="" coords="549,229,632,256"/>
-<area shape="rect" id="node7" href="$FileMode_8h.html" title="FileMode.h" alt="" coords="191,155,278,181"/>
-<area shape="rect" id="node8" href="$FileStat_8h.html" title="FileStat.h" alt="" coords="513,155,591,181"/>
-</map>

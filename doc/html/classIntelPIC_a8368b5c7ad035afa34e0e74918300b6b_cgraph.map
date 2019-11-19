@@ -1,4 +1,0 @@
-<map id="IntelPIC::enable" name="IntelPIC::enable">
-<area shape="rect" id="node2" href="$classIntelIO.html#a58a8c196cc79f0fe47688f250c4a67ee" title="Read a byte from a port. " alt="" coords="173,5,260,32"/>
-<area shape="rect" id="node3" href="$classIntelIO.html#afdc3b7cf51a68c193f04a07e0d6e1514" title="Output a byte to a port. " alt="" coords="169,56,264,83"/>
-</map>

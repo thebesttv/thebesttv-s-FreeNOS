@@ -1,5 +1,0 @@
-<map id="DeviceServer::registerDevice" name="DeviceServer::registerDevice">
-<area shape="rect" id="node2" href="$classDevice.html#a280ab245f245173d4287edc84a51454c" title="Perform device specific initialization. " alt="" coords="267,5,386,32"/>
-<area shape="rect" id="node3" href="$classVector.html#ab799ad03fc3659650ae44574b7e37885" title="Adds the given item to the Vector, if possible. " alt="" coords="277,56,377,83"/>
-<area shape="rect" id="node4" href="$classFileSystem.html#a334300c3435c6ddd0053ee653a5446ae" title="Register a new File. " alt="" coords="247,107,407,133"/>
-</map>

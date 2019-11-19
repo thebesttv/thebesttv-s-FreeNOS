@@ -1,8 +1,0 @@
-<map id="kernel/Scheduler.h" name="kernel/Scheduler.h">
-<area shape="rect" id="node2" href="$ProcessManager_8h.html" title="kernel/ProcessManager.h" alt="" coords="185,80,356,107"/>
-<area shape="rect" id="node4" href="$Kernel_8cpp.html" title="kernel/Kernel.cpp" alt="" coords="309,229,432,256"/>
-<area shape="rect" id="node7" href="$Scheduler_8cpp.html" title="kernel/Scheduler.cpp" alt="" coords="459,80,603,107"/>
-<area shape="rect" id="node3" href="$Kernel_8h.html" title="kernel/Kernel.h" alt="" coords="16,155,125,181"/>
-<area shape="rect" id="node6" href="$ProcessManager_8cpp.html" title="kernel/ProcessManager.cpp" alt="" coords="149,155,333,181"/>
-<area shape="rect" id="node5" href="$Support_8cpp.html" title="kernel/Support.cpp" alt="" coords="5,229,136,256"/>
-</map>

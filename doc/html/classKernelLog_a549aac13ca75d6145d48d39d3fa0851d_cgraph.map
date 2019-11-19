@@ -1,9 +1,0 @@
-<map id="KernelLog::write" name="KernelLog::write">
-<area shape="rect" id="node2" href="$group__kernelapi.html#ga718913fc242432ef252d83bca728e4c5" title="Prototype for user applications. " alt="" coords="169,56,244,83"/>
-<area shape="rect" id="node3" href="$group__terminal.html#ga2efd1d9f5e85424a7d7a9e436ae443ab" title="Set terminal parameters. " alt="" coords="323,5,381,32"/>
-<area shape="rect" id="node4" href="$group__kernelapi__handler.html#gaf712e128a64ab08bfd0a98816fde1470" title="Prototype for kernel handler. " alt="" coords="292,56,412,83"/>
-<area shape="rect" id="node8" href="$group__kernel__arm.html#gaa30990a24050b84a866afa2017f6853a" title="Perform a kernel trap with 2 arguments. " alt="" coords="308,107,396,133"/>
-<area shape="rect" id="node5" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="467,5,635,32"/>
-<area shape="rect" id="node6" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="460,56,643,83"/>
-<area shape="rect" id="node7" href="$classProcessManager.html#a6355b26bd944687ed85bdba0a8f03416" title="Set the idle process. " alt="" coords="468,107,635,133"/>
-</map>

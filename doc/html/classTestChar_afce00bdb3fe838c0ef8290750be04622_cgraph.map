@@ -1,6 +1,0 @@
-<map id="TestChar::unique" name="TestChar::unique">
-<area shape="rect" id="node2" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="176,5,315,32"/>
-<area shape="rect" id="node3" href="$classTestData.html#a814b4750faa69f453b9159d486132e05" title="The number of generated values. " alt="" coords="187,56,303,83"/>
-<area shape="rect" id="node4" href="$classVector.html#ab799ad03fc3659650ae44574b7e37885" title="Adds the given item to the Vector, if possible. " alt="" coords="195,107,295,133"/>
-<area shape="rect" id="node5" href="$classTestInt.html#a9c14ce1775002cfd45af2b05e89fa48d" title="Get random test value(s). " alt="" coords="188,157,303,184"/>
-</map>

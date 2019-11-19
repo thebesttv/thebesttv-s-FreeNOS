@@ -1,4 +1,0 @@
-<map id="IntelKernel::interrupt" name="IntelKernel::interrupt">
-<area shape="rect" id="node2" href="$classIntController.html#a7fbed035d20fea930834e1110486588a" title="Clear hardware interrupt (IRQ). " alt="" coords="202,5,331,32"/>
-<area shape="rect" id="node3" href="$classIntController.html#a58d145bd484e44c662203c6ad89fcf41" title="Get interrupt number base offset. " alt="" coords="192,56,341,83"/>
-</map>

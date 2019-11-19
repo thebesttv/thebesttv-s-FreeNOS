@@ -1,4 +1,0 @@
-<map id="ELF::regions" name="ELF::regions">
-<area shape="rect" id="node2" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="149,5,288,32"/>
-<area shape="rect" id="node3" href="$group__libposix.html#ga9d73d3a02c9adaedb3aef9b17cf275f4" title="Fill memory with a constant byte. " alt="" coords="184,56,253,83"/>
-</map>

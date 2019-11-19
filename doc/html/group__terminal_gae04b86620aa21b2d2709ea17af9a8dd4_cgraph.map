@@ -1,7 +1,0 @@
-<map id="fill" name="fill">
-<area shape="rect" id="node2" href="$classTerminal.html#ad850c833030b0a56b40f4e541e3345f7" title="Retrieve a pointer to the local buffer. " alt="" coords="101,5,234,32"/>
-<area shape="rect" id="node3" href="$classTerminal.html#ab4458c36ae0ea7c660933f054e2d0a2c" title="Retrieve the width of the Terminal. " alt="" coords="101,56,233,83"/>
-<area shape="rect" id="node4" href="$classTerminal.html#a3b44ff74df429ab72c73bd920eaa2686" title="Hides the cursor from the VGA screen. " alt="" coords="96,107,239,133"/>
-<area shape="rect" id="node5" href="$classTerminal.html#ad1c2ffea180ef92347982c0e247bb393" title="Show the VGA cursor. " alt="" coords="92,157,243,184"/>
-<area shape="rect" id="node6" href="$classTerminal.html#a0573be232f02adbbbb7d12fefef628d7" title="Sets the new position of the cursor. " alt="" coords="291,157,428,184"/>
-</map>

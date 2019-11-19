@@ -1,7 +1,0 @@
-<map id="lib/libfs/FileSystemMessage.h" name="lib/libfs/FileSystemMessage.h">
-<area shape="rect" id="node3" href="$Types_8h.html" title="Types.h" alt="" coords="319,155,389,181"/>
-<area shape="rect" id="node4" href="$ChannelMessage_8h.html" title="ChannelMessage.h" alt="" coords="219,80,353,107"/>
-<area shape="rect" id="node5" href="$FileType_8h.html" title="FileType.h" alt="" coords="525,155,607,181"/>
-<area shape="rect" id="node6" href="$FileMode_8h.html" title="FileMode.h" alt="" coords="377,80,464,107"/>
-<area shape="rect" id="node7" href="$FileStat_8h.html" title="FileStat.h" alt="" coords="488,80,567,107"/>
-</map>

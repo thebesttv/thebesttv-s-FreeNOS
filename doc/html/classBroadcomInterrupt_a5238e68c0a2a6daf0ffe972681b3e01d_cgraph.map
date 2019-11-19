@@ -1,4 +1,0 @@
-<map id="BroadcomInterrupt::disable" name="BroadcomInterrupt::disable">
-<area shape="rect" id="node2" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="191,13,293,39"/>
-<area shape="rect" id="node3" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="341,13,388,39"/>
-</map>

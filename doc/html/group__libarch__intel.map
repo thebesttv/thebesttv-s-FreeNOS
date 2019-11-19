@@ -1,6 +1,0 @@
-<map id="Intel" name="Intel">
-<area shape="rect" id="node1" href="$group__kernel__intel.html" title="Intel architecture specific kernel code such as context switching and bootup code. " alt="" coords="273,5,320,32"/>
-<area shape="rect" id="node3" href="$group__libarch__arm.html" title="ARM architecture specific code such as caching, virtual memory and exception/interrupt handling..." alt="" coords="271,73,323,100"/>
-<area shape="rect" id="node5" href="$group__kernel__arm.html" title="ARM architecture specific kernel code such as context switching and bootup code. " alt="" coords="271,141,323,168"/>
-<area shape="rect" id="node4" href="$group__libarch.html" title="The architectures library provides code for specific processor architectures. " alt="" coords="5,73,65,100"/>
-</map>

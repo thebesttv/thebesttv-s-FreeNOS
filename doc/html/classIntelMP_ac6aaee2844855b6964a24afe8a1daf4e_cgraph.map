@@ -1,7 +1,0 @@
-<map id="IntelMP::discover" name="IntelMP::discover">
-<area shape="rect" id="node2" href="$classList.html#a6d5ac6e974aceab64e378d6c636a547a" title="Clears the entire List. " alt="" coords="213,5,292,32"/>
-<area shape="rect" id="node3" href="$classIO.html#aa7928b1d2869033b7686e80f34d55bd5" title="Get I/O base offset. " alt="" coords="207,56,299,83"/>
-<area shape="rect" id="node4" href="$classIntelMP.html#a3d44b1d163f985152fa27011f066c149" title="Parse Multiprocessor Config entry. " alt="" coords="183,107,322,133"/>
-<area shape="rect" id="node6" href="$classIntelMP.html#a6160c150670b671a0a5450ccf5af96a3" title="Scan memory for a Multiprocessor Config structure. " alt="" coords="177,157,328,184"/>
-<area shape="rect" id="node5" href="$classList.html#a1d98fead7daa6f5e58416552bad82941" title="Insert an item at the end of the list. " alt="" coords="376,107,469,133"/>
-</map>

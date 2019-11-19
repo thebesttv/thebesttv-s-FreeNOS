@@ -1,9 +1,0 @@
-<map id="lib/libfs/FileSystemRequest.h" name="lib/libfs/FileSystemRequest.h">
-<area shape="rect" id="node2" href="$FileSystemMessage_8h.html" title="FileSystemMessage.h" alt="" coords="293,155,445,181"/>
-<area shape="rect" id="node9" href="$IOBuffer_8h.html" title="IOBuffer.h" alt="" coords="432,80,515,107"/>
-<area shape="rect" id="node4" href="$Types_8h.html" title="Types.h" alt="" coords="316,304,385,331"/>
-<area shape="rect" id="node5" href="$ChannelMessage_8h.html" title="ChannelMessage.h" alt="" coords="149,229,283,256"/>
-<area shape="rect" id="node6" href="$FileType_8h.html" title="FileType.h" alt="" coords="5,304,88,331"/>
-<area shape="rect" id="node7" href="$FileMode_8h.html" title="FileMode.h" alt="" coords="307,229,394,256"/>
-<area shape="rect" id="node8" href="$FileStat_8h.html" title="FileStat.h" alt="" coords="46,229,125,256"/>
-</map>

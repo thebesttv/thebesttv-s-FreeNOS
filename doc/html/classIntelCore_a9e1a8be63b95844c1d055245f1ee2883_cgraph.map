@@ -1,5 +1,0 @@
-<map id="IntelCore::logException" name="IntelCore::logException">
-<area shape="rect" id="node2" href="$classIntelCore.html#a31b93dd00b1be9620db44ff0ed7c87eb" title="Log the CPU state. " alt="" coords="214,5,345,32"/>
-<area shape="rect" id="node4" href="$classIntelCore.html#aac217c5fa40e79e3e33189fee12746e9" title="Read the CR2 register. " alt="" coords="212,56,347,83"/>
-<area shape="rect" id="node3" href="$classIntelCore.html#a418c9745a356fa515d20072fa86d53c9" title="Log a register. " alt="" coords="395,5,544,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="BitArray::BitArray" name="BitArray::BitArray">
-<area shape="rect" id="node2" href="$classBitArray.html#a1462f535c26e2c3a541146272176de21" title="Retrieve a pointer to the internal BitArray. " alt="" coords="177,5,284,32"/>
-<area shape="rect" id="node3" href="$classBitArray.html#a94a5195aaf5a5c222aada7f27310bd8e" title="Set all bits to zero. " alt="" coords="178,56,283,83"/>
-<area shape="rect" id="node5" href="$classBitArray.html#add63c74fda83c98ec5017357c3a36375" title="Returns the maximum size of this Container. " alt="" coords="180,107,281,133"/>
-<area shape="rect" id="node4" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="332,56,460,83"/>
-</map>

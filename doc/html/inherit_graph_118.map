@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classProcess.html" title="Represents a process which may run on the host. " alt="" coords="5,31,76,57"/>
-<area shape="rect" id="node2" href="$classARMProcess.html" title="ARM specific process implementation. " alt="" coords="124,5,224,32"/>
-<area shape="rect" id="node3" href="$classIntelProcess.html" title="Process which may execute on an Intel CPU. " alt="" coords="127,56,221,83"/>
-</map>

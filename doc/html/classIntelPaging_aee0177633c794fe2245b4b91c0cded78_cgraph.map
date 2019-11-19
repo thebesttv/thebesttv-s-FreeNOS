@@ -1,9 +1,0 @@
-<map id="IntelPaging::releaseRange" name="IntelPaging::releaseRange">
-<area shape="rect" id="node2" href="$classIntelPageDirectory.html#a069d25e59eae426a256e8e8ed03a45af" title="Release range of memory. " alt="" coords="228,64,359,105"/>
-<area shape="rect" id="node3" href="$classIntelPageDirectory.html#a363a61c2e7066c97db6cc7188fbe6a9c" title="Retrieve second level page table. " alt="" coords="425,5,555,47"/>
-<area shape="rect" id="node5" href="$classSplitAllocator.html#adb3170b82a862ffb4facf52f3c636663" title="Release memory. " alt="" coords="415,71,565,98"/>
-<area shape="rect" id="node8" href="$classIntelPageTable.html#ad2cee9c31e810a79989f7944d8b49898" title="Translate virtual address to physical address. " alt="" coords="407,122,573,149"/>
-<area shape="rect" id="node4" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="621,13,776,39"/>
-<area shape="rect" id="node6" href="$classBitAllocator.html#a2c69b0df232ec3d62bb1a897116ea8df" title="Release memory chunk. " alt="" coords="629,71,768,98"/>
-<area shape="rect" id="node7" href="$classBitArray.html#a36a00a7cd2016b0113056fe9599b75c3" title="Sets the given bit to zero. " alt="" coords="824,71,933,98"/>
-</map>

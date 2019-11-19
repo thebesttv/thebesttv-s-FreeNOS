@@ -1,6 +1,0 @@
-<map id="IntelPaging::lookup" name="IntelPaging::lookup">
-<area shape="rect" id="node2" href="$classIntelPageDirectory.html#a37641eb97b1fc02241a360456b90f8f6" title="Translate virtual address to physical address. " alt="" coords="187,35,317,76"/>
-<area shape="rect" id="node3" href="$classIntelPageDirectory.html#a363a61c2e7066c97db6cc7188fbe6a9c" title="Retrieve second level page table. " alt="" coords="383,5,514,47"/>
-<area shape="rect" id="node5" href="$classIntelPageTable.html#ad2cee9c31e810a79989f7944d8b49898" title="Translate virtual address to physical address. " alt="" coords="365,71,532,98"/>
-<area shape="rect" id="node4" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="580,13,735,39"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ICMP" name="ICMP">
-<area shape="rect" id="node2" href="$classNetworkProtocol.html" title="Network protocol abstraction class. " alt="" coords="5,505,189,656"/>
-<area shape="rect" id="node3" href="$classDirectory.html" title="Directory File functionality. " alt="" coords="46,277,149,457"/>
-<area shape="rect" id="node4" href="$classFile.html" title="Represents a file present on a FileSystem. " alt="" coords="47,5,147,229"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="SplitAllocator::allocate" name="SplitAllocator::allocate">
-<area shape="rect" id="node2" href="$classSplitAllocator.html#a38bb818e168c9f188de6d8c0a28c3771" title="Allocate from high memory. " alt="" coords="205,56,384,83"/>
-<area shape="rect" id="node5" href="$classSplitAllocator.html#ac854862ab9204ba2994aca7e1ebf163d" title="Allocate from lower memory. " alt="" coords="207,5,383,32"/>
-<area shape="rect" id="node3" href="$classBitAllocator.html#a387bb74bd91c3818a8238e35b92f4e87" title="Allocate memory. " alt="" coords="432,5,575,32"/>
-<area shape="rect" id="node4" href="$classBitAllocator.html#aef0d800381639769a03746bde4e5e6a2" title="Get base memory address. " alt="" coords="441,56,566,83"/>
-</map>

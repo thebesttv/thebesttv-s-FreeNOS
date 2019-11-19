@@ -1,9 +1,0 @@
-<map id="Scheduler::select" name="Scheduler::select">
-<area shape="rect" id="node2" href="$classVector.html#ad4ec64e1b926715078b114a8aec5bfe7" title="Return item at the given position as a reference. " alt="" coords="218,5,297,32"/>
-<area shape="rect" id="node3" href="$classProcess.html#a051b000ed769d5d7f3fc3d1e393bd22c" title="Get sleep timer. " alt="" coords="176,56,339,83"/>
-<area shape="rect" id="node4" href="$classProcess.html#a6646d3a3c0c0a8bc38a7b13a0742f2b7" title="Retrieves the current state. " alt="" coords="194,107,321,133"/>
-<area shape="rect" id="node5" href="$classTimer.html#ac5a06c01ff30bfa4be9f458676aa6ad5" title="Check if a timer value is expired. " alt="" coords="199,157,316,184"/>
-<area shape="rect" id="node6" href="$classVector.html#a71a2cdd05ceafcfcfd4e739fafac88dc" title="Returns the maximum size of this Vector. " alt="" coords="211,208,303,235"/>
-<area shape="rect" id="node7" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="196,259,319,285"/>
-<area shape="rect" id="node8" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="387,259,515,285"/>
-</map>

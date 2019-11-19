@@ -1,5 +1,0 @@
-<map id="Cache" name="Cache">
-<area shape="rect" id="node2" href="$classARMCacheV6.html" title="ARMv6 cache management implementation. " alt="" coords="5,233,183,355"/>
-<area shape="rect" id="node3" href="$classARMCacheV7.html" title="ARMv7 cache management implementation. " alt="" coords="207,204,384,384"/>
-<area shape="rect" id="node4" href="$classIntelCache.html" title="Intel cache management implementation. " alt="" coords="408,233,585,355"/>
-</map>

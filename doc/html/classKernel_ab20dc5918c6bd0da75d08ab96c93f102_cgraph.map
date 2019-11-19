@@ -1,4 +1,0 @@
-<map id="Kernel::getMemoryContext" name="Kernel::getMemoryContext">
-<area shape="rect" id="node2" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="243,5,411,32"/>
-<area shape="rect" id="node3" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="232,56,421,83"/>
-</map>

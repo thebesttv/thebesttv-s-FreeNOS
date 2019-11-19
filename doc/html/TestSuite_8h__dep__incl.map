@@ -1,7 +1,0 @@
-<map id="lib/libtest/TestSuite.h" name="lib/libtest/TestSuite.h">
-<area shape="rect" id="node2" href="$DirectoryScanner_8cpp.html" title="lib/libtest/DirectoryScanner.cpp" alt="" coords="5,80,209,107"/>
-<area shape="rect" id="node3" href="$TestInstance_8cpp.html" title="lib/libtest/TestInstance.cpp" alt="" coords="234,80,413,107"/>
-<area shape="rect" id="node4" href="$TestMain_8h.html" title="lib/libtest/TestMain.h" alt="" coords="437,80,580,107"/>
-<area shape="rect" id="node5" href="$TestRunner_8cpp.html" title="lib/libtest/TestRunner.cpp" alt="" coords="605,80,775,107"/>
-<area shape="rect" id="node6" href="$TestSuite_8cpp.html" title="lib/libtest/TestSuite.cpp" alt="" coords="800,80,959,107"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Allocator" name="Allocator">
-<area shape="rect" id="node2" href="$classBitAllocator.html" title="Bit memory allocator. " alt="" coords="5,336,115,589"/>
-<area shape="rect" id="node3" href="$classBubbleAllocator.html" title="Keeps growing allocated memory, and can&#39;t actually free memory (hence the name). " alt="" coords="139,380,272,545"/>
-<area shape="rect" id="node4" href="$classPageAllocator.html" title="Allocates virtual memory using the memory server. " alt="" coords="296,373,419,553"/>
-<area shape="rect" id="node5" href="$classPoolAllocator.html" title="Memory allocator which uses pools. " alt="" coords="443,387,562,538"/>
-<area shape="rect" id="node6" href="$classSplitAllocator.html" title="Allocator which separates kernel mapped low&#45;memory and higher memory. " alt="" coords="586,336,713,589"/>
-</map>
