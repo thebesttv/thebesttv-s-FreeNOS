@@ -93,7 +93,7 @@ template <class T> class Vector : public Sequence<T>
     virtual int insert(const T & item)
     {
         if (m_count == m_size)
-            if (!resize(m_size*2))
+            if (!resize(m_size * 2))  // 扩展方案：加倍
                 return -1;
 
         m_array[m_count++] = item;
@@ -115,14 +115,14 @@ template <class T> class Vector : public Sequence<T>
         // Resize the vector if needed
         if (position >= m_size)
         {
-            Size increase = position > (m_size * 2) ? position : m_size * 2;
+            Size new_size = position >= (m_size * 2) ? position + 1 : m_size * 2;
 
-            if (!resize(m_size+increase))
+            if (!resize(new_size))
                 return false;
         }
         // Update the item count if needed
         if (position >= m_count)
-            m_count += (position+1) - m_count;
+            m_count = position + 1;
 
         // Assign the item
         m_array[position] = item;
@@ -219,7 +219,7 @@ template <class T> class Vector : public Sequence<T>
     /**
      * Resize the Vector.
      *
-     * @param increase Size to add to the Vector.
+     * @param size New size of the Vector.
      */
     virtual bool resize(Size size)
     {
