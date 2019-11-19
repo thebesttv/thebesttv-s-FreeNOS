@@ -32,7 +32,7 @@
  */
 
 /**
- * Sequences are containers that provide indexed based storage of items.
+ * Sequences are containers that provide *index-based storage* of items.
  */
 template <class T> class Sequence : public Container, public Comparable<Sequence<T> >
 {
@@ -168,7 +168,7 @@ template <class T> class Sequence : public Container, public Comparable<Sequence
         {
             if (at(i) != s.at(i))
             {
-                return i + 1;
+                return i + 1;   // 不能返回 s.at(i) - at(i), 变量可能不支持相减
             }
         }
         return 0;

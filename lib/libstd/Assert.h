@@ -121,10 +121,11 @@ extern C int __assertWrite(Address addr);
  * @}
  */
 
-#else
+#else   // #if defined(__ASSERT__) && !defined(__HOST__)
 
 /**
  * @name Dummy preprocessor macros
+ * macros that expand to nothing, 相当于删除宏定义
  * @{
  */
 

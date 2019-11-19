@@ -56,12 +56,12 @@ template <class T> class Comparable
      * Compares this Comparable to the given Comparable.
      *
      * This function checks whether this Comparable is equal to,
-     * less, or greater then the given Comparable.
+     * less, or greater than the given Comparable.
      *
      * @param c The Comparable to compare us to.
      *
-     * @return an int < 0, 0, > 0 if we are respectively less then,
-     *         equal to or greater then the given Comparable.
+     * @return an int less than 0, equal to 0, greater than 0 if we are respectively less than,
+     *         equal to or greater than the given Comparable.
      */
     virtual int compareTo(const T &t) const = 0;
 };

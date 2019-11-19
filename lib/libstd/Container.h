@@ -31,6 +31,8 @@
 
 /**
  * Containers provide access to stored items.
+ *  -> sequence
+ *    -> List, Array, Vector, String
  */
 class Container
 {
@@ -48,13 +50,15 @@ class Container
 
     /**
      * Returns the maximum size of this Container.
-     *
+     * ~ STL capacity
+     * 
      * @return size The maximum size of this Container.
      */
     virtual Size size() const = 0;
 
     /**
      * Returns the number of items inside the Container.
+     * ~ STL size
      *
      * @return Number of items inside the Container.
      */
@@ -82,7 +86,8 @@ class Container
     virtual bool reserve(Size size);
 
     /**
-     * Shrink the container size by the given amount of items.
+     * Shrink the container size **by the given amount of items**.
+     * 尝试缩小 size 个元素
      *
      * @param size Number of items to shrink.
      *
@@ -92,6 +97,7 @@ class Container
 
     /**
      * Try to minimize the memory required in the Container.
+     * ~ STL shrink_to_fit
      *
      * @return New size of the Container.
      */

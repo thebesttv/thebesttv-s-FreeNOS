@@ -32,7 +32,7 @@ bool Container::isEmpty() const
 
 bool Container::reserve(Size size)
 {
-    if (this->size() > size)
+    if (this->size() > size)    // ??? 改为 >= 是否可行
         return true;
 
     return resize(size);

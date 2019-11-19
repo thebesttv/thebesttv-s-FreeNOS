@@ -79,6 +79,7 @@
 
 /**
  * Calculate a division, and round to up any remaining.
+ * ~ ceil(), 上取整
  *
  * @param number Input number.
  * @param divisor Divisor number.
