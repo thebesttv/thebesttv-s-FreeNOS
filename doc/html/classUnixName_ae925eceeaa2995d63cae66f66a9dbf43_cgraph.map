@@ -1,0 +1,8 @@
+<map id="UnixName::UnixName" name="UnixName::UnixName">
+<area shape="rect" id="node2" href="$classApplication.html#aebd040ff73509d68c710a7bb834516f5" title="Get program arguments parser. " alt="" coords="247,5,377,32"/>
+<area shape="rect" id="node3" href="$classArgumentParser.html#ab3a7eaa7ae27087ad8c5dddefbe78dcf" title="Register a flag Argument. " alt="" coords="216,56,408,83"/>
+<area shape="rect" id="node7" href="$classArgumentParser.html#a8e84b945e1af8063ef9a92d7e3ddd516" title="Set program description. " alt="" coords="208,107,416,133"/>
+<area shape="rect" id="node4" href="$classHashTable.html#aca817cc527f487ee411e43d76300be51" title="Inserts the given item to the Assocation. " alt="" coords="487,5,612,32"/>
+<area shape="rect" id="node5" href="$classArgument.html#a7c94c53b0a6d910c4108957837c3c8cc" title="Set argument single line description. " alt="" coords="464,56,635,83"/>
+<area shape="rect" id="node6" href="$classArgument.html#a2c89bf16403a987c0bb3ebc4d2d79acf" title="Set argument identifier. " alt="" coords="472,107,627,133"/>
+</map>

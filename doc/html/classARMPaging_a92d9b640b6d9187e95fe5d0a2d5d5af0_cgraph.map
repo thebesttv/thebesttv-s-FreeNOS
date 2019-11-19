@@ -1,0 +1,16 @@
+<map id="ARMPaging::~ARMPaging" name="ARMPaging::~ARMPaging">
+<area shape="rect" id="node2" href="$classARMCacheV6.html#a88a0e4e6579549ffef53e6b80a970d5f" title="Clean and invalidate entire cache. " alt="" coords="232,58,433,85"/>
+<area shape="rect" id="node3" href="$group__libarch__arm.html#ga89596467a58726132500429f17e28f8e" title="Data Synchronisation Barrier. " alt="" coords="535,8,577,34"/>
+<area shape="rect" id="node6" href="$classARMPaging.html#a4c06379b67d6d5ca46c24e4c6abbf029" title="Enable the MMU. " alt="" coords="247,109,418,136"/>
+<area shape="rect" id="node7" href="$group__libarch__arm.html#ga1d551f3ef9c6508623db573e3e1c8ed0" title="Instruction Synchronisation Barrier (ARMv7 and above) " alt="" coords="313,160,352,186"/>
+<area shape="rect" id="node8" href="$classARMControl.html#aa41086e47dbff0987e6f2205cafbd85e" title="Read a register from the CP15. " alt="" coords="269,210,396,237"/>
+<area shape="rect" id="node9" href="$classSplitAllocator.html#adb3170b82a862ffb4facf52f3c636663" title="Release memory. " alt="" coords="258,261,407,288"/>
+<area shape="rect" id="node12" href="$classARMControl.html#a4a0d74addec1ccb0ca90f141900ee51b" title="Set system control flags in CP15. " alt="" coords="273,312,393,338"/>
+<area shape="rect" id="node13" href="$group__libarch__arm.html#ga0c9096ed590f14b0a713ca0595c9fd63" title="Flush the entire Translation Lookaside Buffer. " alt="" coords="287,362,378,389"/>
+<area shape="rect" id="node14" href="$classARMControl.html#ac65a5bdb352b7e82c3aaddf522c54283" title="Unset system control flags in CP15. " alt="" coords="265,413,400,440"/>
+<area shape="rect" id="node15" href="$classARMControl.html#a4b6c2c296835ec08ed73de83d7eb0b7b" title="Write register to the CP15. " alt="" coords="267,464,398,490"/>
+<area shape="rect" id="node4" href="$group__libarch__arm.html#ga7977246fb5cd6d8ce8eec8d67aed7bf3" title="Flush branch prediction. " alt="" coords="481,58,631,85"/>
+<area shape="rect" id="node5" href="$group__libarch__arm.html#ga5eba99ff73d51e209ec4334a7b111a0c" title="Flush Prefetch Buffer. " alt="" coords="489,109,623,136"/>
+<area shape="rect" id="node10" href="$classBitAllocator.html#a2c69b0df232ec3d62bb1a897116ea8df" title="Release memory chunk. " alt="" coords="487,261,625,288"/>
+<area shape="rect" id="node11" href="$classBitArray.html#a36a00a7cd2016b0113056fe9599b75c3" title="Sets the given bit to zero. " alt="" coords="679,261,788,288"/>
+</map>

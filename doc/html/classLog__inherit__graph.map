@@ -1,0 +1,7 @@
+<map id="Log" name="Log">
+<area shape="rect" id="node3" href="$classIntelSerial.html" title="Intel Serial port debug log class. " alt="" coords="5,417,105,509"/>
+<area shape="rect" id="node4" href="$classKernelLog.html" title="Log to the kernel using PrivExec(). " alt="" coords="129,417,229,509"/>
+<area shape="rect" id="node5" href="$classRaspiSerial.html" title="BCM2835 specific UART logging implementation for the ARMKernel. " alt="" coords="254,388,363,539"/>
+<area shape="rect" id="node6" href="$classStdioLog.html" title="Log to standard output. " alt="" coords="387,417,481,509"/>
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; Log \&gt;\n|+ instance\l|+ Singleton()\l}" alt="" coords="183,5,304,83"/>
+</map>

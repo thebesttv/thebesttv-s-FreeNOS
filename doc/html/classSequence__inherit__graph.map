@@ -1,0 +1,8 @@
+<map id="Sequence&lt; T &gt;" name="Sequence&lt; T &gt;">
+<area shape="rect" id="node4" href="$classArray.html" title="This is a wrapper class for a fixed size array. " alt="" coords="5,630,91,810"/>
+<area shape="rect" id="node5" href="$classIndex.html" title="Index is a resizable array of pointers to items. " alt="" coords="115,586,221,854"/>
+<area shape="rect" id="node6" href="$classList.html" title="Simple linked list template class. " alt="" coords="245,593,352,847"/>
+<area shape="rect" id="node7" href="$classVector.html" title="Vectors are dynamically resizeable Arrays. " alt="" coords="376,579,475,861"/>
+<area shape="rect" id="node2" href="$classContainer.html" title="Containers provide access to stored items. " alt="" coords="101,5,208,215"/>
+<area shape="rect" id="node3" href="$classComparable.html" title="{Comparable\&lt; Sequence\l\&lt; T \&gt; \&gt;\n||+ ~Comparable()\l+ equals()\l+ compareTo()\l}" alt="" coords="232,49,395,171"/>
+</map>

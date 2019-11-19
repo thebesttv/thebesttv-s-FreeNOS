@@ -1,0 +1,6 @@
+<map id="Character::isAlnum" name="Character::isAlnum">
+<area shape="rect" id="node2" href="$namespaceCharacter.html#a2deefdfb42ee6791aa34371de1f06d94" title="Test for an alphabetic character. " alt="" coords="188,31,319,57"/>
+<area shape="rect" id="node5" href="$namespaceCharacter.html#aa4897d8a49282497c97561b3ee9f0c70" title="Test for a decimal digit. " alt="" coords="191,81,315,108"/>
+<area shape="rect" id="node3" href="$namespaceCharacter.html#acfa120ffb8aa088c402d4a5174c292f7" title="Test for an uppercase letter. " alt="" coords="367,5,499,32"/>
+<area shape="rect" id="node4" href="$namespaceCharacter.html#ac2f23f0539d880e9e9b901ca0d2302e0" title="Test for a lowercase letter. " alt="" coords="367,56,499,83"/>
+</map>

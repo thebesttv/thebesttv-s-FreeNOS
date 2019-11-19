@@ -1,0 +1,51 @@
+<map id="BenchMark::exec" name="BenchMark::exec">
+<area shape="rect" id="node2" href="$group__libposix.html#ga890ebdda363ac10fdb2147915fd88e66" title="Output a formatted string to standard output. " alt="" coords="193,715,244,741"/>
+<area shape="rect" id="node8" href="$group__kernelapi.html#ga12fbd36d91338390f4a6742d5014549b" title="Prototype for user applications. " alt="" coords="1085,551,1172,577"/>
+<area shape="rect" id="node31" href="$group__libposix.html#gae191761bbeb366d70e6a040eb7a0531a" title="Get file status. " alt="" coords="197,841,241,868"/>
+<area shape="rect" id="node40" href="$group__libarch__intel.html#ga45a03679a0d2ba19c56c33f29930cd3d" title="Reads the CPU&#39;s timestamp counter. " alt="" coords="177,1044,260,1071"/>
+<area shape="rect" id="node41" href="$group__kernelapi.html#ga9752f8ef780a39bcf7ce48eb67deca39" title="Prototype for user applications. " alt="" coords="1099,1019,1158,1045"/>
+<area shape="rect" id="node3" href="$group__libposix.html#gacc2d12c0e6c25114939f7614e352ddaf" title="Output a formatted string to standard output, using a variable argument list. " alt="" coords="318,639,377,665"/>
+<area shape="rect" id="node4" href="$group__libposix.html#gabef2233b05a7437b010fb9f88987330a" title="Write a formatted string into a buffer. " alt="" coords="625,747,697,773"/>
+<area shape="rect" id="node5" href="$group__libposix.html#gac759c3c657671c9979da89ccfc7782aa" title="Write on a file. " alt="" coords="444,588,495,615"/>
+<area shape="rect" id="node6" href="$classChannelClient.html#a286c72577e158c27e5285585a3e6afec" title="Synchronous send and receive to/from one process. " alt="" coords="552,601,771,628"/>
+<area shape="rect" id="node7" href="$classChannelClient.html#ac6a9dcb00e343ec031f9c76dc4b2cd2d" title="Synchronous send to one process. " alt="" coords="835,627,1021,653"/>
+<area shape="rect" id="node30" href="$classChannelClient.html#abb1ec6d119a1333045d57c3fcddc54e1" title="Synchronous receive from one process. " alt="" coords="819,576,1037,603"/>
+<area shape="rect" id="node9" href="$group__kernelapi__handler.html#gab0b11ce62f6e443b5cfcce1b2166337a" title="Kernel handler prototype. " alt="" coords="1220,487,1352,513"/>
+<area shape="rect" id="node29" href="$group__kernel__arm.html#ga14d133f19f1676815a72954cdb8dfdb0" title="Perform a kernel trap with 4 arguments. " alt="" coords="1242,551,1330,577"/>
+<area shape="rect" id="node10" href="$classProcessManager.html#a0ef7841c21b18edd2e557ed728b9ff14" title="Create and add a new Process. " alt="" coords="1419,715,1583,741"/>
+<area shape="rect" id="node11" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="1417,917,1585,944"/>
+<area shape="rect" id="node12" href="$classKernel.html#a78150ddbf611c5315beffade433d97f5" title="Enable or disable an hardware interrupt (IRQ). " alt="" coords="1437,765,1566,792"/>
+<area shape="rect" id="node13" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="1428,816,1575,843"/>
+<area shape="rect" id="node14" href="$classTimer.html#a0bc063befca581e7711d68738d9e6479" title="Get current timer info. " alt="" coords="1439,5,1563,32"/>
+<area shape="rect" id="node15" href="$classProcess.html#a7141f7e80a83977aafa7754949841991" title="Retrieve our ID number. " alt="" coords="1676,81,1787,108"/>
+<area shape="rect" id="node16" href="$classProcess.html#a8ab7858b15c1850639d9aeabe4964fce" title="Retrieve our parent ID. " alt="" coords="1434,157,1569,184"/>
+<area shape="rect" id="node17" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="1410,867,1593,893"/>
+<area shape="rect" id="node18" href="$classProcess.html#a4dc446cd1e1d33894900f536a5c092b0" title="Get Wait ID. " alt="" coords="1440,208,1563,235"/>
+<area shape="rect" id="node19" href="$classKernel.html#a623b3d0e5c29fc9cdc33cf58f3c1cf32" title="Hooks a function to an hardware interrupt. " alt="" coords="1427,259,1575,285"/>
+<area shape="rect" id="node20" href="$ProcessCtl_8cpp.html#a42d215984f7570fe4ec3270f3115df35" title="interruptNotify" alt="" coords="1449,309,1553,336"/>
+<area shape="rect" id="node21" href="$classProcessManager.html#a0e2bab17085cbc63154183dd0f426ac7" title="Remove a Process. " alt="" coords="1416,107,1587,133"/>
+<area shape="rect" id="node22" href="$classProcessManager.html#a9ec8ab3db50af16139ac564462fd8113" title="Schedule next process to run. " alt="" coords="1411,411,1591,437"/>
+<area shape="rect" id="node23" href="$classProcess.html#a9ec902ec6a2f5ce894538d0fd0436c3f" title="Puts the Process in a new state. " alt="" coords="1668,385,1795,412"/>
+<area shape="rect" id="node24" href="$classProcess.html#a766e7acf165f4eaa603bbcd618ca0dae" title="Set parent process ID. " alt="" coords="1434,461,1569,488"/>
+<area shape="rect" id="node25" href="$classProcess.html#ab4499eac03dac58fc1d6b3f68fb8bcf3" title="Set sleep timer. " alt="" coords="1420,512,1583,539"/>
+<area shape="rect" id="node26" href="$classProcess.html#afd4ddd296ec79672b969d1185656f324" title="Set Wait ID. " alt="" coords="1440,563,1563,589"/>
+<area shape="rect" id="node27" href="$classProcess.html#ab4e4215dc07222ff0f950a556624c706" title="Stops the process for executing until woken up. " alt="" coords="1447,613,1556,640"/>
+<area shape="rect" id="node28" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="1440,664,1563,691"/>
+<area shape="rect" id="node32" href="$group__libposix.html#gaeca2fafdf28810cbd795173d70c82e4c" title="Retrieve the ProcessID of the FileSystemMount for the given path. " alt="" coords="308,841,387,868"/>
+<area shape="rect" id="node33" href="$group__libposix.html#ga23514e1aea4ac87970baa7e854aacf76" title="Get the pathname of the current working directory. " alt="" coords="437,943,501,969"/>
+<area shape="rect" id="node36" href="$group__libposix.html#gad47f82ff13c1d74edf1747e95241c9cc" title="Write a formatted string into a buffer. " alt="" coords="437,892,502,919"/>
+<area shape="rect" id="node37" href="$group__libposix.html#ga072ac10bfd51fd99aeb5a9ef1b286ee0" title="Copy src to string dst of size siz. " alt="" coords="439,740,500,767"/>
+<area shape="rect" id="node38" href="$group__libposix.html#ga0e7075c7598deb8dff05efcdb0d65ee2" title="Calculate the length of a string. " alt="" coords="442,841,497,868"/>
+<area shape="rect" id="node39" href="$group__libposix.html#ga0d56ca50f07bef34c1e8c67ecfbda91b" title="Compare two strings, by only a maximum number of bytes. " alt="" coords="435,791,504,817"/>
+<area shape="rect" id="node34" href="$group__libposix.html#gaca089ed1082107ee201cee82ac577bdd" title="Copy memory from one place to another. " alt="" coords="625,892,697,919"/>
+<area shape="rect" id="node35" href="$group__libposix.html#gae1e87ddb1eda7aaecbb45bad5af17db4" title="Get current directory String. " alt="" coords="593,943,729,969"/>
+<area shape="rect" id="node42" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="1242,1069,1330,1096"/>
+<area shape="rect" id="node43" href="$group__kernelapi__handler.html#ga7e35b1f297737d57ac3f79ca8632b34d" title="VMCtlHandler" alt="" coords="1234,1019,1338,1045"/>
+<area shape="rect" id="node44" href="$classMemoryContext.html#a9166c20ab0a3708774ec3ac07ae50bb9" title="Get Access flags for a virtual address. " alt="" coords="1419,1069,1584,1096"/>
+<area shape="rect" id="node45" href="$classARMCacheV6.html#a88a0e4e6579549ffef53e6b80a970d5f" title="Clean and invalidate entire cache. " alt="" coords="1401,1120,1602,1147"/>
+<area shape="rect" id="node46" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="1416,1221,1587,1248"/>
+<area shape="rect" id="node47" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="1651,1196,1812,1223"/>
+<area shape="rect" id="node48" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="1407,968,1596,995"/>
+<area shape="rect" id="node49" href="$classMemoryContext.html#a314f86fc54c4ee24f1d785e3b9eda0fe" title="Map a range of physical pages to virtual addresses. " alt="" coords="1408,1019,1595,1045"/>
+<area shape="rect" id="node50" href="$classMemoryContext.html#aee370322039e6193d47679700a891b9b" title="Release a range of physical memory by its virtual memory pages. " alt="" coords="1400,1272,1603,1299"/>
+</map>

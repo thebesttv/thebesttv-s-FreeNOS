@@ -1,0 +1,13 @@
+<map id="ARMPaging::map" name="ARMPaging::map">
+<area shape="rect" id="node2" href="$group__libarch__arm.html#ga1d551f3ef9c6508623db573e3e1c8ed0" title="Instruction Synchronisation Barrier (ARMv7 and above) " alt="" coords="231,85,269,112"/>
+<area shape="rect" id="node3" href="$classARMFirstTable.html#a48b4c619ceab52470982d0ed2926b511" title="Map a virtual address to a physical address. " alt="" coords="179,136,321,163"/>
+<area shape="rect" id="node4" href="$classSplitAllocator.html#ac854862ab9204ba2994aca7e1ebf163d" title="Allocate from lower memory. " alt="" coords="371,5,547,32"/>
+<area shape="rect" id="node6" href="$classCache.html#a09585625a870f0cf9d46379ecc1244a7" title="Clean one data page. " alt="" coords="616,56,743,83"/>
+<area shape="rect" id="node8" href="$classARMFirstTable.html#a423179a4b57dd66dfb7d530aaa681427" title="Retrieve second level page table. " alt="" coords="369,158,549,199"/>
+<area shape="rect" id="node9" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="602,195,757,221"/>
+<area shape="rect" id="node10" href="$classARMSecondTable.html#a354746c0ff36400f936fcb08de9df311" title="Map a virtual address to a physical address. " alt="" coords="379,107,540,133"/>
+<area shape="rect" id="node12" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="395,275,523,301"/>
+<area shape="rect" id="node5" href="$classBitAllocator.html#a387bb74bd91c3818a8238e35b92f4e87" title="Allocate memory. " alt="" coords="608,5,751,32"/>
+<area shape="rect" id="node7" href="$classCache.html#ac9e2011537a8785521eaefb181d51884" title="Clean one memory page. " alt="" coords="809,56,956,83"/>
+<area shape="rect" id="node11" href="$classARMSecondTable.html#a6bfcb3f45a084574bdd1fb6ba4e14ec4" title="Convert MemoryAccess to page table flags. " alt="" coords="597,107,761,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lib/libarch/arm/broadcom/BroadcomTimer.h" name="lib/libarch/arm/broadcom/BroadcomTimer.h">
+<area shape="rect" id="node2" href="$Types_8h.html" title="Types.h" alt="" coords="392,393,461,420"/>
+<area shape="rect" id="node3" href="$Macros_8h.html" title="Macros.h" alt="" coords="162,319,238,345"/>
+<area shape="rect" id="node4" href="$Timer_8h.html" title="Timer.h" alt="" coords="5,244,72,271"/>
+<area shape="rect" id="node5" href="$ARMIO_8h.html" title="arm/ARMIO.h" alt="" coords="366,95,469,121"/>
+<area shape="rect" id="node6" href="$IO_8h.html" title="IO.h" alt="" coords="515,244,562,271"/>
+<area shape="rect" id="node9" href="$ARMCore_8h.html" title="ARMCore.h" alt="" coords="313,169,404,196"/>
+<area shape="rect" id="node7" href="$Memory_8h.html" title="Memory.h" alt="" coords="565,319,645,345"/>
+<area shape="rect" id="node8" href="$BitOperations_8h.html" title="BitOperations.h" alt="" coords="549,393,661,420"/>
+<area shape="rect" id="node10" href="$Core_8h.html" title="Core.h" alt="" coords="328,244,389,271"/>
+<area shape="rect" id="node11" href="$ARMControl_8h.html" title="ARMControl.h" alt="" coords="198,244,303,271"/>
+</map>

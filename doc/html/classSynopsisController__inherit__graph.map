@@ -1,0 +1,6 @@
+<map id="SynopsisController" name="SynopsisController">
+<area shape="rect" id="node2" href="$classUSBController.html" title="USB controller abstract interface. " alt="" coords="37,1115,164,1221"/>
+<area shape="rect" id="node3" href="$classDeviceServer.html" title="Device driver server. " alt="" coords="33,901,168,1067"/>
+<area shape="rect" id="node4" href="$classFileSystem.html" title="Abstract filesystem class. " alt="" coords="33,439,169,853"/>
+<area shape="rect" id="node5" href="$classChannelServer.html" title="{ChannelServer\&lt; FileSystem,\l FileSystemMessage \&gt;\n|# m_registry\l# m_client\l# m_kernelEvent\l# m_sendReply\l# m_ipcHandlers\l# m_irqHandlers\l# m_instance\l# m_self\l# m_time\l&#45; m_expiry\l|+ ChannelServer()\l+ ~ChannelServer()\l+ run()\l+ addIPCHandler()\l+ addIRQHandler()\l+ timeout()\l+ retryRequests()\l+ setTimeout()\l&#45; accept()\l&#45; readKernelEvents()\l&#45; readChannels()\l&#45; retryAllRequests()\l}" alt="" coords="5,5,196,391"/>
+</map>

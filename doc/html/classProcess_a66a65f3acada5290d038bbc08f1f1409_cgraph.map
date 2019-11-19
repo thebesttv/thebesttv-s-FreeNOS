@@ -1,0 +1,38 @@
+<map id="Process::initialize" name="Process::initialize">
+<area shape="rect" id="node2" href="$classCache.html#a09585625a870f0cf9d46379ecc1244a7" title="Clean one data page. " alt="" coords="931,466,1058,492"/>
+<area shape="rect" id="node4" href="$classProcessShares.html#a48284cbd7a9df0bfcab28ab9f2e8ca1d" title="ProcessShares::createShare" alt="" coords="195,364,385,391"/>
+<area shape="rect" id="node8" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="931,162,1059,188"/>
+<area shape="rect" id="node11" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="463,634,634,660"/>
+<area shape="rect" id="node14" href="$classMemoryContext.html#a314f86fc54c4ee24f1d785e3b9eda0fe" title="Map a range of physical pages to virtual addresses. " alt="" coords="455,684,642,711"/>
+<area shape="rect" id="node20" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="703,735,851,762"/>
+<area shape="rect" id="node32" href="$classProcessShares.html#a37d292cacf1199d18274f4c48f3eba90" title="Set MemoryContext. " alt="" coords="198,786,382,828"/>
+<area shape="rect" id="node33" href="$classMemoryChannel.html#a129ab5ef349f3a02c176bfeb9a278067" title="Set message size. " alt="" coords="179,852,401,879"/>
+<area shape="rect" id="node34" href="$classChannel.html#a0a74777169f6e2595c8d6b14a1b81939" title="Set mode. " alt="" coords="226,903,354,930"/>
+<area shape="rect" id="node35" href="$classMemoryChannel.html#a98c90914af564760f49e7fc7c7f2ec2b" title="Set memory pages by virtual address. " alt="" coords="200,954,380,980"/>
+<area shape="rect" id="node37" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="209,1004,371,1031"/>
+<area shape="rect" id="node3" href="$classCache.html#ac9e2011537a8785521eaefb181d51884" title="Clean one memory page. " alt="" coords="1132,466,1279,492"/>
+<area shape="rect" id="node5" href="$classProcessShares.html#ae011696ac9efa332ff3b795917e38b70" title="Get MemoryContext object. " alt="" coords="457,517,641,558"/>
+<area shape="rect" id="node6" href="$classProcessShares.html#a282622007e2da33465b6e60b27835481" title="Read memory share by Process, Core and Tag IDs. " alt="" coords="459,60,638,87"/>
+<area shape="rect" id="node7" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="707,86,846,112"/>
+<area shape="rect" id="node9" href="$classProcessShares.html#a1256383b676682d59e8704dc934cf16b" title="Get process. " alt="" coords="449,212,648,239"/>
+<area shape="rect" id="node10" href="$classKernel.html#a1252236285654841a16d3c18350ed7f8" title="Get CoreInfo. " alt="" coords="481,263,616,290"/>
+<area shape="rect" id="node21" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="457,314,640,340"/>
+<area shape="rect" id="node22" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="475,364,622,391"/>
+<area shape="rect" id="node24" href="$classProcess.html#a824da42e1b9d20918edbf029c20a6ee6" title="Raise kernel event. " alt="" coords="479,415,619,442"/>
+<area shape="rect" id="node12" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="696,634,857,660"/>
+<area shape="rect" id="node13" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="709,583,844,610"/>
+<area shape="rect" id="node15" href="$classSplitAllocator.html#ae6660e84ec88e5cc88910fed6957f1f9" title="Allocate memory. " alt="" coords="701,684,853,711"/>
+<area shape="rect" id="node16" href="$classSplitAllocator.html#ac854862ab9204ba2994aca7e1ebf163d" title="Allocate from lower memory. " alt="" coords="907,710,1083,736"/>
+<area shape="rect" id="node18" href="$classSplitAllocator.html#a38bb818e168c9f188de6d8c0a28c3771" title="Allocate from high memory. " alt="" coords="905,659,1084,686"/>
+<area shape="rect" id="node17" href="$classBitAllocator.html#a387bb74bd91c3818a8238e35b92f4e87" title="Allocate memory. " alt="" coords="1134,710,1277,736"/>
+<area shape="rect" id="node19" href="$classBitAllocator.html#aef0d800381639769a03746bde4e5e6a2" title="Get base memory address. " alt="" coords="1143,659,1268,686"/>
+<area shape="rect" id="node23" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="733,263,820,290"/>
+<area shape="rect" id="node25" href="$classMemoryChannel.html#a2b3fcbcacbe4d976e001badf6c485fad" title="Write a message. " alt="" coords="700,364,853,391"/>
+<area shape="rect" id="node29" href="$classMemoryChannel.html#a31d52b4825fb157050b132aef0c7c3d0" title="Flush message buffers. " alt="" coords="700,415,853,442"/>
+<area shape="rect" id="node31" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="715,314,838,340"/>
+<area shape="rect" id="node26" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="945,314,1044,340"/>
+<area shape="rect" id="node28" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="943,364,1046,391"/>
+<area shape="rect" id="node27" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="1182,339,1229,366"/>
+<area shape="rect" id="node30" href="$classIO.html#aa7928b1d2869033b7686e80f34d55bd5" title="Get I/O base offset. " alt="" coords="949,415,1041,442"/>
+<area shape="rect" id="node36" href="$classIO.html#a38aa546b761d55567cc7d092952e3846" title="Set I/O base offset. " alt="" coords="503,954,595,980"/>
+</map>

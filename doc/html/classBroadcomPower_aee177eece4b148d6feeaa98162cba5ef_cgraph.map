@@ -1,0 +1,7 @@
+<map id="BroadcomPower::enable" name="BroadcomPower::enable">
+<area shape="rect" id="node2" href="$classBroadcomMailbox.html#a831d9ff85f6650c3a7d604f1f41199b3" title="Read 28&#45;bit message. " alt="" coords="219,5,378,32"/>
+<area shape="rect" id="node5" href="$classBroadcomMailbox.html#a71e9d9592f778272bfa752be71ccad84" title="Write 28&#45;bit message. " alt="" coords="217,56,380,83"/>
+<area shape="rect" id="node3" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="430,5,529,32"/>
+<area shape="rect" id="node4" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="579,31,625,57"/>
+<area shape="rect" id="node6" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="428,56,531,83"/>
+</map>

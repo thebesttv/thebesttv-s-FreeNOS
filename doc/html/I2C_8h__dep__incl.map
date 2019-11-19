@@ -1,0 +1,12 @@
+<map id="lib/libi2c/I2C.h" name="lib/libi2c/I2C.h">
+<area shape="rect" id="node2" href="$BroadcomI2C_8h.html" title="lib/libi2c/BroadcomI2C.h" alt="" coords="94,87,258,114"/>
+<area shape="rect" id="node5" href="$I2C_8cpp.html" title="lib/libi2c/I2C.cpp" alt="" coords="731,87,850,114"/>
+<area shape="rect" id="node6" href="$AnalogPort_8h.html" title="server/i2c/grovepi\l/AnalogPort.h" alt="" coords="283,80,408,121"/>
+<area shape="rect" id="node8" href="$DigitalPort_8h.html" title="server/i2c/grovepi\l/DigitalPort.h" alt="" coords="432,80,557,121"/>
+<area shape="rect" id="node10" href="$LCDBar_8h.html" title="server/i2c/grovepi\l/LCDBar.h" alt="" coords="581,80,707,121"/>
+<area shape="rect" id="node3" href="$BroadcomI2C_8cpp.html" title="lib/libi2c/BroadcomI2C.cpp" alt="" coords="5,177,184,203"/>
+<area shape="rect" id="node4" href="$server_2i2c_2grovepi_2Main_8cpp.html" title="server/i2c/grovepi\l/Main.cpp" alt="" coords="357,169,483,211"/>
+<area shape="rect" id="node7" href="$AnalogPort_8cpp.html" title="server/i2c/grovepi\l/AnalogPort.cpp" alt="" coords="208,169,333,211"/>
+<area shape="rect" id="node9" href="$DigitalPort_8cpp.html" title="server/i2c/grovepi\l/DigitalPort.cpp" alt="" coords="507,169,632,211"/>
+<area shape="rect" id="node11" href="$LCDBar_8cpp.html" title="server/i2c/grovepi\l/LCDBar.cpp" alt="" coords="656,169,781,211"/>
+</map>

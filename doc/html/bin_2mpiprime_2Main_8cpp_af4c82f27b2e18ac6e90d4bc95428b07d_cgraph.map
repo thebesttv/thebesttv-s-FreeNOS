@@ -1,0 +1,13 @@
+<map id="collect" name="collect">
+<area shape="rect" id="node2" href="$group__libposix.html#gac76cee8b91ef47585ed68adc1fb2eb81" title="Free allocated memory. " alt="" coords="133,5,177,32"/>
+<area shape="rect" id="node3" href="$group__libposix.html#ga01142e8dbe87beeb7e7d693c7dc29735" title="A memory allocator. " alt="" coords="125,56,185,83"/>
+<area shape="rect" id="node4" href="$group__libmpi.html#ga74e461dcfb0c0e414a40696cb5b966de" title="MPI_Recv" alt="" coords="113,157,197,184"/>
+<area shape="rect" id="node10" href="$group__libmpi.html#ga0c7717802deb58799a505d4af6c8e2c3" title="Point&#45;to&#45;Point Communication. " alt="" coords="114,107,197,133"/>
+<area shape="rect" id="node12" href="$group__libposix.html#ga4338cf5dae5d9db1c34392af776c1474" title="Compute the square root of a number. " alt="" coords="133,208,177,235"/>
+<area shape="rect" id="node5" href="$classIndex.html#a5268d422c9b66757b38a7295b3a6c192" title="Returns the item at the given position. " alt="" coords="282,132,362,159"/>
+<area shape="rect" id="node6" href="$classMemoryChannel.html#a8e259a7ce8c03fb4ce133d992d1e45da" title="Read a message. " alt="" coords="247,183,397,209"/>
+<area shape="rect" id="node7" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="449,107,547,133"/>
+<area shape="rect" id="node9" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="447,157,549,184"/>
+<area shape="rect" id="node8" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="597,132,644,159"/>
+<area shape="rect" id="node11" href="$classMemoryChannel.html#a2b3fcbcacbe4d976e001badf6c485fad" title="Write a message. " alt="" coords="245,81,399,108"/>
+</map>

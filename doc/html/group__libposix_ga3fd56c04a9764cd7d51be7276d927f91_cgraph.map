@@ -1,0 +1,5 @@
+<map id="strndup" name="strndup">
+<area shape="rect" id="node2" href="$group__libposix.html#ga01142e8dbe87beeb7e7d693c7dc29735" title="A memory allocator. " alt="" coords="125,5,185,32"/>
+<area shape="rect" id="node3" href="$group__libposix.html#gaca089ed1082107ee201cee82ac577bdd" title="Copy memory from one place to another. " alt="" coords="119,56,191,83"/>
+<area shape="rect" id="node4" href="$group__libposix.html#ga0e7075c7598deb8dff05efcdb0d65ee2" title="Calculate the length of a string. " alt="" coords="127,107,182,133"/>
+</map>

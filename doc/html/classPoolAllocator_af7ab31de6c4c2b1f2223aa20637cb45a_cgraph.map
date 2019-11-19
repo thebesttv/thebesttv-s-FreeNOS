@@ -1,0 +1,5 @@
+<map id="PoolAllocator::newPool" name="PoolAllocator::newPool">
+<area shape="rect" id="node2" href="$classAllocator.html#abdd93ab9b49f24ae71c3753b24f840bc" title="Align memory address. " alt="" coords="213,5,336,32"/>
+<area shape="rect" id="node3" href="$classAllocator.html#a20ccfc53b504fef8ffbcd56262b1ad50" title="Allocate memory. " alt="" coords="211,56,338,83"/>
+<area shape="rect" id="node4" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="211,107,339,133"/>
+</map>

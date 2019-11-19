@@ -1,0 +1,10 @@
+<map id="ProcessShares::releaseShare" name="ProcessShares::releaseShare">
+<area shape="rect" id="node2" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="275,5,421,32"/>
+<area shape="rect" id="node4" href="$classKernel.html#a237657efb26f12a29bbf61d9a979bc45" title="Get physical memory allocator. " alt="" coords="280,56,416,83"/>
+<area shape="rect" id="node5" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="257,107,439,133"/>
+<area shape="rect" id="node6" href="$classProcess.html#ab582af4dbf38e6654ecde47f889660c7" title="Get process shares. " alt="" coords="279,157,417,184"/>
+<area shape="rect" id="node7" href="$classAllocator.html#a846a5014f95d414b4fe9b96f39953ced" title="Release memory. " alt="" coords="287,208,409,235"/>
+<area shape="rect" id="node8" href="$classMemoryContext.html#a8a62be5bc77d0abdf8e4fa9c9da91830" title="Unmaps a range of virtual memory. " alt="" coords="248,259,448,285"/>
+<area shape="rect" id="node3" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="534,5,621,32"/>
+<area shape="rect" id="node9" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="496,259,659,285"/>
+</map>

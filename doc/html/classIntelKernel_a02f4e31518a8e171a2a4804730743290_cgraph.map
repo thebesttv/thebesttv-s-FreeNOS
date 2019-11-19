@@ -1,0 +1,21 @@
+<map id="IntelKernel::exception" name="IntelKernel::exception">
+<area shape="rect" id="node2" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="209,5,377,32"/>
+<area shape="rect" id="node3" href="$classProcess.html#a7141f7e80a83977aafa7754949841991" title="Retrieve our ID number. " alt="" coords="444,43,555,69"/>
+<area shape="rect" id="node4" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="201,220,384,247"/>
+<area shape="rect" id="node5" href="$classIntelCore.html#a9e1a8be63b95844c1d055245f1ee2883" title="Log a CPU exception. " alt="" coords="213,372,372,399"/>
+<area shape="rect" id="node9" href="$classProcessManager.html#a0e2bab17085cbc63154183dd0f426ac7" title="Remove a Process. " alt="" coords="207,107,378,133"/>
+<area shape="rect" id="node11" href="$classProcessManager.html#a9ec8ab3db50af16139ac564462fd8113" title="Schedule next process to run. " alt="" coords="203,169,383,196"/>
+<area shape="rect" id="node6" href="$classIntelCore.html#a31b93dd00b1be9620db44ff0ed7c87eb" title="Log the CPU state. " alt="" coords="434,372,565,399"/>
+<area shape="rect" id="node8" href="$classIntelCore.html#aac217c5fa40e79e3e33189fee12746e9" title="Read the CR2 register. " alt="" coords="432,423,567,449"/>
+<area shape="rect" id="node7" href="$classIntelCore.html#a418c9745a356fa515d20072fa86d53c9" title="Log a register. " alt="" coords="621,397,771,424"/>
+<area shape="rect" id="node10" href="$classVector.html#a71a2cdd05ceafcfcfd4e739fafac88dc" title="Returns the maximum size of this Vector. " alt="" coords="650,93,742,120"/>
+<area shape="rect" id="node12" href="$classScheduler.html#a93f4a071be4cfdc2fc39985c8b44b3d4" title="Select the next process to run. " alt="" coords="438,195,561,221"/>
+<area shape="rect" id="node14" href="$classProcess.html#a6646d3a3c0c0a8bc38a7b13a0742f2b7" title="Retrieves the current state. " alt="" coords="633,144,759,171"/>
+<area shape="rect" id="node19" href="$classProcess.html#a9ec902ec6a2f5ce894538d0fd0436c3f" title="Puts the Process in a new state. " alt="" coords="436,245,563,272"/>
+<area shape="rect" id="node20" href="$classProcess.html#a7dd922daa1549a0569af53dfc6da4faa" title="Allow the Process to run on the CPU. " alt="" coords="437,296,561,323"/>
+<area shape="rect" id="node13" href="$classVector.html#ad4ec64e1b926715078b114a8aec5bfe7" title="Return item at the given position as a reference. " alt="" coords="657,245,735,272"/>
+<area shape="rect" id="node15" href="$classTimer.html#ac5a06c01ff30bfa4be9f458676aa6ad5" title="Check if a timer value is expired. " alt="" coords="637,296,755,323"/>
+<area shape="rect" id="node16" href="$classProcess.html#a051b000ed769d5d7f3fc3d1e393bd22c" title="Get sleep timer. " alt="" coords="615,347,777,373"/>
+<area shape="rect" id="node17" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="635,195,757,221"/>
+<area shape="rect" id="node18" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="825,195,953,221"/>
+</map>

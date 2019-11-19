@@ -1,0 +1,5 @@
+<map id="IntelPIT::getCounter" name="IntelPIT::getCounter">
+<area shape="rect" id="node2" href="$classIntelIO.html#a58a8c196cc79f0fe47688f250c4a67ee" title="Read a byte from a port. " alt="" coords="218,5,305,32"/>
+<area shape="rect" id="node3" href="$classIntelPIT.html#a3e7e1dedfe78ac70781e8d6b8be778df" title="Set Control register. " alt="" coords="193,56,329,83"/>
+<area shape="rect" id="node4" href="$classIntelIO.html#afdc3b7cf51a68c193f04a07e0d6e1514" title="Output a byte to a port. " alt="" coords="377,56,472,83"/>
+</map>

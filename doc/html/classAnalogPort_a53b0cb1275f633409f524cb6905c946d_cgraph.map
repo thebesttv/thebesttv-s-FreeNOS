@@ -1,0 +1,36 @@
+<map id="AnalogPort::read" name="AnalogPort::read">
+<area shape="rect" id="node2" href="$classI2C.html#ac5b1626d33dc840299eac4199faa1b6e" title="Read data from slave. " alt="" coords="193,91,269,117"/>
+<area shape="rect" id="node3" href="$classI2C.html#a61c44194f5273680d1bf706e04422425" title="Set Slave address. " alt="" coords="172,141,289,168"/>
+<area shape="rect" id="node4" href="$group__libposix.html#gad47f82ff13c1d74edf1747e95241c9cc" title="Write a formatted string into a buffer. " alt="" coords="198,192,263,219"/>
+<area shape="rect" id="node21" href="$classI2C.html#aabe7c21c4ead0ea56208271d780478c1" title="Write data to slave. " alt="" coords="191,243,270,269"/>
+<area shape="rect" id="node22" href="$classIOBuffer.html#a06d0e16dd5210252b807c01f0bcf5d1d" title="Write bytes to the I/O buffer. " alt="" coords="177,312,284,339"/>
+<area shape="rect" id="node5" href="$group__libposix.html#gabef2233b05a7437b010fb9f88987330a" title="Write a formatted string into a buffer. " alt="" coords="338,183,410,209"/>
+<area shape="rect" id="node6" href="$group__libposix.html#ga07684a2e3d12c3e1b096e0d1d04d21bf" title="Convert a string to an integer. " alt="" coords="497,107,539,133"/>
+<area shape="rect" id="node14" href="$classString.html#ae8cad55d820faded6d14cb1ddd0cd2d0" title="Set text&#45;representation of an unsigned number. " alt="" coords="877,208,1015,235"/>
+<area shape="rect" id="node19" href="$group__libposix.html#ga76b518db1307661c2bdeefa57fba5b41" title="Convert a number to a string. " alt="" coords="497,208,539,235"/>
+<area shape="rect" id="node7" href="$classString.html#ab56b290698f03e1e3663bab4071090b2" title="Convert the String to a signed long integer. " alt="" coords="669,107,771,133"/>
+<area shape="rect" id="node8" href="$namespaceCharacter.html#ac6ed8727b9bab090159b190226c4589c" title="Test for a white&#45;space character. " alt="" coords="863,5,1029,32"/>
+<area shape="rect" id="node10" href="$namespaceCharacter.html#aa4897d8a49282497c97561b3ee9f0c70" title="Test for a decimal digit. " alt="" coords="884,56,1008,83"/>
+<area shape="rect" id="node11" href="$namespaceCharacter.html#a2deefdfb42ee6791aa34371de1f06d94" title="Test for an alphabetic character. " alt="" coords="881,157,1011,184"/>
+<area shape="rect" id="node12" href="$namespaceCharacter.html#acfa120ffb8aa088c402d4a5174c292f7" title="Test for an uppercase letter. " alt="" coords="1077,107,1209,133"/>
+<area shape="rect" id="node9" href="$namespaceCharacter.html#af579acb38847a475005e6c4298edff24" title="Test for a blank character. " alt="" coords="1078,5,1209,32"/>
+<area shape="rect" id="node13" href="$namespaceCharacter.html#ac2f23f0539d880e9e9b901ca0d2302e0" title="Test for a lowercase letter. " alt="" coords="1077,157,1209,184"/>
+<area shape="rect" id="node15" href="$classString.html#a1d5e5fce1df0494079a6f6dd8b005ef5" title="Make sure at least given number of bytes available. " alt="" coords="1090,208,1197,235"/>
+<area shape="rect" id="node16" href="$classString.html#a9407a1a3e3b7544c8debcdd01b544fd7" title="Change the size of the String buffer. " alt="" coords="1257,208,1356,235"/>
+<area shape="rect" id="node17" href="$classString.html#a8b90b144eb3fb76e299d3609c8b9ab4a" title="Calculates the length of the String. " alt="" coords="1429,208,1517,235"/>
+<area shape="rect" id="node18" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="1404,259,1543,285"/>
+<area shape="rect" id="node20" href="$classString.html#aeb5b69a2d7479b5bbf1b74ef08012e44" title="Set text&#45;representation of a signed number. " alt="" coords="679,208,761,235"/>
+<area shape="rect" id="node23" href="$group__kernelapi.html#ga5be322040426be788bdc19a6ecf801a3" title="Prototype for user applications. " alt="" coords="337,349,411,376"/>
+<area shape="rect" id="node24" href="$group__kernel__arm.html#ga63e9fc1f03dbdaf4cf8a1b97fc08c181" title="Perform a kernel trap with 5 arguments. " alt="" coords="474,349,562,376"/>
+<area shape="rect" id="node25" href="$group__kernelapi__handler.html#ga0c29868260c88eaf04cb542f88686eba" title="VMCopyHandler" alt="" coords="459,436,577,463"/>
+<area shape="rect" id="node26" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="636,309,804,336"/>
+<area shape="rect" id="node27" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="635,360,805,387"/>
+<area shape="rect" id="node29" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="865,411,1027,437"/>
+<area shape="rect" id="node30" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="647,461,793,488"/>
+<area shape="rect" id="node32" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="625,512,815,539"/>
+<area shape="rect" id="node33" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="629,563,811,589"/>
+<area shape="rect" id="node34" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="646,613,794,640"/>
+<area shape="rect" id="node35" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="639,664,801,691"/>
+<area shape="rect" id="node28" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="879,360,1013,387"/>
+<area shape="rect" id="node31" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="903,461,989,488"/>
+</map>

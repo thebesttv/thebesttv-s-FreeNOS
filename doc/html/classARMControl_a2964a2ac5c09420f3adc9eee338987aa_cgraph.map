@@ -1,0 +1,4 @@
+<map id="ARMControl::set" name="ARMControl::set">
+<area shape="rect" id="node2" href="$classARMControl.html#aa41086e47dbff0987e6f2205cafbd85e" title="Read a register from the CP15. " alt="" coords="175,5,302,32"/>
+<area shape="rect" id="node3" href="$classARMControl.html#a4b6c2c296835ec08ed73de83d7eb0b7b" title="Write register to the CP15. " alt="" coords="173,56,304,83"/>
+</map>

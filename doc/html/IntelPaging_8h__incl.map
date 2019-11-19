@@ -1,0 +1,10 @@
+<map id="lib/libarch/intel/IntelPaging.h" name="lib/libarch/intel/IntelPaging.h">
+<area shape="rect" id="node2" href="$Types_8h.html" title="Types.h" alt="" coords="369,453,438,480"/>
+<area shape="rect" id="node3" href="$MemoryContext_8h.html" title="MemoryContext.h" alt="" coords="204,229,331,256"/>
+<area shape="rect" id="node7" href="$MemoryMap_8h.html" title="MemoryMap.h" alt="" coords="5,304,111,331"/>
+<area shape="rect" id="node8" href="$IntelPageDirectory_8h.html" title="IntelPageDirectory.h" alt="" coords="302,80,443,107"/>
+<area shape="rect" id="node4" href="$Macros_8h.html" title="Macros.h" alt="" coords="328,379,404,405"/>
+<area shape="rect" id="node5" href="$BitOperations_8h.html" title="BitOperations.h" alt="" coords="118,453,230,480"/>
+<area shape="rect" id="node6" href="$Memory_8h.html" title="Memory.h" alt="" coords="173,379,253,405"/>
+<area shape="rect" id="node9" href="$IntelPageTable_8h.html" title="IntelPageTable.h" alt="" coords="333,155,453,181"/>
+</map>

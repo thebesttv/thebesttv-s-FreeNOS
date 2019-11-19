@@ -1,0 +1,14 @@
+<map id="SystemInformation::SystemInformation" name="SystemInformation::SystemInformation">
+<area shape="rect" id="node2" href="$group__kernelapi.html#ga6a5eacb523115c5dab70030c8dd5ba35" title="Prototype for user applications. " alt="" coords="193,132,283,159"/>
+<area shape="rect" id="node3" href="$group__kernelapi__handler.html#ga88bc6c2786f97d190c5882ebef6d3398" title="Kernel prototype. " alt="" coords="331,107,465,133"/>
+<area shape="rect" id="node13" href="$group__kernel__arm.html#ga93a650321b76001199a6405419171760" title="Perform a kernel trap with 1 argument. " alt="" coords="354,157,442,184"/>
+<area shape="rect" id="node4" href="$classSplitAllocator.html#ad9dc789fb4f1fb80a65fb8b533e97931" title="Get memory available. " alt="" coords="513,5,672,32"/>
+<area shape="rect" id="node7" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="523,56,662,83"/>
+<area shape="rect" id="node8" href="$classKernel.html#a237657efb26f12a29bbf61d9a979bc45" title="Get physical memory allocator. " alt="" coords="525,107,661,133"/>
+<area shape="rect" id="node9" href="$classKernel.html#a1252236285654841a16d3c18350ed7f8" title="Get CoreInfo. " alt="" coords="525,157,660,184"/>
+<area shape="rect" id="node10" href="$classSplitAllocator.html#aaa55f8711875f880074380fdcd0bcad3" title="Get memory size. " alt="" coords="527,208,658,235"/>
+<area shape="rect" id="node5" href="$classBitAllocator.html#a5beb60d060d64cb1787c8e1efec33a9b" title="Get available memory. " alt="" coords="720,5,868,32"/>
+<area shape="rect" id="node6" href="$classBitArray.html#a113a2ee9634a3aca40655b80edc74220" title="Get the number of bits in the map which have the given value. " alt="" coords="916,5,1025,32"/>
+<area shape="rect" id="node11" href="$classBitAllocator.html#a347d703940a8e7d5a544dd6c11b1678b" title="Get total size. " alt="" coords="733,208,855,235"/>
+<area shape="rect" id="node12" href="$classBitArray.html#add63c74fda83c98ec5017357c3a36375" title="Returns the maximum size of this Container. " alt="" coords="920,208,1021,235"/>
+</map>

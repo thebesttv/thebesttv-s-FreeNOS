@@ -1,0 +1,6 @@
+<map id="FileSystem::clearFileCache" name="FileSystem::clearFileCache">
+<area shape="rect" id="node2" href="$classHashTable.html#ac5738483b0125109f24eb6fbf10d4e05" title="Get the number of values stored in the HashTable. " alt="" coords="257,5,382,32"/>
+<area shape="rect" id="node3" href="$classHashIterator.html#ae0e2e0d8c2b992aa6734059ac052bb0d" title="Check if there is a current item. " alt="" coords="236,56,403,83"/>
+<area shape="rect" id="node5" href="$classHashTable.html#a12836fdb84369843bb6472ab71e8634a" title="Remove value(s) for the given key. " alt="" coords="251,107,387,133"/>
+<area shape="rect" id="node4" href="$classListIterator.html#a6750d850524a46222fff4d24d1479f4c" title="Check if there is a current item on the List. " alt="" coords="451,56,607,83"/>
+</map>

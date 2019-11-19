@@ -1,0 +1,4 @@
+<map id="IntelAPIC" name="IntelAPIC">
+<area shape="rect" id="node2" href="$classIntController.html" title="Interrupt controller interface. " alt="" coords="5,79,119,215"/>
+<area shape="rect" id="node3" href="$classTimer.html" title="Represents a configurable timer device. " alt="" coords="143,5,264,288"/>
+</map>

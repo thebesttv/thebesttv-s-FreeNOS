@@ -1,0 +1,4 @@
+<map id="Terminal" name="Terminal">
+<area shape="rect" id="node2" href="$classDevice.html" title="Abstract device class interface. " alt="" coords="16,277,127,413"/>
+<area shape="rect" id="node3" href="$classFile.html" title="Represents a file present on a FileSystem. " alt="" coords="21,5,121,229"/>
+</map>

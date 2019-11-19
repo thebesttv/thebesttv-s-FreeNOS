@@ -1,0 +1,9 @@
+<map id="strtol" name="strtol">
+<area shape="rect" id="node2" href="$namespaceCharacter.html#aa4897d8a49282497c97561b3ee9f0c70" title="Test for a decimal digit. " alt="" coords="276,5,400,32"/>
+<area shape="rect" id="node3" href="$classString.html#ab56b290698f03e1e3663bab4071090b2" title="Convert the String to a signed long integer. " alt="" coords="104,56,207,83"/>
+<area shape="rect" id="node4" href="$namespaceCharacter.html#ac6ed8727b9bab090159b190226c4589c" title="Test for a white&#45;space character. " alt="" coords="255,56,421,83"/>
+<area shape="rect" id="node6" href="$namespaceCharacter.html#a2deefdfb42ee6791aa34371de1f06d94" title="Test for an alphabetic character. " alt="" coords="273,157,403,184"/>
+<area shape="rect" id="node7" href="$namespaceCharacter.html#acfa120ffb8aa088c402d4a5174c292f7" title="Test for an uppercase letter. " alt="" coords="469,107,601,133"/>
+<area shape="rect" id="node5" href="$namespaceCharacter.html#af579acb38847a475005e6c4298edff24" title="Test for a blank character. " alt="" coords="470,56,601,83"/>
+<area shape="rect" id="node8" href="$namespaceCharacter.html#ac2f23f0539d880e9e9b901ca0d2302e0" title="Test for a lowercase letter. " alt="" coords="469,157,601,184"/>
+</map>

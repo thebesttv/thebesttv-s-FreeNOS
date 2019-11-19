@@ -1,0 +1,7 @@
+<map id="PoolAllocator::allocate" name="PoolAllocator::allocate">
+<area shape="rect" id="node2" href="$structMemoryPool.html#acc9f60163d408de5929e245995147195" title="Marks the appropriate bits in the free and used block bitmap. " alt="" coords="210,5,358,32"/>
+<area shape="rect" id="node3" href="$classPoolAllocator.html#af7ab31de6c4c2b1f2223aa20637cb45a" title="Creates a new MemoryPool instance. " alt="" coords="205,56,363,83"/>
+<area shape="rect" id="node4" href="$classAllocator.html#a20ccfc53b504fef8ffbcd56262b1ad50" title="Allocate memory. " alt="" coords="411,5,538,32"/>
+<area shape="rect" id="node5" href="$classAllocator.html#abdd93ab9b49f24ae71c3753b24f840bc" title="Align memory address. " alt="" coords="413,56,536,83"/>
+<area shape="rect" id="node6" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="411,107,539,133"/>
+</map>

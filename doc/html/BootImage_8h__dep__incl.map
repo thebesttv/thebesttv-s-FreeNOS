@@ -1,0 +1,14 @@
+<map id="lib/libarch/BootImage.h" name="lib/libarch/BootImage.h">
+<area shape="rect" id="node2" href="$BootImageCreate_8cpp.html" title="bin/img/BootImageCreate.cpp" alt="" coords="5,162,200,189"/>
+<area shape="rect" id="node3" href="$BootImageCreate_8h.html" title="bin/img/BootImageCreate.h" alt="" coords="195,80,376,107"/>
+<area shape="rect" id="node5" href="$BootImageStorage_8h.html" title="lib/libfs/BootImageStorage.h" alt="" coords="575,80,761,107"/>
+<area shape="rect" id="node8" href="$IntelKernel_8cpp.html" title="kernel/intel/IntelKernel.cpp" alt="" coords="765,162,941,189"/>
+<area shape="rect" id="node9" href="$IntelKernel_8h.html" title="kernel/intel/IntelKernel.h" alt="" coords="864,80,1027,107"/>
+<area shape="rect" id="node11" href="$Kernel_8cpp.html" title="kernel/Kernel.cpp" alt="" coords="1149,162,1272,189"/>
+<area shape="rect" id="node12" href="$Kernel_8h.html" title="kernel/Kernel.h" alt="" coords="1156,80,1265,107"/>
+<area shape="rect" id="node4" href="$bin_2img_2Main_8cpp.html" title="bin/img/Main.cpp" alt="" coords="225,162,346,189"/>
+<area shape="rect" id="node6" href="$BootImageStorage_8cpp.html" title="lib/libfs/BootImageStorage.cpp" alt="" coords="371,162,571,189"/>
+<area shape="rect" id="node7" href="$LinnFileSystem_8cpp.html" title="server/filesystem/linn\l/LinnFileSystem.cpp" alt="" coords="595,155,741,196"/>
+<area shape="rect" id="node10" href="$kernel_2intel_2pc_2Main_8cpp.html" title="kernel/intel/pc/Main.cpp" alt="" coords="965,162,1125,189"/>
+<area shape="rect" id="node13" href="$Support_8cpp.html" title="kernel/Support.cpp" alt="" coords="1296,162,1427,189"/>
+</map>

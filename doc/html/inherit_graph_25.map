@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classChannel.html" title="Unidirectional point&#45;to&#45;point messaging channel. " alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node2" href="$classMemoryChannel.html" title="Unidirectional point&#45;to&#45;point channel using shared memory. " alt="" coords="124,5,241,32"/>
+</map>

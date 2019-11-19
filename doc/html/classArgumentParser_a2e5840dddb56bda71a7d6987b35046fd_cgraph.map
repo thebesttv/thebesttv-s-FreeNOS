@@ -1,0 +1,7 @@
+<map id="ArgumentParser::registerPositional" name="ArgumentParser::registerPositional">
+<area shape="rect" id="node2" href="$classVector.html#ad4ec64e1b926715078b114a8aec5bfe7" title="Return item at the given position as a reference. " alt="" coords="266,5,345,32"/>
+<area shape="rect" id="node3" href="$classVector.html#ae70975d764c7a5da6e6e5fe2cdc6d902" title="Returns the number of items inside the Vector. " alt="" coords="255,56,355,83"/>
+<area shape="rect" id="node4" href="$classVector.html#ab799ad03fc3659650ae44574b7e37885" title="Adds the given item to the Vector, if possible. " alt="" coords="255,107,355,133"/>
+<area shape="rect" id="node5" href="$classArgument.html#a253814066c2df81df7c01dbc9cb34323" title="Set argument maximum count. " alt="" coords="236,157,375,184"/>
+<area shape="rect" id="node6" href="$classArgument.html#a7c94c53b0a6d910c4108957837c3c8cc" title="Set argument single line description. " alt="" coords="220,208,391,235"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="lib/libarch/MemoryContext.h" name="lib/libarch/MemoryContext.h">
+<area shape="rect" id="node2" href="$ARMFirstTable_8h.html" title="lib/libarch/arm/ARMFirst\lTable.h" alt="" coords="5,169,168,211"/>
+<area shape="rect" id="node5" href="$ARMSecondTable_8h.html" title="lib/libarch/arm/ARMSecond\lTable.h" alt="" coords="192,80,373,121"/>
+<area shape="rect" id="node7" href="$ARMPaging_8h.html" title="lib/libarch/arm/ARMPaging.h" alt="" coords="398,177,586,203"/>
+<area shape="rect" id="node8" href="$IntelAPIC_8cpp.html" title="lib/libarch/intel/IntelAPIC.cpp" alt="" coords="530,87,721,114"/>
+<area shape="rect" id="node9" href="$IntelPageDirectory_8h.html" title="lib/libarch/intel/IntelPage\lDirectory.h" alt="" coords="610,169,774,211"/>
+<area shape="rect" id="node11" href="$IntelPaging_8h.html" title="lib/libarch/intel/IntelPaging.h" alt="" coords="805,266,990,293"/>
+<area shape="rect" id="node14" href="$IntelPageTable_8h.html" title="lib/libarch/intel/IntelPage\lTable.h" alt="" coords="797,80,961,121"/>
+<area shape="rect" id="node16" href="$IO_8cpp.html" title="lib/libarch/IO.cpp" alt="" coords="1037,87,1157,114"/>
+<area shape="rect" id="node17" href="$MemoryContext_8cpp.html" title="lib/libarch/MemoryContext.cpp" alt="" coords="1182,87,1381,114"/>
+<area shape="rect" id="node18" href="$ProcessShares_8h.html" title="kernel/ProcessShares.h" alt="" coords="1405,87,1566,114"/>
+<area shape="rect" id="node3" href="$ARMFirstTable_8cpp.html" title="lib/libarch/arm/ARMFirst\lTable.cpp" alt="" coords="5,259,168,300"/>
+<area shape="rect" id="node4" href="$ARMPaging_8cpp.html" title="lib/libarch/arm/ARMPaging.cpp" alt="" coords="288,266,491,293"/>
+<area shape="rect" id="node6" href="$ARMSecondTable_8cpp.html" title="lib/libarch/arm/ARMSecond\lTable.cpp" alt="" coords="192,169,373,211"/>
+<area shape="rect" id="node10" href="$IntelPageDirectory_8cpp.html" title="lib/libarch/intel/IntelPage\lDirectory.cpp" alt="" coords="610,259,774,300"/>
+<area shape="rect" id="node12" href="$IntelPaging_8cpp.html" title="lib/libarch/intel/IntelPaging.cpp" alt="" coords="810,348,1009,375"/>
+<area shape="rect" id="node13" href="$IntelProcess_8cpp.html" title="kernel/intel/IntelProcess.cpp" alt="" coords="599,348,785,375"/>
+<area shape="rect" id="node15" href="$IntelPageTable_8cpp.html" title="lib/libarch/intel/IntelPage\lTable.cpp" alt="" coords="798,169,962,211"/>
+<area shape="rect" id="node19" href="$Process_8h.html" title="kernel/Process.h" alt="" coords="1367,177,1487,203"/>
+<area shape="rect" id="node28" href="$ProcessEvent_8h.html" title="kernel/ProcessEvent.h" alt="" coords="1563,177,1717,203"/>
+<area shape="rect" id="node20" href="$Kernel_8h.html" title="kernel/Kernel.h" alt="" coords="1032,423,1141,449"/>
+<area shape="rect" id="node21" href="$Kernel_8cpp.html" title="kernel/Kernel.cpp" alt="" coords="1389,497,1512,524"/>
+<area shape="rect" id="node23" href="$ProcessManager_8h.html" title="kernel/ProcessManager.h" alt="" coords="1108,348,1279,375"/>
+<area shape="rect" id="node25" href="$Scheduler_8h.html" title="kernel/Scheduler.h" alt="" coords="1335,266,1465,293"/>
+<area shape="rect" id="node27" href="$Process_8cpp.html" title="kernel/Process.cpp" alt="" coords="1573,266,1707,293"/>
+<area shape="rect" id="node22" href="$Support_8cpp.html" title="kernel/Support.cpp" alt="" coords="1021,497,1152,524"/>
+<area shape="rect" id="node24" href="$ProcessManager_8cpp.html" title="kernel/ProcessManager.cpp" alt="" coords="1165,423,1349,449"/>
+<area shape="rect" id="node26" href="$Scheduler_8cpp.html" title="kernel/Scheduler.cpp" alt="" coords="1303,348,1447,375"/>
+<area shape="rect" id="node29" href="$ProcessShares_8cpp.html" title="kernel/ProcessShares.cpp" alt="" coords="1731,266,1906,293"/>
+</map>

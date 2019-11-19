@@ -1,0 +1,10 @@
+<map id="Remove::Remove" name="Remove::Remove">
+<area shape="rect" id="node2" href="$classApplication.html#aebd040ff73509d68c710a7bb834516f5" title="Get program arguments parser. " alt="" coords="220,48,351,75"/>
+<area shape="rect" id="node3" href="$classArgumentParser.html#a2e5840dddb56bda71a7d6987b35046fd" title="Register a positional argument. " alt="" coords="202,99,369,141"/>
+<area shape="rect" id="node9" href="$classArgumentParser.html#a8e84b945e1af8063ef9a92d7e3ddd516" title="Set program description. " alt="" coords="181,165,389,192"/>
+<area shape="rect" id="node4" href="$classVector.html#ad4ec64e1b926715078b114a8aec5bfe7" title="Return item at the given position as a reference. " alt="" coords="483,5,562,32"/>
+<area shape="rect" id="node5" href="$classVector.html#ae70975d764c7a5da6e6e5fe2cdc6d902" title="Returns the number of items inside the Vector. " alt="" coords="473,56,573,83"/>
+<area shape="rect" id="node6" href="$classVector.html#ab799ad03fc3659650ae44574b7e37885" title="Adds the given item to the Vector, if possible. " alt="" coords="473,107,573,133"/>
+<area shape="rect" id="node7" href="$classArgument.html#a253814066c2df81df7c01dbc9cb34323" title="Set argument maximum count. " alt="" coords="453,157,592,184"/>
+<area shape="rect" id="node8" href="$classArgument.html#a7c94c53b0a6d910c4108957837c3c8cc" title="Set argument single line description. " alt="" coords="437,208,608,235"/>
+</map>

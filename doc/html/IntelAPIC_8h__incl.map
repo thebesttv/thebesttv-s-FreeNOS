@@ -1,0 +1,10 @@
+<map id="lib/libarch/intel/IntelAPIC.h" name="lib/libarch/intel/IntelAPIC.h">
+<area shape="rect" id="node2" href="$Types_8h.html" title="Types.h" alt="" coords="168,304,237,331"/>
+<area shape="rect" id="node3" href="$BitOperations_8h.html" title="BitOperations.h" alt="" coords="364,304,476,331"/>
+<area shape="rect" id="node4" href="$IntController_8h.html" title="IntController.h" alt="" coords="21,155,125,181"/>
+<area shape="rect" id="node6" href="$Timer_8h.html" title="Timer.h" alt="" coords="149,155,216,181"/>
+<area shape="rect" id="node7" href="$IntelIO_8h.html" title="IntelIO.h" alt="" coords="219,80,291,107"/>
+<area shape="rect" id="node5" href="$Macros_8h.html" title="Macros.h" alt="" coords="89,229,165,256"/>
+<area shape="rect" id="node8" href="$IO_8h.html" title="IO.h" alt="" coords="291,155,338,181"/>
+<area shape="rect" id="node9" href="$Memory_8h.html" title="Memory.h" alt="" coords="341,229,421,256"/>
+</map>

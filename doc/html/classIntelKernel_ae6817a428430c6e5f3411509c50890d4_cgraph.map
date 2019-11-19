@@ -1,0 +1,21 @@
+<map id="IntelKernel::clocktick" name="IntelKernel::clocktick">
+<area shape="rect" id="node2" href="$classIntelAPIC.html#ad4ab46611d2ad7a6418fe724e19688b8" title="Clear hardware interrupt (IRQ). " alt="" coords="231,5,346,32"/>
+<area shape="rect" id="node4" href="$classKernel.html#a78150ddbf611c5315beffade433d97f5" title="Enable or disable an hardware interrupt (IRQ). " alt="" coords="224,56,353,83"/>
+<area shape="rect" id="node7" href="$classTimer.html#aaa9c3808a01ca6b015a1f8f79dfaa5d7" title="Get timer interrupt number. " alt="" coords="224,107,353,133"/>
+<area shape="rect" id="node8" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="197,157,380,184"/>
+<area shape="rect" id="node9" href="$classProcessManager.html#a9ec8ab3db50af16139ac564462fd8113" title="Schedule next process to run. " alt="" coords="199,208,379,235"/>
+<area shape="rect" id="node20" href="$classTimer.html#a32c16498e1024ceb801072997fc649b7" title="Process timer tick. " alt="" coords="247,259,331,285"/>
+<area shape="rect" id="node3" href="$classIntelIO.html#acac064b53744689861075df14670a208" title="Write memory mapped register. " alt="" coords="451,5,548,32"/>
+<area shape="rect" id="node5" href="$classIntController.html#af38bce3abca853e6ff728bbd3fc17b68" title="Enable hardware interrupt (IRQ). " alt="" coords="430,56,569,83"/>
+<area shape="rect" id="node6" href="$classIntController.html#a4b6f8810ed57e31ab1b3dc823f6ca5cd" title="Disable hardware interrupt (IRQ). " alt="" coords="428,107,571,133"/>
+<area shape="rect" id="node10" href="$classScheduler.html#a93f4a071be4cfdc2fc39985c8b44b3d4" title="Select the next process to run. " alt="" coords="438,208,561,235"/>
+<area shape="rect" id="node13" href="$classProcess.html#a6646d3a3c0c0a8bc38a7b13a0742f2b7" title="Retrieves the current state. " alt="" coords="637,107,763,133"/>
+<area shape="rect" id="node18" href="$classProcess.html#a9ec902ec6a2f5ce894538d0fd0436c3f" title="Puts the Process in a new state. " alt="" coords="436,259,563,285"/>
+<area shape="rect" id="node19" href="$classProcess.html#a7dd922daa1549a0569af53dfc6da4faa" title="Allow the Process to run on the CPU. " alt="" coords="437,309,561,336"/>
+<area shape="rect" id="node11" href="$classVector.html#a71a2cdd05ceafcfcfd4e739fafac88dc" title="Returns the maximum size of this Vector. " alt="" coords="654,157,746,184"/>
+<area shape="rect" id="node12" href="$classVector.html#ad4ec64e1b926715078b114a8aec5bfe7" title="Return item at the given position as a reference. " alt="" coords="661,208,739,235"/>
+<area shape="rect" id="node14" href="$classTimer.html#ac5a06c01ff30bfa4be9f458676aa6ad5" title="Check if a timer value is expired. " alt="" coords="641,259,759,285"/>
+<area shape="rect" id="node15" href="$classProcess.html#a051b000ed769d5d7f3fc3d1e393bd22c" title="Get sleep timer. " alt="" coords="619,309,781,336"/>
+<area shape="rect" id="node16" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="639,360,761,387"/>
+<area shape="rect" id="node17" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="829,360,957,387"/>
+</map>

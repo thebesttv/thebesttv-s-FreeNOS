@@ -1,0 +1,15 @@
+<map id="lib/libarch/intel/IntelACPI.h" name="lib/libarch/intel/IntelACPI.h">
+<area shape="rect" id="node2" href="$Types_8h.html" title="Types.h" alt="" coords="372,453,441,480"/>
+<area shape="rect" id="node3" href="$CoreManager_8h.html" title="CoreManager.h" alt="" coords="359,80,470,107"/>
+<area shape="rect" id="node13" href="$IntelIO_8h.html" title="IntelIO.h" alt="" coords="571,229,643,256"/>
+<area shape="rect" id="node4" href="$List_8h.html" title="List.h" alt="" coords="307,155,362,181"/>
+<area shape="rect" id="node10" href="$CoreInfo_8h.html" title="CoreInfo.h" alt="" coords="456,304,539,331"/>
+<area shape="rect" id="node5" href="$Macros_8h.html" title="Macros.h" alt="" coords="369,379,445,405"/>
+<area shape="rect" id="node6" href="$Assert_8h.html" title="Assert.h" alt="" coords="43,304,114,331"/>
+<area shape="rect" id="node7" href="$Sequence_8h.html" title="Sequence.h" alt="" coords="240,229,331,256"/>
+<area shape="rect" id="node8" href="$Container_8h.html" title="Container.h" alt="" coords="241,304,330,331"/>
+<area shape="rect" id="node9" href="$Comparable_8h.html" title="Comparable.h" alt="" coords="190,379,293,405"/>
+<area shape="rect" id="node11" href="$Memory_8h.html" title="Memory.h" alt="" coords="621,379,701,405"/>
+<area shape="rect" id="node12" href="$BitOperations_8h.html" title="BitOperations.h" alt="" coords="605,453,717,480"/>
+<area shape="rect" id="node14" href="$IO_8h.html" title="IO.h" alt="" coords="614,304,661,331"/>
+</map>

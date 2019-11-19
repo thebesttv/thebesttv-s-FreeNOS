@@ -1,0 +1,5 @@
+<map id="Ethernet::getTransmitPacket" name="Ethernet::getTransmitPacket">
+<area shape="rect" id="node2" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="268,5,407,32"/>
+<area shape="rect" id="node3" href="$classNetworkQueue.html#a9b9501dddae13170f4ecf4d0ae19b275" title="Get unused packet. " alt="" coords="270,56,405,83"/>
+<area shape="rect" id="node4" href="$classNetworkDevice.html#aae60292ea5be2c9204bad3e341087944" title="Get transmit queue. " alt="" coords="243,107,432,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IntelPageDirectory::access" name="IntelPageDirectory::access">
+<area shape="rect" id="node2" href="$classIntelPageTable.html#a7e2c1d99bf019f9bbc57a3638e5a8ea3" title="Get Access flags for a virtual address. " alt="" coords="184,5,343,32"/>
+<area shape="rect" id="node3" href="$classIntelPageDirectory.html#a363a61c2e7066c97db6cc7188fbe6a9c" title="Retrieve second level page table. " alt="" coords="198,57,329,98"/>
+<area shape="rect" id="node4" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="391,64,545,91"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="NetworkSocket" name="NetworkSocket">
+<area shape="rect" id="node3" href="$classARPSocket.html" title="Address Resolution Protocol (ARP) socket. " alt="" coords="5,505,124,685"/>
+<area shape="rect" id="node4" href="$classICMPSocket.html" title="Internet Control Message Protocol (ICMP) socket. " alt="" coords="149,476,274,715"/>
+<area shape="rect" id="node5" href="$classUDPSocket.html" title="User Datagram Protocol (UDP) socket. " alt="" coords="298,483,418,707"/>
+<area shape="rect" id="node2" href="$classFile.html" title="Represents a file present on a FileSystem. " alt="" coords="161,5,261,229"/>
+</map>

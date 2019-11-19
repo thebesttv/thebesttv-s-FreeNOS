@@ -1,0 +1,11 @@
+<map id="ARMKernel::trap" name="ARMKernel::trap">
+<area shape="rect" id="node2" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="403,39,541,66"/>
+<area shape="rect" id="node3" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="179,39,347,66"/>
+<area shape="rect" id="node4" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="190,343,337,370"/>
+<area shape="rect" id="node6" href="$classKernel.html#a60f25a78fe3c9615bb0e1d86bd7cde09" title="Get API. " alt="" coords="210,141,317,167"/>
+<area shape="rect" id="node7" href="$classProcess.html#a7141f7e80a83977aafa7754949841991" title="Retrieve our ID number. " alt="" coords="208,191,319,218"/>
+<area shape="rect" id="node8" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="172,242,355,269"/>
+<area shape="rect" id="node9" href="$classAPI.html#abbf635573961463f6594598203f53983" title="Execute a generic API function. " alt="" coords="218,293,309,319"/>
+<area shape="rect" id="node10" href="$classARMProcess.html#a00bc26a6e74bf977ed119760fba2eed4" title="Overwrite the saved CPU registers for this task. " alt="" coords="173,90,354,117"/>
+<area shape="rect" id="node5" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="429,318,515,345"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RaspiSerial::write" name="RaspiSerial::write">
+<area shape="rect" id="node2" href="$classRaspiSerial.html#aa358e0518f0fe4c45bcd3af7fab7bbd7" title="Transmit a byte via UART0. " alt="" coords="179,31,293,57"/>
+<area shape="rect" id="node3" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="343,5,442,32"/>
+<area shape="rect" id="node5" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="341,56,444,83"/>
+<area shape="rect" id="node4" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="492,31,539,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="LCDBar::textCommand" name="LCDBar::textCommand">
+<area shape="rect" id="node2" href="$classI2C.html#a61c44194f5273680d1bf706e04422425" title="Set Slave address. " alt="" coords="212,5,329,32"/>
+<area shape="rect" id="node3" href="$classI2C.html#aabe7c21c4ead0ea56208271d780478c1" title="Write data to slave. " alt="" coords="231,56,310,83"/>
+</map>

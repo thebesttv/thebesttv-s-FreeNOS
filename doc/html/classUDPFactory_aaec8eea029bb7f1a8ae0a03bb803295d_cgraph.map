@@ -1,0 +1,23 @@
+<map id="UDPFactory::read" name="UDPFactory::read">
+<area shape="rect" id="node2" href="$classUDP.html#a5055893d506a96f04a3f0126d273e1ec" title="Creates an UDP socket. " alt="" coords="181,81,317,108"/>
+<area shape="rect" id="node6" href="$classString.html#a56af6fa23cea28a3dcff9a407b8e6f6e" title="Same as count(). " alt="" coords="200,157,299,184"/>
+<area shape="rect" id="node8" href="$classIOBuffer.html#a06d0e16dd5210252b807c01f0bcf5d1d" title="Write bytes to the I/O buffer. " alt="" coords="196,208,303,235"/>
+<area shape="rect" id="node3" href="$classFileSystem.html#abbcf90e56a0063b6ce287d5198fd65d2" title="Get mount path. " alt="" coords="365,5,543,32"/>
+<area shape="rect" id="node4" href="$classIndex.html#ac511d39b3c9e5c0aff9ef3bb0e7aacf7" title="Adds the given item to the Sequence, if possible. " alt="" coords="407,56,501,83"/>
+<area shape="rect" id="node5" href="$classFileSystem.html#a334300c3435c6ddd0053ee653a5446ae" title="Register a new File. " alt="" coords="374,107,534,133"/>
+<area shape="rect" id="node7" href="$classString.html#a2512f6d1a8a68cad6bb8d06c4b931b78" title="Number of characters in the string. " alt="" coords="406,157,502,184"/>
+<area shape="rect" id="node9" href="$group__kernelapi.html#ga5be322040426be788bdc19a6ecf801a3" title="Prototype for user applications. " alt="" coords="417,208,491,235"/>
+<area shape="rect" id="node10" href="$group__kernel__arm.html#ga63e9fc1f03dbdaf4cf8a1b97fc08c181" title="Perform a kernel trap with 5 arguments. " alt="" coords="606,183,694,209"/>
+<area shape="rect" id="node11" href="$group__kernelapi__handler.html#ga0c29868260c88eaf04cb542f88686eba" title="VMCopyHandler" alt="" coords="591,233,709,260"/>
+<area shape="rect" id="node12" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="783,31,921,57"/>
+<area shape="rect" id="node13" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="768,81,936,108"/>
+<area shape="rect" id="node14" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="767,183,937,209"/>
+<area shape="rect" id="node15" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="995,132,1156,159"/>
+<area shape="rect" id="node17" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="779,233,925,260"/>
+<area shape="rect" id="node19" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="757,284,947,311"/>
+<area shape="rect" id="node20" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="761,335,943,361"/>
+<area shape="rect" id="node21" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="778,385,926,412"/>
+<area shape="rect" id="node22" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="771,436,933,463"/>
+<area shape="rect" id="node16" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="1008,183,1143,209"/>
+<area shape="rect" id="node18" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="1032,233,1119,260"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Kernel::enableIRQ" name="Kernel::enableIRQ">
+<area shape="rect" id="node2" href="$classIntController.html#a4b6f8810ed57e31ab1b3dc823f6ca5cd" title="Disable hardware interrupt (IRQ). " alt="" coords="183,5,325,32"/>
+<area shape="rect" id="node3" href="$classIntController.html#af38bce3abca853e6ff728bbd3fc17b68" title="Enable hardware interrupt (IRQ). " alt="" coords="185,56,323,83"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="ARPSocket::write" name="ARPSocket::write">
+<area shape="rect" id="node2" href="$classARP.html#a5b7fa65e6bb28d457df46e5f0b130eca" title="Lookup Ethernet address for an IP. " alt="" coords="180,157,324,184"/>
+<area shape="rect" id="node14" href="$classIOBuffer.html#a0f67cd71d7257be69aac1fd36a8376ac" title="Read bytes from the I/O buffer. " alt="" coords="200,292,304,319"/>
+<area shape="rect" id="node3" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="864,241,1003,268"/>
+<area shape="rect" id="node4" href="$classARP.html#aec23854a71722103ee41572890f3231f" title="Retrieve cache entry by IP. " alt="" coords="623,5,769,32"/>
+<area shape="rect" id="node7" href="$classARP.html#a0dbf49edb1f20ff3d9722429d99cc758" title="Send ARP request. " alt="" coords="395,157,530,184"/>
+<area shape="rect" id="node13" href="$classChannelServer.html#a67b17654ce3daee71986fa35936923a3" title="Set a sleep timeout. " alt="" coords="372,56,553,83"/>
+<area shape="rect" id="node5" href="$classARP.html#ab55711ffdbd99c13d44b8b9b19b3201d" title="Insert a new entry to the ARP cache. " alt="" coords="854,5,1013,32"/>
+<area shape="rect" id="node6" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="1093,31,1221,57"/>
+<area shape="rect" id="node8" href="$classIPV4.html#a576d750783f893603e0a50d19af6dbb8" title="Get current IP address. " alt="" coords="633,157,759,184"/>
+<area shape="rect" id="node9" href="$classEthernet.html#a60618d1805589b67c93fb7cd607c3590" title="Get a new packet for transmission. " alt="" coords="601,107,791,133"/>
+<area shape="rect" id="node12" href="$classNetworkDevice.html#a90c01d858f47ea5e4aae3de63569bcd2" title="Transmit one network packet. " alt="" coords="613,208,779,235"/>
+<area shape="rect" id="node10" href="$classNetworkDevice.html#aae60292ea5be2c9204bad3e341087944" title="Get transmit queue. " alt="" coords="839,158,1028,199"/>
+<area shape="rect" id="node11" href="$classNetworkQueue.html#a9b9501dddae13170f4ecf4d0ae19b275" title="Get unused packet. " alt="" coords="866,107,1001,133"/>
+<area shape="rect" id="node15" href="$group__kernelapi.html#ga5be322040426be788bdc19a6ecf801a3" title="Prototype for user applications. " alt="" coords="426,419,499,445"/>
+<area shape="rect" id="node16" href="$group__kernel__arm.html#ga63e9fc1f03dbdaf4cf8a1b97fc08c181" title="Perform a kernel trap with 5 arguments. " alt="" coords="652,469,740,496"/>
+<area shape="rect" id="node17" href="$group__kernelapi__handler.html#ga0c29868260c88eaf04cb542f88686eba" title="VMCopyHandler" alt="" coords="637,419,755,445"/>
+<area shape="rect" id="node18" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="849,545,1017,572"/>
+<area shape="rect" id="node19" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="848,596,1019,623"/>
+<area shape="rect" id="node21" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="1076,647,1237,673"/>
+<area shape="rect" id="node22" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="860,292,1007,319"/>
+<area shape="rect" id="node24" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="839,343,1028,369"/>
+<area shape="rect" id="node25" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="842,393,1025,420"/>
+<area shape="rect" id="node26" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="859,444,1007,471"/>
+<area shape="rect" id="node27" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="852,495,1015,521"/>
+<area shape="rect" id="node20" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="1089,596,1224,623"/>
+<area shape="rect" id="node23" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="1113,292,1200,319"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIntController.html" title="Interrupt controller interface. " alt="" coords="5,56,99,83"/>
+<area shape="rect" id="node2" href="$classARMInterrupt.html" title="ARM interrupt controller. " alt="" coords="154,5,254,32"/>
+<area shape="rect" id="node4" href="$classIntelAPIC.html" title="Intel Advanced Programmable Interrupt Controller (APIC) " alt="" coords="165,107,243,133"/>
+<area shape="rect" id="node5" href="$classIntelPIC.html" title="Intel 8259 Programmable Interrupt Controller (PIC). " alt="" coords="169,56,239,83"/>
+<area shape="rect" id="node3" href="$classBroadcomInterrupt.html" title="Raspberry Pi Interrupt Controller implementation. " alt="" coords="309,5,439,32"/>
+<area shape="rect" id="node6" href="$classTimer.html" title="Represents a configurable timer device. " alt="" coords="25,183,79,209"/>
+<area shape="rect" id="node7" href="$classARMTimer.html" title="ARM Generic Timer. " alt="" coords="161,157,247,184"/>
+<area shape="rect" id="node8" href="$classBroadcomTimer.html" title="Broadcom System&#45;on&#45;Chip system timer. " alt="" coords="147,208,261,235"/>
+<area shape="rect" id="node9" href="$classIntelPIT.html" title="Intel 8254 Programmable Interrupt Timer (PIT). " alt="" coords="170,259,238,285"/>
+</map>

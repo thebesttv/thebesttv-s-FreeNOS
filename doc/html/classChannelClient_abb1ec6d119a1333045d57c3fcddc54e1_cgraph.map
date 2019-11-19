@@ -1,0 +1,51 @@
+<map id="ChannelClient::syncReceiveFrom" name="ChannelClient::syncReceiveFrom">
+<area shape="rect" id="node2" href="$classChannelClient.html#a56daa48259cf6261046b2531538026bd" title="Get consumer for a process. " alt="" coords="272,360,465,386"/>
+<area shape="rect" id="node20" href="$group__kernelapi.html#ga12fbd36d91338390f4a6742d5014549b" title="Prototype for user applications. " alt="" coords="325,600,412,626"/>
+<area shape="rect" id="node50" href="$classChannel.html#a4d9a8069c57eb34826aef5e7668e0d5c" title="Read a message. " alt="" coords="317,650,420,677"/>
+<area shape="rect" id="node3" href="$classChannelClient.html#af5c4c533e308236e27fadc3023c78fae" title="Connect to a process. " alt="" coords="537,182,695,209"/>
+<area shape="rect" id="node18" href="$classChannelRegistry.html#acbea3fa6573333fa04e3e8aa551aab9c" title="Get one consumer. " alt="" coords="513,360,719,386"/>
+<area shape="rect" id="node4" href="$classChannelRegistry.html#abec1162d49834500b8b12ade07195569" title="Register consumer channel. " alt="" coords="771,51,942,92"/>
+<area shape="rect" id="node6" href="$classChannelRegistry.html#a13b4bb2f3c2b9cf41a7892629b30951c" title="Register producer channel. " alt="" coords="771,116,942,158"/>
+<area shape="rect" id="node7" href="$classMemoryChannel.html#a129ab5ef349f3a02c176bfeb9a278067" title="Set message size. " alt="" coords="1185,208,1408,234"/>
+<area shape="rect" id="node8" href="$classChannel.html#a0a74777169f6e2595c8d6b14a1b81939" title="Set mode. " alt="" coords="1233,309,1361,336"/>
+<area shape="rect" id="node9" href="$classMemoryChannel.html#a98c90914af564760f49e7fc7c7f2ec2b" title="Set memory pages by virtual address. " alt="" coords="1207,66,1387,93"/>
+<area shape="rect" id="node11" href="$group__kernelapi.html#ga07a263a55c709f82332071f1c13120e4" title="Prototype for user applications. " alt="" coords="819,233,895,260"/>
+<area shape="rect" id="node5" href="$classHashTable.html#aca817cc527f487ee411e43d76300be51" title="Inserts the given item to the Assocation. " alt="" coords="1003,92,1129,118"/>
+<area shape="rect" id="node10" href="$classIO.html#a38aa546b761d55567cc7d092952e3846" title="Set I/O base offset. " alt="" coords="1456,66,1548,93"/>
+<area shape="rect" id="node12" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="1022,233,1110,260"/>
+<area shape="rect" id="node13" href="$group__kernelapi__handler.html#ga93d23efcf930b139b99f9a1307ee782e" title="VMShareHandler" alt="" coords="1005,524,1127,550"/>
+<area shape="rect" id="node14" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="1213,410,1381,437"/>
+<area shape="rect" id="node15" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="1223,694,1370,721"/>
+<area shape="rect" id="node17" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="1205,832,1388,858"/>
+<area shape="rect" id="node16" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="1459,694,1545,721"/>
+<area shape="rect" id="node19" href="$classHashTable.html#a55e0412bf855cba66404a212fbb6538e" title="Returns the first value for the given key. " alt="" coords="801,360,912,386"/>
+<area shape="rect" id="node21" href="$group__kernelapi__handler.html#gab0b11ce62f6e443b5cfcce1b2166337a" title="Kernel handler prototype. " alt="" coords="550,841,682,868"/>
+<area shape="rect" id="node49" href="$group__kernel__arm.html#ga14d133f19f1676815a72954cdb8dfdb0" title="Perform a kernel trap with 4 arguments. " alt="" coords="572,600,660,626"/>
+<area shape="rect" id="node22" href="$classProcessManager.html#a0ef7841c21b18edd2e557ed728b9ff14" title="Create and add a new Process. " alt="" coords="775,714,939,741"/>
+<area shape="rect" id="node26" href="$classKernel.html#a78150ddbf611c5315beffade433d97f5" title="Enable or disable an hardware interrupt (IRQ). " alt="" coords="792,968,921,994"/>
+<area shape="rect" id="node29" href="$classTimer.html#a0bc063befca581e7711d68738d9e6479" title="Get current timer info. " alt="" coords="795,1018,919,1045"/>
+<area shape="rect" id="node30" href="$classProcess.html#a7141f7e80a83977aafa7754949841991" title="Retrieve our ID number. " alt="" coords="1011,1069,1121,1096"/>
+<area shape="rect" id="node31" href="$classProcess.html#a8ab7858b15c1850639d9aeabe4964fce" title="Retrieve our parent ID. " alt="" coords="789,461,924,488"/>
+<area shape="rect" id="node32" href="$classProcess.html#a4dc446cd1e1d33894900f536a5c092b0" title="Get Wait ID. " alt="" coords="795,512,918,538"/>
+<area shape="rect" id="node33" href="$classKernel.html#a623b3d0e5c29fc9cdc33cf58f3c1cf32" title="Hooks a function to an hardware interrupt. " alt="" coords="783,765,931,792"/>
+<area shape="rect" id="node34" href="$ProcessCtl_8cpp.html#a42d215984f7570fe4ec3270f3115df35" title="interruptNotify" alt="" coords="805,1170,909,1197"/>
+<area shape="rect" id="node36" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="1235,1221,1358,1248"/>
+<area shape="rect" id="node37" href="$classProcessManager.html#a0e2bab17085cbc63154183dd0f426ac7" title="Remove a Process. " alt="" coords="771,1120,942,1146"/>
+<area shape="rect" id="node39" href="$classProcessManager.html#a9ec8ab3db50af16139ac564462fd8113" title="Schedule next process to run. " alt="" coords="767,1322,947,1349"/>
+<area shape="rect" id="node42" href="$classProcess.html#a9ec902ec6a2f5ce894538d0fd0436c3f" title="Puts the Process in a new state. " alt="" coords="1003,1424,1129,1450"/>
+<area shape="rect" id="node44" href="$classProcess.html#a766e7acf165f4eaa603bbcd618ca0dae" title="Set parent process ID. " alt="" coords="789,562,924,589"/>
+<area shape="rect" id="node45" href="$classProcess.html#ab4499eac03dac58fc1d6b3f68fb8bcf3" title="Set sleep timer. " alt="" coords="775,664,938,690"/>
+<area shape="rect" id="node47" href="$classProcess.html#afd4ddd296ec79672b969d1185656f324" title="Set Wait ID. " alt="" coords="795,816,918,842"/>
+<area shape="rect" id="node48" href="$classProcess.html#ab4e4215dc07222ff0f950a556624c706" title="Stops the process for executing until woken up. " alt="" coords="802,613,911,640"/>
+<area shape="rect" id="node23" href="$classVector.html#ae70975d764c7a5da6e6e5fe2cdc6d902" title="Returns the number of items inside the Vector. " alt="" coords="1016,714,1116,741"/>
+<area shape="rect" id="node24" href="$classProcess.html#a66a65f3acada5290d038bbc08f1f1409" title="Initialize the Process. " alt="" coords="1003,284,1129,310"/>
+<area shape="rect" id="node25" href="$classVector.html#ab799ad03fc3659650ae44574b7e37885" title="Adds the given item to the Vector, if possible. " alt="" coords="1016,765,1116,792"/>
+<area shape="rect" id="node27" href="$classIntController.html#af38bce3abca853e6ff728bbd3fc17b68" title="Enable hardware interrupt (IRQ). " alt="" coords="997,968,1135,994"/>
+<area shape="rect" id="node28" href="$classIntController.html#a4b6f8810ed57e31ab1b3dc823f6ca5cd" title="Disable hardware interrupt (IRQ). " alt="" coords="995,1018,1137,1045"/>
+<area shape="rect" id="node35" href="$classProcess.html#a824da42e1b9d20918edbf029c20a6ee6" title="Raise kernel event. " alt="" coords="996,1170,1136,1197"/>
+<area shape="rect" id="node38" href="$classVector.html#a71a2cdd05ceafcfcfd4e739fafac88dc" title="Returns the maximum size of this Vector. " alt="" coords="1251,1145,1343,1172"/>
+<area shape="rect" id="node40" href="$classScheduler.html#a93f4a071be4cfdc2fc39985c8b44b3d4" title="Select the next process to run. " alt="" coords="1005,1272,1127,1298"/>
+<area shape="rect" id="node41" href="$classProcess.html#a6646d3a3c0c0a8bc38a7b13a0742f2b7" title="Retrieves the current state. " alt="" coords="1233,1322,1360,1349"/>
+<area shape="rect" id="node43" href="$classProcess.html#a7dd922daa1549a0569af53dfc6da4faa" title="Allow the Process to run on the CPU. " alt="" coords="1004,1322,1128,1349"/>
+<area shape="rect" id="node46" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="997,638,1135,665"/>
+</map>

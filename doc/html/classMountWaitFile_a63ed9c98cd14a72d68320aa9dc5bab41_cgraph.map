@@ -1,0 +1,25 @@
+<map id="MountWaitFile::write" name="MountWaitFile::write">
+<area shape="rect" id="node2" href="$group__libposix.html#gac354733314cb429afd8cdde8980ebb73" title="Get mounts table. " alt="" coords="207,237,289,264"/>
+<area shape="rect" id="node3" href="$classIOBuffer.html#a0f67cd71d7257be69aac1fd36a8376ac" title="Read bytes from the I/O buffer. " alt="" coords="196,288,300,315"/>
+<area shape="rect" id="node18" href="$group__libposix.html#ga69f4e7001d6b78c8b968d0df94e20d00" title="Compare two strings. " alt="" coords="217,339,279,365"/>
+<area shape="rect" id="node19" href="$classString.html#a2f0491700ffa82cbd355dc7993b9e58e" title="Remove leading and trailing whitespace from the String. " alt="" coords="205,396,291,423"/>
+<area shape="rect" id="node4" href="$group__kernelapi.html#ga5be322040426be788bdc19a6ecf801a3" title="Prototype for user applications. " alt="" coords="395,263,468,289"/>
+<area shape="rect" id="node5" href="$group__kernel__arm.html#ga63e9fc1f03dbdaf4cf8a1b97fc08c181" title="Perform a kernel trap with 5 arguments. " alt="" coords="584,263,672,289"/>
+<area shape="rect" id="node6" href="$group__kernelapi__handler.html#ga0c29868260c88eaf04cb542f88686eba" title="VMCopyHandler" alt="" coords="569,211,687,237"/>
+<area shape="rect" id="node7" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="767,411,905,437"/>
+<area shape="rect" id="node8" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="752,107,920,133"/>
+<area shape="rect" id="node9" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="751,208,921,235"/>
+<area shape="rect" id="node10" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="979,157,1140,184"/>
+<area shape="rect" id="node12" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="763,259,909,285"/>
+<area shape="rect" id="node14" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="741,309,931,336"/>
+<area shape="rect" id="node15" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="745,360,927,387"/>
+<area shape="rect" id="node16" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="762,5,910,32"/>
+<area shape="rect" id="node17" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="755,56,917,83"/>
+<area shape="rect" id="node11" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="992,208,1127,235"/>
+<area shape="rect" id="node13" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="1016,259,1103,285"/>
+<area shape="rect" id="node20" href="$classString.html#a1d5e5fce1df0494079a6f6dd8b005ef5" title="Make sure at least given number of bytes available. " alt="" coords="378,459,485,485"/>
+<area shape="rect" id="node23" href="$namespaceCharacter.html#ac6ed8727b9bab090159b190226c4589c" title="Test for a white&#45;space character. " alt="" coords="348,357,515,384"/>
+<area shape="rect" id="node21" href="$classString.html#a9407a1a3e3b7544c8debcdd01b544fd7" title="Change the size of the String buffer. " alt="" coords="579,459,677,485"/>
+<area shape="rect" id="node22" href="$classString.html#a8b90b144eb3fb76e299d3609c8b9ab4a" title="Calculates the length of the String. " alt="" coords="792,461,880,488"/>
+<area shape="rect" id="node24" href="$namespaceCharacter.html#af579acb38847a475005e6c4298edff24" title="Test for a blank character. " alt="" coords="563,357,693,384"/>
+</map>

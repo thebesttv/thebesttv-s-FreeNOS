@@ -1,0 +1,6 @@
+<map id="libarch" name="libarch">
+<area shape="rect" id="node1" href="$group__lib.html" title="Libraries contain shared code that can be used anywhere, such as in user programs, servers and the kernel. " alt="" coords="5,56,44,83"/>
+<area shape="rect" id="node2" href="$group__libarch__intel.html" title="Intel architecture specific code such as multiprocessor, virtual memory and exception/interrupt handl..." alt="" coords="217,5,264,32"/>
+<area shape="rect" id="node3" href="$group__libarch__arm.html" title="ARM architecture specific code such as caching, virtual memory and exception/interrupt handling..." alt="" coords="215,56,267,83"/>
+<area shape="rect" id="node4" href="$group__libarch__bcm.html" title="Broadcom System&#45;on&#45;Chip (SoC) device specific code including timers, interrupt controllers and more..." alt="" coords="200,107,281,133"/>
+</map>

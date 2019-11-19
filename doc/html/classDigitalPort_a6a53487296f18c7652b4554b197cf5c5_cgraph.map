@@ -1,0 +1,20 @@
+<map id="DigitalPort::read" name="DigitalPort::read">
+<area shape="rect" id="node2" href="$classI2C.html#ac5b1626d33dc840299eac4199faa1b6e" title="Read data from slave. " alt="" coords="190,31,266,57"/>
+<area shape="rect" id="node3" href="$classI2C.html#a61c44194f5273680d1bf706e04422425" title="Set Slave address. " alt="" coords="169,81,287,108"/>
+<area shape="rect" id="node4" href="$classI2C.html#aabe7c21c4ead0ea56208271d780478c1" title="Write data to slave. " alt="" coords="189,132,267,159"/>
+<area shape="rect" id="node5" href="$classIOBuffer.html#a06d0e16dd5210252b807c01f0bcf5d1d" title="Write bytes to the I/O buffer. " alt="" coords="175,183,281,209"/>
+<area shape="rect" id="node6" href="$group__kernelapi.html#ga5be322040426be788bdc19a6ecf801a3" title="Prototype for user applications. " alt="" coords="335,183,408,209"/>
+<area shape="rect" id="node7" href="$group__kernel__arm.html#ga63e9fc1f03dbdaf4cf8a1b97fc08c181" title="Perform a kernel trap with 5 arguments. " alt="" coords="471,157,559,184"/>
+<area shape="rect" id="node8" href="$group__kernelapi__handler.html#ga0c29868260c88eaf04cb542f88686eba" title="VMCopyHandler" alt="" coords="456,208,575,235"/>
+<area shape="rect" id="node9" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="648,5,787,32"/>
+<area shape="rect" id="node10" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="633,56,801,83"/>
+<area shape="rect" id="node11" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="632,107,803,133"/>
+<area shape="rect" id="node13" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="860,157,1021,184"/>
+<area shape="rect" id="node14" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="644,208,791,235"/>
+<area shape="rect" id="node16" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="623,259,812,285"/>
+<area shape="rect" id="node17" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="626,309,809,336"/>
+<area shape="rect" id="node18" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="643,360,791,387"/>
+<area shape="rect" id="node19" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="636,411,799,437"/>
+<area shape="rect" id="node12" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="873,107,1008,133"/>
+<area shape="rect" id="node15" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="897,208,984,235"/>
+</map>

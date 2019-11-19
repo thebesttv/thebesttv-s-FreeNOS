@@ -1,0 +1,51 @@
+<map id="USBHub::initialize" name="USBHub::initialize">
+<area shape="rect" id="node2" href="$classUSBDevice.html#aaf55b517965f99c755864c610fcd3513" title="Send a control message. " alt="" coords="644,264,835,291"/>
+<area shape="rect" id="node21" href="$classUSBDevice.html#afb6e56d2773b98a58ffdf7685402a997" title="Initialize the USBDevice. " alt="" coords="183,213,329,240"/>
+<area shape="rect" id="node38" href="$classUSBHub.html#ad2666569bbc5442b83a16837fe71471d" title="Attach device on port. " alt="" coords="185,416,327,443"/>
+<area shape="rect" id="node39" href="$classUSBHub.html#a462d0bf9b464a97b955395ae27bd628a" title="Set feature on a HUB port. " alt="" coords="403,391,571,417"/>
+<area shape="rect" id="node3" href="$classUSBDevice.html#acd08915048f926df9dec9c1c4316ea55" title="Submit a USB transfer to the Host controller. " alt="" coords="883,276,1021,303"/>
+<area shape="rect" id="node6" href="$group__kernelapi.html#ga9752f8ef780a39bcf7ce48eb67deca39" title="Prototype for user applications. " alt="" coords="923,352,981,379"/>
+<area shape="rect" id="node4" href="$group__libposix.html#gaab5144dac9e072c9873087599a994f5c" title="The strerror function maps the number in errnum to a message string. " alt="" coords="1091,213,1153,240"/>
+<area shape="rect" id="node5" href="$classFile.html#ad6f3a65a4a001f6a4550cdbec43ac5ba" title="Write bytes to the file. " alt="" coords="1083,264,1161,291"/>
+<area shape="rect" id="node7" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="1078,365,1166,392"/>
+<area shape="rect" id="node8" href="$group__kernelapi__handler.html#ga7e35b1f297737d57ac3f79ca8632b34d" title="VMCtlHandler" alt="" coords="1070,315,1174,341"/>
+<area shape="rect" id="node9" href="$classMemoryContext.html#a9166c20ab0a3708774ec3ac07ae50bb9" title="Get Access flags for a virtual address. " alt="" coords="1249,416,1415,443"/>
+<area shape="rect" id="node10" href="$classARMCacheV6.html#a88a0e4e6579549ffef53e6b80a970d5f" title="Clean and invalidate entire cache. " alt="" coords="1231,467,1433,493"/>
+<area shape="rect" id="node11" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="1248,517,1416,544"/>
+<area shape="rect" id="node12" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="1247,61,1417,88"/>
+<area shape="rect" id="node13" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="1489,36,1651,63"/>
+<area shape="rect" id="node15" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="1259,112,1405,139"/>
+<area shape="rect" id="node16" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="1237,163,1427,189"/>
+<area shape="rect" id="node17" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="1241,213,1423,240"/>
+<area shape="rect" id="node18" href="$classMemoryContext.html#a314f86fc54c4ee24f1d785e3b9eda0fe" title="Map a range of physical pages to virtual addresses. " alt="" coords="1239,264,1425,291"/>
+<area shape="rect" id="node19" href="$classMemoryContext.html#aee370322039e6193d47679700a891b9b" title="Release a range of physical memory by its virtual memory pages. " alt="" coords="1231,315,1433,341"/>
+<area shape="rect" id="node20" href="$classMemoryContext.html#a8a62be5bc77d0abdf8e4fa9c9da91830" title="Unmaps a range of virtual memory. " alt="" coords="1232,365,1432,392"/>
+<area shape="rect" id="node14" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="1503,315,1637,341"/>
+<area shape="rect" id="node22" href="$classUSBDevice.html#a43980caae0e8d112c59a9a6592668187" title="Get configuration descriptor. " alt="" coords="379,87,594,113"/>
+<area shape="rect" id="node23" href="$classUSBDevice.html#a28afab819af4db3e2fcc4b83082e2906" title="Get device descriptor. " alt="" coords="377,340,596,367"/>
+<area shape="rect" id="node24" href="$classIndex.html#ac511d39b3c9e5c0aff9ef3bb0e7aacf7" title="Adds the given item to the Sequence, if possible. " alt="" coords="439,188,534,215"/>
+<area shape="rect" id="node25" href="$group__libposix.html#ga2533b93d6921573ef2b7b51f6f5773be" title="Open file relative to directory file descriptor. " alt="" coords="927,872,977,899"/>
+<area shape="rect" id="node36" href="$classUSBDevice.html#af60e42c38b0be78b73a9c5139f081b66" title="Set device address. " alt="" coords="404,137,569,164"/>
+<area shape="rect" id="node37" href="$classUSBDevice.html#a531ae9929eb57ff17777ce67053752b3" title="Activate a configuration. " alt="" coords="389,239,584,265"/>
+<area shape="rect" id="node26" href="$group__libposix.html#gaeca2fafdf28810cbd795173d70c82e4c" title="Retrieve the ProcessID of the FileSystemMount for the given path. " alt="" coords="1083,1075,1161,1101"/>
+<area shape="rect" id="node27" href="$group__libposix.html#ga23514e1aea4ac87970baa7e854aacf76" title="Get the pathname of the current working directory. " alt="" coords="1300,1024,1364,1051"/>
+<area shape="rect" id="node29" href="$group__libposix.html#gad47f82ff13c1d74edf1747e95241c9cc" title="Write a formatted string into a buffer. " alt="" coords="1299,923,1365,949"/>
+<area shape="rect" id="node30" href="$group__libposix.html#ga072ac10bfd51fd99aeb5a9ef1b286ee0" title="Copy src to string dst of size siz. " alt="" coords="1301,1176,1363,1203"/>
+<area shape="rect" id="node33" href="$group__libposix.html#ga0af43a6f2789e73809c0e5b0dc1fab8c" title="Get File Descriptors table. " alt="" coords="1088,669,1156,696"/>
+<area shape="rect" id="node34" href="$classChannelClient.html#a286c72577e158c27e5285585a3e6afec" title="Synchronous send and receive to/from one process. " alt="" coords="1223,745,1441,772"/>
+<area shape="rect" id="node35" href="$group__libposix.html#gac4ae75dc6b95783edb345a0bf7b1daab" title="Refresh mounted filesystems. " alt="" coords="1069,720,1175,747"/>
+<area shape="rect" id="node31" href="$group__libposix.html#ga0e7075c7598deb8dff05efcdb0d65ee2" title="Calculate the length of a string. " alt="" coords="1305,1125,1359,1152"/>
+<area shape="rect" id="node32" href="$group__libposix.html#ga0d56ca50f07bef34c1e8c67ecfbda91b" title="Compare two strings, by only a maximum number of bytes. " alt="" coords="1297,1075,1367,1101"/>
+<area shape="rect" id="node28" href="$group__libposix.html#gae1e87ddb1eda7aaecbb45bad5af17db4" title="Get current directory String. " alt="" coords="1502,1151,1638,1177"/>
+<area shape="rect" id="node40" href="$group__libposix.html#ga079ae2c46d636d71f064deabd6bb21b5" title="Sleep for the specified number of seconds. " alt="" coords="460,1176,513,1203"/>
+<area shape="rect" id="node42" href="$group__libposix.html#ga1cfc5a1cc53fc07636b0e1635c58d032" title="Create a new process and execute program. " alt="" coords="451,695,523,721"/>
+<area shape="rect" id="node41" href="$group__kernelapi.html#ga12fbd36d91338390f4a6742d5014549b" title="Prototype for user applications. " alt="" coords="696,1328,783,1355"/>
+<area shape="rect" id="node43" href="$group__libposix.html#gae191761bbeb366d70e6a040eb7a0531a" title="Get file status. " alt="" coords="930,973,974,1000"/>
+<area shape="rect" id="node44" href="$group__libposix.html#ga98939e9e730babe3b02992133f17b19f" title="Read from a file. " alt="" coords="716,771,763,797"/>
+<area shape="rect" id="node45" href="$group__libposix.html#ga5254bb8024414512a0efe8168b31dda0" title="Close a file descriptor. " alt="" coords="713,821,766,848"/>
+<area shape="rect" id="node46" href="$classExecutableFormat.html#a90048f27da21d7133e55816adc379d95" title="Find a ExecutableFormat which can handle the given format. " alt="" coords="661,416,818,443"/>
+<area shape="rect" id="node47" href="$classExecutableFormat.html#ae96893f84f8fdcd0155aa7f980646a32" title="Lookup the program entry point. " alt="" coords="657,467,822,493"/>
+<area shape="rect" id="node48" href="$classExecutableFormat.html#aac4d5e4195d28a9e2743d74a1ac571a5" title="Memory regions a program needs at runtime. " alt="" coords="650,517,829,544"/>
+<area shape="rect" id="node49" href="$group__kernelapi.html#ga5be322040426be788bdc19a6ecf801a3" title="Prototype for user applications. " alt="" coords="703,568,776,595"/>
+<area shape="rect" id="node50" href="$group__libposix.html#ga9d73d3a02c9adaedb3aef9b17cf275f4" title="Fill memory with a constant byte. " alt="" coords="705,720,774,747"/>
+</map>

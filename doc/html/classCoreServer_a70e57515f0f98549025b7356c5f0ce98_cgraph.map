@@ -1,0 +1,35 @@
+<map id="CoreServer::discover" name="CoreServer::discover">
+<area shape="rect" id="node2" href="$classCoreServer.html#a27b9ceb36b2f2ca31373b16cce979098" title="Clear memory pages with zeroes. " alt="" coords="201,233,362,260"/>
+<area shape="rect" id="node3" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="412,183,540,209"/>
+<area shape="rect" id="node30" href="$classList.html#a3e06fb4c452a6f958528e24c70cd9f82" title="Get the number of items on the list. " alt="" coords="240,284,323,311"/>
+<area shape="rect" id="node31" href="$classExecutableFormat.html#ae96893f84f8fdcd0155aa7f980646a32" title="Lookup the program entry point. " alt="" coords="199,335,364,361"/>
+<area shape="rect" id="node32" href="$classListIterator.html#a6750d850524a46222fff4d24d1479f4c" title="Check if there is a current item on the List. " alt="" coords="203,385,359,412"/>
+<area shape="rect" id="node33" href="$classIndex.html#ac511d39b3c9e5c0aff9ef3bb0e7aacf7" title="Adds the given item to the Sequence, if possible. " alt="" coords="234,436,329,463"/>
+<area shape="rect" id="node34" href="$group__libposix.html#ga072ac10bfd51fd99aeb5a9ef1b286ee0" title="Copy src to string dst of size siz. " alt="" coords="251,487,312,513"/>
+<area shape="rect" id="node4" href="$group__kernelapi.html#ga9752f8ef780a39bcf7ce48eb67deca39" title="Prototype for user applications. " alt="" coords="447,233,505,260"/>
+<area shape="rect" id="node5" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="596,208,684,235"/>
+<area shape="rect" id="node6" href="$group__kernelapi__handler.html#ga7e35b1f297737d57ac3f79ca8632b34d" title="VMCtlHandler" alt="" coords="588,259,692,285"/>
+<area shape="rect" id="node7" href="$classMemoryContext.html#a9166c20ab0a3708774ec3ac07ae50bb9" title="Get Access flags for a virtual address. " alt="" coords="759,5,924,32"/>
+<area shape="rect" id="node8" href="$classARMCacheV6.html#a88a0e4e6579549ffef53e6b80a970d5f" title="Clean and invalidate entire cache. " alt="" coords="741,56,942,83"/>
+<area shape="rect" id="node12" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="757,107,925,133"/>
+<area shape="rect" id="node13" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="756,157,927,184"/>
+<area shape="rect" id="node15" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="991,208,1153,235"/>
+<area shape="rect" id="node16" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="768,259,915,285"/>
+<area shape="rect" id="node18" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="747,309,936,336"/>
+<area shape="rect" id="node19" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="750,360,933,387"/>
+<area shape="rect" id="node20" href="$classMemoryContext.html#a314f86fc54c4ee24f1d785e3b9eda0fe" title="Map a range of physical pages to virtual addresses. " alt="" coords="748,411,935,437"/>
+<area shape="rect" id="node27" href="$classMemoryContext.html#aee370322039e6193d47679700a891b9b" title="Release a range of physical memory by its virtual memory pages. " alt="" coords="740,461,943,488"/>
+<area shape="rect" id="node28" href="$classMemoryContext.html#a8a62be5bc77d0abdf8e4fa9c9da91830" title="Unmaps a range of virtual memory. " alt="" coords="741,512,941,539"/>
+<area shape="rect" id="node9" href="$group__libarch__arm.html#ga89596467a58726132500429f17e28f8e" title="Data Synchronisation Barrier. " alt="" coords="1051,5,1093,32"/>
+<area shape="rect" id="node10" href="$group__libarch__arm.html#ga7977246fb5cd6d8ce8eec8d67aed7bf3" title="Flush branch prediction. " alt="" coords="997,56,1147,83"/>
+<area shape="rect" id="node11" href="$group__libarch__arm.html#ga5eba99ff73d51e209ec4334a7b111a0c" title="Flush Prefetch Buffer. " alt="" coords="1005,107,1139,133"/>
+<area shape="rect" id="node14" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="1005,157,1139,184"/>
+<area shape="rect" id="node17" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="1029,259,1115,285"/>
+<area shape="rect" id="node21" href="$classSplitAllocator.html#ae6660e84ec88e5cc88910fed6957f1f9" title="Allocate memory. " alt="" coords="996,385,1148,412"/>
+<area shape="rect" id="node26" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="998,436,1146,463"/>
+<area shape="rect" id="node22" href="$classSplitAllocator.html#ac854862ab9204ba2994aca7e1ebf163d" title="Allocate from lower memory. " alt="" coords="1203,360,1379,387"/>
+<area shape="rect" id="node24" href="$classSplitAllocator.html#a38bb818e168c9f188de6d8c0a28c3771" title="Allocate from high memory. " alt="" coords="1201,411,1380,437"/>
+<area shape="rect" id="node23" href="$classBitAllocator.html#a387bb74bd91c3818a8238e35b92f4e87" title="Allocate memory. " alt="" coords="1428,360,1571,387"/>
+<area shape="rect" id="node25" href="$classBitAllocator.html#aef0d800381639769a03746bde4e5e6a2" title="Get base memory address. " alt="" coords="1437,411,1562,437"/>
+<area shape="rect" id="node29" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="991,512,1153,539"/>
+</map>

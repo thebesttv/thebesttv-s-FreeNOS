@@ -1,0 +1,7 @@
+<map id="ARMKernel::dataAbort" name="ARMKernel::dataAbort">
+<area shape="rect" id="node2" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="207,5,389,32"/>
+<area shape="rect" id="node3" href="$classARMCore.html#a160017f5a9c5be8ffbb409fb2198d2ee" title="Log a CPU exception. " alt="" coords="217,56,379,83"/>
+<area shape="rect" id="node4" href="$classARMCore.html#a42c2e5e7b4c0a3520010e978ee5cddbf" title="Log the CPU state. " alt="" coords="437,56,573,83"/>
+<area shape="rect" id="node5" href="$classARMCore.html#a24a35b3575f173d45f898bcf7ae96be6" title="Log a register. " alt="" coords="621,31,776,57"/>
+<area shape="rect" id="node6" href="$classARMControl.html#aa41086e47dbff0987e6f2205cafbd85e" title="Read a register from the CP15. " alt="" coords="635,81,762,108"/>
+</map>

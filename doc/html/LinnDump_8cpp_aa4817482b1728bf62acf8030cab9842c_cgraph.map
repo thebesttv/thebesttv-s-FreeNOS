@@ -1,0 +1,51 @@
+<map id="usage" name="usage">
+<area shape="rect" id="node2" href="$group__libposix.html#ga890ebdda363ac10fdb2147915fd88e66" title="Output a formatted string to standard output. " alt="" coords="111,373,161,400"/>
+<area shape="rect" id="node3" href="$group__libposix.html#gacc2d12c0e6c25114939f7614e352ddaf" title="Output a formatted string to standard output, using a variable argument list. " alt="" coords="209,373,268,400"/>
+<area shape="rect" id="node4" href="$group__libposix.html#gabef2233b05a7437b010fb9f88987330a" title="Write a formatted string into a buffer. " alt="" coords="1007,461,1079,488"/>
+<area shape="rect" id="node20" href="$group__libposix.html#gac759c3c657671c9979da89ccfc7782aa" title="Write on a file. " alt="" coords="316,189,367,216"/>
+<area shape="rect" id="node5" href="$group__libposix.html#ga07684a2e3d12c3e1b096e0d1d04d21bf" title="Convert a string to an integer. " alt="" coords="1275,411,1318,437"/>
+<area shape="rect" id="node13" href="$classString.html#ae8cad55d820faded6d14cb1ddd0cd2d0" title="Set text&#45;representation of an unsigned number. " alt="" coords="1737,512,1875,539"/>
+<area shape="rect" id="node18" href="$group__libposix.html#ga76b518db1307661c2bdeefa57fba5b41" title="Convert a number to a string. " alt="" coords="1275,512,1318,539"/>
+<area shape="rect" id="node6" href="$classString.html#ab56b290698f03e1e3663bab4071090b2" title="Convert the String to a signed long integer. " alt="" coords="1493,411,1595,437"/>
+<area shape="rect" id="node7" href="$namespaceCharacter.html#ac6ed8727b9bab090159b190226c4589c" title="Test for a white&#45;space character. " alt="" coords="1723,309,1889,336"/>
+<area shape="rect" id="node9" href="$namespaceCharacter.html#aa4897d8a49282497c97561b3ee9f0c70" title="Test for a decimal digit. " alt="" coords="1744,411,1868,437"/>
+<area shape="rect" id="node10" href="$namespaceCharacter.html#a2deefdfb42ee6791aa34371de1f06d94" title="Test for an alphabetic character. " alt="" coords="1741,360,1871,387"/>
+<area shape="rect" id="node11" href="$namespaceCharacter.html#acfa120ffb8aa088c402d4a5174c292f7" title="Test for an uppercase letter. " alt="" coords="1965,436,2097,463"/>
+<area shape="rect" id="node8" href="$namespaceCharacter.html#af579acb38847a475005e6c4298edff24" title="Test for a blank character. " alt="" coords="1966,309,2097,336"/>
+<area shape="rect" id="node12" href="$namespaceCharacter.html#ac2f23f0539d880e9e9b901ca0d2302e0" title="Test for a lowercase letter. " alt="" coords="1965,360,2097,387"/>
+<area shape="rect" id="node14" href="$classString.html#a1d5e5fce1df0494079a6f6dd8b005ef5" title="Make sure at least given number of bytes available. " alt="" coords="1978,512,2085,539"/>
+<area shape="rect" id="node15" href="$classString.html#a9407a1a3e3b7544c8debcdd01b544fd7" title="Change the size of the String buffer. " alt="" coords="2145,512,2244,539"/>
+<area shape="rect" id="node16" href="$classString.html#a8b90b144eb3fb76e299d3609c8b9ab4a" title="Calculates the length of the String. " alt="" coords="2317,487,2405,513"/>
+<area shape="rect" id="node17" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="2292,537,2431,564"/>
+<area shape="rect" id="node19" href="$classString.html#aeb5b69a2d7479b5bbf1b74ef08012e44" title="Set text&#45;representation of a signed number. " alt="" coords="1503,512,1585,539"/>
+<area shape="rect" id="node21" href="$group__libposix.html#ga0af43a6f2789e73809c0e5b0dc1fab8c" title="Get File Descriptors table. " alt="" coords="532,113,600,140"/>
+<area shape="rect" id="node22" href="$group__libposix.html#ga2533b93d6921573ef2b7b51f6f5773be" title="Open file relative to directory file descriptor. " alt="" coords="415,240,465,267"/>
+<area shape="rect" id="node31" href="$classChannelClient.html#a286c72577e158c27e5285585a3e6afec" title="Synchronous send and receive to/from one process. " alt="" coords="667,107,885,133"/>
+<area shape="rect" id="node23" href="$group__libposix.html#gaeca2fafdf28810cbd795173d70c82e4c" title="Retrieve the ProcessID of the FileSystemMount for the given path. " alt="" coords="527,341,605,368"/>
+<area shape="rect" id="node24" href="$group__libposix.html#ga23514e1aea4ac87970baa7e854aacf76" title="Get the pathname of the current working directory. " alt="" coords="744,259,808,285"/>
+<area shape="rect" id="node27" href="$group__libposix.html#gad47f82ff13c1d74edf1747e95241c9cc" title="Write a formatted string into a buffer. " alt="" coords="743,411,809,437"/>
+<area shape="rect" id="node28" href="$group__libposix.html#ga072ac10bfd51fd99aeb5a9ef1b286ee0" title="Copy src to string dst of size siz. " alt="" coords="745,461,807,488"/>
+<area shape="rect" id="node48" href="$group__libposix.html#gac4ae75dc6b95783edb345a0bf7b1daab" title="Refresh mounted filesystems. " alt="" coords="513,215,619,241"/>
+<area shape="rect" id="node29" href="$group__libposix.html#ga0e7075c7598deb8dff05efcdb0d65ee2" title="Calculate the length of a string. " alt="" coords="749,309,803,336"/>
+<area shape="rect" id="node30" href="$group__libposix.html#ga0d56ca50f07bef34c1e8c67ecfbda91b" title="Compare two strings, by only a maximum number of bytes. " alt="" coords="741,360,811,387"/>
+<area shape="rect" id="node25" href="$group__libposix.html#gaca089ed1082107ee201cee82ac577bdd" title="Copy memory from one place to another. " alt="" coords="1007,284,1079,311"/>
+<area shape="rect" id="node26" href="$group__libposix.html#gae1e87ddb1eda7aaecbb45bad5af17db4" title="Get current directory String. " alt="" coords="975,233,1111,260"/>
+<area shape="rect" id="node32" href="$classChannelClient.html#ac6a9dcb00e343ec031f9c76dc4b2cd2d" title="Synchronous send to one process. " alt="" coords="950,56,1135,83"/>
+<area shape="rect" id="node44" href="$classChannelClient.html#abb1ec6d119a1333045d57c3fcddc54e1" title="Synchronous receive from one process. " alt="" coords="933,107,1152,133"/>
+<area shape="rect" id="node33" href="$classChannelClient.html#ab6efc83af441d3b90da3b2cafcaee550" title="Get producer for a process. " alt="" coords="1204,5,1389,32"/>
+<area shape="rect" id="node40" href="$classChannel.html#a384120644263bda09c6b9141a4f45532" title="Write a message. " alt="" coords="1243,56,1350,83"/>
+<area shape="rect" id="node41" href="$group__kernelapi.html#ga12fbd36d91338390f4a6742d5014549b" title="Prototype for user applications. " alt="" coords="1253,157,1340,184"/>
+<area shape="rect" id="node34" href="$classChannelRegistry.html#ac2aed673427aec587152e2e50445c2f1" title="Get one producer. " alt="" coords="1445,5,1643,32"/>
+<area shape="rect" id="node36" href="$classChannelClient.html#af5c4c533e308236e27fadc3023c78fae" title="Connect to a process. " alt="" coords="1465,107,1623,133"/>
+<area shape="rect" id="node35" href="$classHashTable.html#a55e0412bf855cba66404a212fbb6538e" title="Returns the first value for the given key. " alt="" coords="1751,5,1861,32"/>
+<area shape="rect" id="node37" href="$classMemoryChannel.html#a129ab5ef349f3a02c176bfeb9a278067" title="Set message size. " alt="" coords="1695,107,1917,133"/>
+<area shape="rect" id="node38" href="$classChannel.html#a0a74777169f6e2595c8d6b14a1b81939" title="Set mode. " alt="" coords="1742,157,1870,184"/>
+<area shape="rect" id="node39" href="$group__kernelapi.html#ga07a263a55c709f82332071f1c13120e4" title="Prototype for user applications. " alt="" coords="1768,56,1844,83"/>
+<area shape="rect" id="node42" href="$group__kernel__arm.html#ga14d133f19f1676815a72954cdb8dfdb0" title="Perform a kernel trap with 4 arguments. " alt="" coords="1500,208,1588,235"/>
+<area shape="rect" id="node43" href="$group__kernelapi__handler.html#gab0b11ce62f6e443b5cfcce1b2166337a" title="Kernel handler prototype. " alt="" coords="1478,157,1610,184"/>
+<area shape="rect" id="node45" href="$classChannelClient.html#a56daa48259cf6261046b2531538026bd" title="Get consumer for a process. " alt="" coords="1200,107,1393,133"/>
+<area shape="rect" id="node47" href="$classChannel.html#a4d9a8069c57eb34826aef5e7668e0d5c" title="Read a message. " alt="" coords="1245,208,1348,235"/>
+<area shape="rect" id="node46" href="$classChannelRegistry.html#acbea3fa6573333fa04e3e8aa551aab9c" title="Get one consumer. " alt="" coords="1441,56,1647,83"/>
+<area shape="rect" id="node49" href="$group__libposix.html#ga2c73454de96ec1d5cc89415b3de7a4b6" title="Get the process ID. " alt="" coords="1014,157,1071,184"/>
+<area shape="rect" id="node50" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="712,208,840,235"/>
+</map>

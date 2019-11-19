@@ -1,0 +1,3 @@
+<map id="CoreServer" name="CoreServer">
+<area shape="rect" id="node2" href="$classChannelServer.html" title="{ChannelServer\&lt; CoreServer,\l FileSystemMessage \&gt;\n|# m_registry\l# m_client\l# m_kernelEvent\l# m_sendReply\l# m_ipcHandlers\l# m_irqHandlers\l# m_instance\l# m_self\l# m_time\l&#45; m_expiry\l|+ ChannelServer()\l+ ~ChannelServer()\l+ run()\l+ addIPCHandler()\l+ addIRQHandler()\l+ timeout()\l+ retryRequests()\l+ setTimeout()\l&#45; accept()\l&#45; readKernelEvents()\l&#45; readChannels()\l&#45; retryAllRequests()\l}" alt="" coords="5,5,196,391"/>
+</map>

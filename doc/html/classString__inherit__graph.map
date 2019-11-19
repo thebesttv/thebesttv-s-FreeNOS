@@ -1,0 +1,5 @@
+<map id="String" name="String">
+<area shape="rect" id="node2" href="$classSequence.html" title="{Sequence\&lt; char \&gt;\n||+ insert()\l+ insert()\l+ fill()\l+ remove()\l+ removeAt()\l+ clear()\l+ get()\l+ at()\l+ contains()\l+ compareTo()\l+ operator[]()\l+ operator[]()\l+ operator[]()\l+ operator[]()\l}" alt="" coords="73,263,202,531"/>
+<area shape="rect" id="node3" href="$classContainer.html" title="Containers provide access to stored items. " alt="" coords="5,5,112,215"/>
+<area shape="rect" id="node4" href="$classComparable.html" title="{Comparable\&lt; Sequence\l\&lt; char \&gt; \&gt;\n||+ ~Comparable()\l+ equals()\l+ compareTo()\l}" alt="" coords="136,49,299,171"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="String::lower" name="String::lower">
+<area shape="rect" id="node2" href="$namespaceCharacter.html#ad9c5f5cc8ff1f5d0205e9e25f3f2fa92" title="Converts the letter c to lowercase. " alt="" coords="148,5,267,32"/>
+<area shape="rect" id="node3" href="$classString.html#a1d5e5fce1df0494079a6f6dd8b005ef5" title="Make sure at least given number of bytes available. " alt="" coords="154,56,261,83"/>
+<area shape="rect" id="node4" href="$classString.html#a9407a1a3e3b7544c8debcdd01b544fd7" title="Change the size of the String buffer. " alt="" coords="315,56,413,83"/>
+<area shape="rect" id="node5" href="$classString.html#a8b90b144eb3fb76e299d3609c8b9ab4a" title="Calculates the length of the String. " alt="" coords="487,31,575,57"/>
+<area shape="rect" id="node6" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="461,81,600,108"/>
+</map>

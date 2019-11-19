@@ -1,0 +1,51 @@
+<map id="CoreServer::createProcess" name="CoreServer::createProcess">
+<area shape="rect" id="node2" href="$classIndex.html#a5268d422c9b66757b38a7295b3a6c192" title="Returns the item at the given position. " alt="" coords="286,5,366,32"/>
+<area shape="rect" id="node3" href="$classMemoryChannel.html#a8e259a7ce8c03fb4ce133d992d1e45da" title="Read a message. " alt="" coords="251,56,401,83"/>
+<area shape="rect" id="node7" href="$group__libposix.html#gadf47c368d5603dec6d8c72b14a7f5f6f" title="Create a new process using in&#45;memory image. " alt="" coords="296,335,356,361"/>
+<area shape="rect" id="node24" href="$group__kernelapi.html#ga9752f8ef780a39bcf7ce48eb67deca39" title="Prototype for user applications. " alt="" coords="530,411,589,437"/>
+<area shape="rect" id="node38" href="$group__kernelapi.html#ga5be322040426be788bdc19a6ecf801a3" title="Prototype for user applications. " alt="" coords="523,468,596,495"/>
+<area shape="rect" id="node44" href="$classChannelClient.html#ac6a9dcb00e343ec031f9c76dc4b2cd2d" title="Synchronous send to one process. " alt="" coords="233,551,419,577"/>
+<area shape="rect" id="node49" href="$group__libposix.html#gae799f9bb1932ae6ed4e8b920a8522ea5" title="Wait for a child process to stop or terminate. " alt="" coords="295,500,357,527"/>
+<area shape="rect" id="node50" href="$classMemoryChannel.html#a2b3fcbcacbe4d976e001badf6c485fad" title="Write a message. " alt="" coords="249,107,403,133"/>
+<area shape="rect" id="node4" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="510,56,609,83"/>
+<area shape="rect" id="node6" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="508,5,611,32"/>
+<area shape="rect" id="node5" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="775,25,822,52"/>
+<area shape="rect" id="node8" href="$classExecutableFormat.html#a90048f27da21d7133e55816adc379d95" title="Find a ExecutableFormat which can handle the given format. " alt="" coords="481,107,638,133"/>
+<area shape="rect" id="node11" href="$classExecutableFormat.html#ae96893f84f8fdcd0155aa7f980646a32" title="Lookup the program entry point. " alt="" coords="477,157,642,184"/>
+<area shape="rect" id="node12" href="$group__kernelapi.html#ga12fbd36d91338390f4a6742d5014549b" title="Prototype for user applications. " alt="" coords="516,544,603,571"/>
+<area shape="rect" id="node23" href="$classExecutableFormat.html#aac4d5e4195d28a9e2743d74a1ac571a5" title="Memory regions a program needs at runtime. " alt="" coords="470,259,649,285"/>
+<area shape="rect" id="node30" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="1210,236,1345,263"/>
+<area shape="rect" id="node42" href="$group__libposix.html#ga9d73d3a02c9adaedb3aef9b17cf275f4" title="Fill memory with a constant byte. " alt="" coords="525,309,594,336"/>
+<area shape="rect" id="node43" href="$group__libposix.html#ga072ac10bfd51fd99aeb5a9ef1b286ee0" title="Copy src to string dst of size siz. " alt="" coords="529,360,590,387"/>
+<area shape="rect" id="node9" href="$classELF.html#a4bebf4cbdd5ed525886f7196ca5a0c5b" title="Read ELF header from memory. " alt="" coords="753,96,844,123"/>
+<area shape="rect" id="node10" href="$classELF.html#aa62214827898f59eb4ddaf35a5356487" title="Class constructor. " alt="" coords="1007,84,1086,111"/>
+<area shape="rect" id="node13" href="$group__kernelapi__handler.html#gab0b11ce62f6e443b5cfcce1b2166337a" title="Kernel handler prototype. " alt="" coords="733,895,865,921"/>
+<area shape="rect" id="node22" href="$group__kernel__arm.html#ga14d133f19f1676815a72954cdb8dfdb0" title="Perform a kernel trap with 4 arguments. " alt="" coords="755,945,843,972"/>
+<area shape="rect" id="node14" href="$classProcessManager.html#a0ef7841c21b18edd2e557ed728b9ff14" title="Create and add a new Process. " alt="" coords="965,1047,1129,1073"/>
+<area shape="rect" id="node15" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="963,844,1131,871"/>
+<area shape="rect" id="node16" href="$classKernel.html#a78150ddbf611c5315beffade433d97f5" title="Enable or disable an hardware interrupt (IRQ). " alt="" coords="982,1097,1111,1124"/>
+<area shape="rect" id="node17" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="973,895,1120,921"/>
+<area shape="rect" id="node18" href="$classTimer.html#a0bc063befca581e7711d68738d9e6479" title="Get current timer info. " alt="" coords="985,1148,1109,1175"/>
+<area shape="rect" id="node19" href="$classProcess.html#a7141f7e80a83977aafa7754949841991" title="Retrieve our ID number. " alt="" coords="991,945,1102,972"/>
+<area shape="rect" id="node20" href="$classProcess.html#a8ab7858b15c1850639d9aeabe4964fce" title="Retrieve our parent ID. " alt="" coords="979,996,1114,1023"/>
+<area shape="rect" id="node21" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="955,591,1138,617"/>
+<area shape="rect" id="node25" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="755,367,843,393"/>
+<area shape="rect" id="node26" href="$group__kernelapi__handler.html#ga7e35b1f297737d57ac3f79ca8632b34d" title="VMCtlHandler" alt="" coords="747,417,851,444"/>
+<area shape="rect" id="node27" href="$classMemoryContext.html#a9166c20ab0a3708774ec3ac07ae50bb9" title="Get Access flags for a virtual address. " alt="" coords="964,185,1129,212"/>
+<area shape="rect" id="node28" href="$classARMCacheV6.html#a88a0e4e6579549ffef53e6b80a970d5f" title="Clean and invalidate entire cache. " alt="" coords="946,236,1147,263"/>
+<area shape="rect" id="node29" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="961,337,1132,364"/>
+<area shape="rect" id="node31" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="1197,388,1358,415"/>
+<area shape="rect" id="node32" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="952,540,1141,567"/>
+<area shape="rect" id="node33" href="$classMemoryContext.html#a314f86fc54c4ee24f1d785e3b9eda0fe" title="Map a range of physical pages to virtual addresses. " alt="" coords="953,489,1140,516"/>
+<area shape="rect" id="node35" href="$classMemoryContext.html#aee370322039e6193d47679700a891b9b" title="Release a range of physical memory by its virtual memory pages. " alt="" coords="945,287,1148,313"/>
+<area shape="rect" id="node36" href="$classMemoryContext.html#a8a62be5bc77d0abdf8e4fa9c9da91830" title="Unmaps a range of virtual memory. " alt="" coords="947,439,1147,465"/>
+<area shape="rect" id="node34" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="1203,616,1351,643"/>
+<area shape="rect" id="node37" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="1196,501,1359,528"/>
+<area shape="rect" id="node39" href="$group__kernel__arm.html#ga63e9fc1f03dbdaf4cf8a1b97fc08c181" title="Perform a kernel trap with 5 arguments. " alt="" coords="755,468,843,495"/>
+<area shape="rect" id="node40" href="$group__kernelapi__handler.html#ga0c29868260c88eaf04cb542f88686eba" title="VMCopyHandler" alt="" coords="739,667,858,693"/>
+<area shape="rect" id="node41" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="977,793,1116,820"/>
+<area shape="rect" id="node45" href="$classChannelClient.html#ab6efc83af441d3b90da3b2cafcaee550" title="Get producer for a process. " alt="" coords="467,996,652,1023"/>
+<area shape="rect" id="node48" href="$classChannel.html#a384120644263bda09c6b9141a4f45532" title="Write a message. " alt="" coords="506,595,613,621"/>
+<area shape="rect" id="node46" href="$classChannelClient.html#af5c4c533e308236e27fadc3023c78fae" title="Connect to a process. " alt="" coords="719,1047,878,1073"/>
+<area shape="rect" id="node47" href="$classChannelRegistry.html#ac2aed673427aec587152e2e50445c2f1" title="Get one producer. " alt="" coords="700,996,897,1023"/>
+</map>

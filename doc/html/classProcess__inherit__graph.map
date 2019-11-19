@@ -1,0 +1,4 @@
+<map id="Process" name="Process">
+<area shape="rect" id="node2" href="$classARMProcess.html" title="ARM specific process implementation. " alt="" coords="5,424,136,589"/>
+<area shape="rect" id="node3" href="$classIntelProcess.html" title="Process which may execute on an Intel CPU. " alt="" coords="161,446,287,567"/>
+</map>

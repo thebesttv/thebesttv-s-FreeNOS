@@ -1,0 +1,8 @@
+<map id="CoreServer::test" name="CoreServer::test">
+<area shape="rect" id="node2" href="$classIndex.html#a5268d422c9b66757b38a7295b3a6c192" title="Returns the item at the given position. " alt="" coords="209,5,289,32"/>
+<area shape="rect" id="node3" href="$classMemoryChannel.html#a8e259a7ce8c03fb4ce133d992d1e45da" title="Read a message. " alt="" coords="173,107,324,133"/>
+<area shape="rect" id="node7" href="$classMemoryChannel.html#a2b3fcbcacbe4d976e001badf6c485fad" title="Write a message. " alt="" coords="172,56,325,83"/>
+<area shape="rect" id="node4" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="375,56,474,83"/>
+<area shape="rect" id="node6" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="373,107,476,133"/>
+<area shape="rect" id="node5" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="524,81,571,108"/>
+</map>

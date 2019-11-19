@@ -1,0 +1,26 @@
+<map id="lib/libposix/StdioLog.h" name="lib/libposix/StdioLog.h">
+<area shape="rect" id="node2" href="$bin_2bench_2Main_8cpp.html" title="bin/bench/Main.cpp" alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$bin_2cat_2Main_8cpp.html" title="bin/cat/Main.cpp" alt="" coords="164,80,283,107"/>
+<area shape="rect" id="node4" href="$bin_2echo_2Main_8cpp.html" title="bin/echo/Main.cpp" alt="" coords="307,80,435,107"/>
+<area shape="rect" id="node5" href="$bin_2hostname_2Main_8cpp.html" title="bin/hostname/Main.cpp" alt="" coords="459,80,617,107"/>
+<area shape="rect" id="node6" href="$bin_2login_2Main_8cpp.html" title="bin/login/Main.cpp" alt="" coords="641,80,768,107"/>
+<area shape="rect" id="node7" href="$bin_2ls_2Main_8cpp.html" title="bin/ls/Main.cpp" alt="" coords="792,80,903,107"/>
+<area shape="rect" id="node8" href="$bin_2mknod_2Main_8cpp.html" title="bin/mknod/Main.cpp" alt="" coords="927,80,1066,107"/>
+<area shape="rect" id="node9" href="$bin_2mount_2Main_8cpp.html" title="bin/mount/Main.cpp" alt="" coords="1090,80,1226,107"/>
+<area shape="rect" id="node10" href="$bin_2netcat_2Main_8cpp.html" title="bin/netcat/Main.cpp" alt="" coords="1250,80,1386,107"/>
+<area shape="rect" id="node11" href="$bin_2netctl_2Main_8cpp.html" title="bin/netctl/Main.cpp" alt="" coords="1411,80,1543,107"/>
+<area shape="rect" id="node12" href="$bin_2netping_2Main_8cpp.html" title="bin/netping/Main.cpp" alt="" coords="1567,80,1709,107"/>
+<area shape="rect" id="node13" href="$bin_2netrecv_2Main_8cpp.html" title="bin/netrecv/Main.cpp" alt="" coords="1733,80,1876,107"/>
+<area shape="rect" id="node14" href="$bin_2netsend_2Main_8cpp.html" title="bin/netsend/Main.cpp" alt="" coords="1901,80,2047,107"/>
+<area shape="rect" id="node15" href="$bin_2prime_2Main_8cpp.html" title="bin/prime/Main.cpp" alt="" coords="2072,80,2204,107"/>
+<area shape="rect" id="node16" href="$bin_2ps_2Main_8cpp.html" title="bin/ps/Main.cpp" alt="" coords="2229,80,2343,107"/>
+<area shape="rect" id="node17" href="$bin_2rm_2Main_8cpp.html" title="bin/rm/Main.cpp" alt="" coords="2367,80,2482,107"/>
+<area shape="rect" id="node18" href="$bin_2sh_2Main_8cpp.html" title="bin/sh/Main.cpp" alt="" coords="2506,80,2621,107"/>
+<area shape="rect" id="node19" href="$bin_2sleep_2Main_8cpp.html" title="bin/sleep/Main.cpp" alt="" coords="2645,80,2775,107"/>
+<area shape="rect" id="node20" href="$bin_2stat_2Main_8cpp.html" title="bin/stat/Main.cpp" alt="" coords="2799,80,2922,107"/>
+<area shape="rect" id="node21" href="$bin_2sysinfo_2Main_8cpp.html" title="bin/sysinfo/Main.cpp" alt="" coords="2947,80,3089,107"/>
+<area shape="rect" id="node22" href="$bin_2touch_2Main_8cpp.html" title="bin/touch/Main.cpp" alt="" coords="3113,80,3245,107"/>
+<area shape="rect" id="node23" href="$bin_2uname_2Main_8cpp.html" title="bin/uname/Main.cpp" alt="" coords="3270,80,3409,107"/>
+<area shape="rect" id="node24" href="$StdioLog_8cpp.html" title="lib/libposix/StdioLog.cpp" alt="" coords="3433,80,3595,107"/>
+<area shape="rect" id="node25" href="$server_2core_2Main_8cpp.html" title="server/core/Main.cpp" alt="" coords="3619,80,3763,107"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="server/ata/ATAController.h" name="server/ata/ATAController.h">
+<area shape="rect" id="node2" href="$List_8h.html" title="List.h" alt="" coords="363,155,417,181"/>
+<area shape="rect" id="node9" href="$Device_8h.html" title="Device.h" alt="" coords="647,80,722,107"/>
+<area shape="rect" id="node3" href="$Macros_8h.html" title="Macros.h" alt="" coords="375,379,451,405"/>
+<area shape="rect" id="node5" href="$Assert_8h.html" title="Assert.h" alt="" coords="5,304,76,331"/>
+<area shape="rect" id="node6" href="$Sequence_8h.html" title="Sequence.h" alt="" coords="278,229,369,256"/>
+<area shape="rect" id="node4" href="$Types_8h.html" title="Types.h" alt="" coords="491,453,561,480"/>
+<area shape="rect" id="node7" href="$Container_8h.html" title="Container.h" alt="" coords="279,304,368,331"/>
+<area shape="rect" id="node8" href="$Comparable_8h.html" title="Comparable.h" alt="" coords="152,304,255,331"/>
+<area shape="rect" id="node10" href="$File_8h.html" title="File.h" alt="" coords="817,155,872,181"/>
+<area shape="rect" id="node13" href="$FileSystemMessage_8h.html" title="FileSystemMessage.h" alt="" coords="847,304,999,331"/>
+<area shape="rect" id="node15" href="$FileType_8h.html" title="FileType.h" alt="" coords="1037,453,1119,480"/>
+<area shape="rect" id="node16" href="$FileMode_8h.html" title="FileMode.h" alt="" coords="640,379,727,405"/>
+<area shape="rect" id="node18" href="$IOBuffer_8h.html" title="IOBuffer.h" alt="" coords="803,229,886,256"/>
+<area shape="rect" id="node19" href="$errno_8h.html" title="errno.h" alt="" coords="545,304,608,331"/>
+<area shape="rect" id="node14" href="$ChannelMessage_8h.html" title="ChannelMessage.h" alt="" coords="751,379,885,405"/>
+<area shape="rect" id="node17" href="$FileStat_8h.html" title="FileStat.h" alt="" coords="961,379,1040,405"/>
+</map>

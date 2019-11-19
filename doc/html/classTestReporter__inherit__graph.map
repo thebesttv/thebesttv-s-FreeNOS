@@ -1,0 +1,4 @@
+<map id="TestReporter" name="TestReporter">
+<area shape="rect" id="node2" href="$classStdoutReporter.html" title="Output TestResults to standard output. " alt="" coords="5,424,136,560"/>
+<area shape="rect" id="node3" href="$classTAPReporter.html" title="Output TestResults in TAP format to stdout. " alt="" coords="161,424,279,560"/>
+</map>

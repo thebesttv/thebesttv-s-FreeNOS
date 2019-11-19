@@ -1,0 +1,28 @@
+<map id="lib/libarch/arm/ARMCore.h" name="lib/libarch/arm/ARMCore.h">
+<area shape="rect" id="node2" href="$ARMCacheV6_8cpp.html" title="lib/libarch/arm/ARMCache\lV6.cpp" alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node3" href="$ARMCacheV7_8cpp.html" title="lib/libarch/arm/ARMCache\lV7.cpp" alt="" coords="204,80,379,121"/>
+<area shape="rect" id="node4" href="$ARMControl_8cpp.html" title="lib/libarch/arm/ARMControl.cpp" alt="" coords="403,87,607,114"/>
+<area shape="rect" id="node5" href="$ARMCore_8cpp.html" title="lib/libarch/arm/ARMCore.cpp" alt="" coords="631,87,821,114"/>
+<area shape="rect" id="node6" href="$ARMFirstTable_8cpp.html" title="lib/libarch/arm/ARMFirst\lTable.cpp" alt="" coords="846,80,1009,121"/>
+<area shape="rect" id="node7" href="$ARMIO_8h.html" title="lib/libarch/arm/ARMIO.h" alt="" coords="1033,87,1195,114"/>
+<area shape="rect" id="node25" href="$ARMPaging_8cpp.html" title="lib/libarch/arm/ARMPaging.cpp" alt="" coords="1219,87,1422,114"/>
+<area shape="rect" id="node26" href="$ARMSecondTable_8cpp.html" title="lib/libarch/arm/ARMSecond\lTable.cpp" alt="" coords="1446,80,1627,121"/>
+<area shape="rect" id="node27" href="$ARMTimer_8cpp.html" title="lib/libarch/arm/ARMTimer.cpp" alt="" coords="1651,87,1846,114"/>
+<area shape="rect" id="node8" href="$ARMIO_8cpp.html" title="lib/libarch/arm/ARMIO.cpp" alt="" coords="643,177,819,203"/>
+<area shape="rect" id="node9" href="$Broadcom2836_8h.html" title="lib/libarch/arm/broadcom\l/Broadcom2836.h" alt="" coords="844,169,1008,211"/>
+<area shape="rect" id="node11" href="$BroadcomInterrupt_8h.html" title="lib/libarch/arm/broadcom\l/BroadcomInterrupt.h" alt="" coords="1289,169,1453,211"/>
+<area shape="rect" id="node15" href="$BroadcomMailbox_8h.html" title="lib/libarch/arm/broadcom\l/BroadcomMailbox.h" alt="" coords="1032,169,1196,211"/>
+<area shape="rect" id="node22" href="$BroadcomTimer_8h.html" title="lib/libarch/arm/broadcom\l/BroadcomTimer.h" alt="" coords="1497,169,1661,211"/>
+<area shape="rect" id="node10" href="$Broadcom2836_8cpp.html" title="lib/libarch/arm/broadcom\l/Broadcom2836.cpp" alt="" coords="656,259,820,300"/>
+<area shape="rect" id="node12" href="$BroadcomInterrupt_8cpp.html" title="lib/libarch/arm/broadcom\l/BroadcomInterrupt.cpp" alt="" coords="1220,259,1384,300"/>
+<area shape="rect" id="node13" href="$ARMKernel_8cpp.html" title="kernel/arm/ARMKernel.cpp" alt="" coords="1570,355,1749,382"/>
+<area shape="rect" id="node14" href="$kernel_2arm_2raspberry_2Main_8cpp.html" title="kernel/arm/raspberry\l/Main.cpp" alt="" coords="1459,259,1601,300"/>
+<area shape="rect" id="node16" href="$BroadcomMailbox_8cpp.html" title="lib/libarch/arm/broadcom\l/BroadcomMailbox.cpp" alt="" coords="1032,259,1196,300"/>
+<area shape="rect" id="node17" href="$BroadcomPower_8h.html" title="lib/libarch/arm/broadcom\l/BroadcomPower.h" alt="" coords="844,259,1008,300"/>
+<area shape="rect" id="node18" href="$BroadcomPower_8cpp.html" title="lib/libarch/arm/broadcom\l/BroadcomPower.cpp" alt="" coords="755,348,919,389"/>
+<area shape="rect" id="node19" href="$SynopsisController_8h.html" title="server/usb/controller\l/SynopsisController.h" alt="" coords="943,348,1090,389"/>
+<area shape="rect" id="node20" href="$server_2usb_2controller_2Main_8cpp.html" title="server/usb/controller\l/Main.cpp" alt="" coords="859,437,999,479"/>
+<area shape="rect" id="node21" href="$SynopsisController_8cpp.html" title="server/usb/controller\l/SynopsisController.cpp" alt="" coords="1023,437,1184,479"/>
+<area shape="rect" id="node23" href="$BroadcomTimer_8cpp.html" title="lib/libarch/arm/broadcom\l/BroadcomTimer.cpp" alt="" coords="1625,259,1789,300"/>
+<area shape="rect" id="node24" href="$ARMKernel_8h.html" title="kernel/arm/ARMKernel.h" alt="" coords="1814,266,1979,293"/>
+</map>

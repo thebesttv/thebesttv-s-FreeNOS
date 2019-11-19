@@ -1,0 +1,7 @@
+<map id="IOCtlHandler" name="IOCtlHandler">
+<area shape="rect" id="node2" href="$classARMIO.html#a15f33ae908d563240aed6c5c7b559932" title="Read a byte from a port. " alt="" coords="158,5,249,32"/>
+<area shape="rect" id="node3" href="$classARMIO.html#a2bfa36144acb8530253ec47d403b6e5a" title="Read a word from a port. " alt="" coords="156,56,251,83"/>
+<area shape="rect" id="node4" href="$classARMIO.html#ad6b1a8f949292ffd9e395e0972dc517c" title="Output a byte to a port. " alt="" coords="154,107,253,133"/>
+<area shape="rect" id="node5" href="$classARMIO.html#a01f0ee59b742e46c6fc6a3b1cbb62bf7" title="Output a long to a I/O port. " alt="" coords="156,157,251,184"/>
+<area shape="rect" id="node6" href="$classARMIO.html#a7b79edf1ce5ba5e96f23e80c5ec6bb6a" title="Output a word to a port. " alt="" coords="152,208,255,235"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DeviceServer" name="DeviceServer">
+<area shape="rect" id="node4" href="$classNetworkServer.html" title="Networking server. " alt="" coords="5,1115,143,1221"/>
+<area shape="rect" id="node5" href="$classUSBController.html" title="USB controller abstract interface. " alt="" coords="167,1115,293,1221"/>
+<area shape="rect" id="node2" href="$classFileSystem.html" title="Abstract filesystem class. " alt="" coords="83,439,219,853"/>
+<area shape="rect" id="node3" href="$classChannelServer.html" title="{ChannelServer\&lt; FileSystem,\l FileSystemMessage \&gt;\n|# m_registry\l# m_client\l# m_kernelEvent\l# m_sendReply\l# m_ipcHandlers\l# m_irqHandlers\l# m_instance\l# m_self\l# m_time\l&#45; m_expiry\l|+ ChannelServer()\l+ ~ChannelServer()\l+ run()\l+ addIPCHandler()\l+ addIRQHandler()\l+ timeout()\l+ retryRequests()\l+ setTimeout()\l&#45; accept()\l&#45; readKernelEvents()\l&#45; readChannels()\l&#45; retryAllRequests()\l}" alt="" coords="56,5,247,391"/>
+<area shape="rect" id="node6" href="$classSynopsisController.html" title="Synopsis DesignWare USB Host Controller implementation. " alt="" coords="154,1269,306,1508"/>
+</map>

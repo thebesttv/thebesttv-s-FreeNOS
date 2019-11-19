@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classI2C.html" title="I2C controller abstract interface. " alt="" coords="5,5,48,32"/>
+<area shape="rect" id="node2" href="$classBroadcomI2C.html" title="Broadcom (2835) I2C controller implementation. " alt="" coords="96,5,199,32"/>
+</map>

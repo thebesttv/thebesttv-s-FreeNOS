@@ -1,0 +1,12 @@
+<map id="ProcessManager::schedule" name="ProcessManager::schedule">
+<area shape="rect" id="node2" href="$classProcess.html#a7dd922daa1549a0569af53dfc6da4faa" title="Allow the Process to run on the CPU. " alt="" coords="235,5,359,32"/>
+<area shape="rect" id="node3" href="$classProcess.html#a6646d3a3c0c0a8bc38a7b13a0742f2b7" title="Retrieves the current state. " alt="" coords="426,5,553,32"/>
+<area shape="rect" id="node4" href="$classScheduler.html#a93f4a071be4cfdc2fc39985c8b44b3d4" title="Select the next process to run. " alt="" coords="235,107,358,133"/>
+<area shape="rect" id="node11" href="$classProcess.html#a9ec902ec6a2f5ce894538d0fd0436c3f" title="Puts the Process in a new state. " alt="" coords="233,157,360,184"/>
+<area shape="rect" id="node5" href="$classVector.html#a71a2cdd05ceafcfcfd4e739fafac88dc" title="Returns the maximum size of this Vector. " alt="" coords="443,56,535,83"/>
+<area shape="rect" id="node6" href="$classVector.html#ad4ec64e1b926715078b114a8aec5bfe7" title="Return item at the given position as a reference. " alt="" coords="450,107,529,133"/>
+<area shape="rect" id="node7" href="$classTimer.html#ac5a06c01ff30bfa4be9f458676aa6ad5" title="Check if a timer value is expired. " alt="" coords="431,157,548,184"/>
+<area shape="rect" id="node8" href="$classProcess.html#a051b000ed769d5d7f3fc3d1e393bd22c" title="Get sleep timer. " alt="" coords="408,208,571,235"/>
+<area shape="rect" id="node9" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="428,259,551,285"/>
+<area shape="rect" id="node10" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="619,259,747,285"/>
+</map>

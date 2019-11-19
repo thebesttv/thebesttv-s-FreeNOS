@@ -1,0 +1,5 @@
+<map id="i8250::read" name="i8250::read">
+<area shape="rect" id="node2" href="$classIOBuffer.html#a04a1a7b1c9fd32b837b17fe376c7629a" title="Buffered write bytes to the I/O buffer. " alt="" coords="140,5,297,32"/>
+<area shape="rect" id="node3" href="$group__kernelapi.html#ga7d4fc6a1945b5e23bf473d9c0c4edecb" title="ReadByte" alt="" coords="179,56,259,83"/>
+<area shape="rect" id="node4" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="345,56,433,83"/>
+</map>

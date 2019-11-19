@@ -1,0 +1,36 @@
+<map id="SynopsisController::transfer" name="SynopsisController::transfer">
+<area shape="rect" id="node2" href="$classSynopsisController.html#a822680f49aff282deafb8d9a83c4697c" title="Get a Channel. " alt="" coords="207,49,339,90"/>
+<area shape="rect" id="node5" href="$classSynopsisChannel.html#a4d09f7d9a42f3d48c0249b376990dc6d" title="Start USB transfer. " alt="" coords="185,157,361,184"/>
+<area shape="rect" id="node3" href="$classSynopsisChannel.html#a9174619f50480cc9a3a9e2c28330fc37" title="Get message. " alt="" coords="409,5,612,32"/>
+<area shape="rect" id="node4" href="$classSynopsisChannel.html#aab104be5ce09f7077bd33de1ab90a644" title="Get state. " alt="" coords="420,56,601,83"/>
+<area shape="rect" id="node6" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="663,107,761,133"/>
+<area shape="rect" id="node8" href="$classARMIO.html#a234b5fe087e8d375f9a53d160d6f8a60" title="Set bits in memory mapped register. " alt="" coords="465,157,557,184"/>
+<area shape="rect" id="node9" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="661,157,763,184"/>
+<area shape="rect" id="node10" href="$group__kernelapi.html#ga9752f8ef780a39bcf7ce48eb67deca39" title="Prototype for user applications. " alt="" coords="481,297,540,324"/>
+<area shape="rect" id="node7" href="$group__libarch__arm.html#gac792885e51fe530656ba26b76741a8b5" title="Data Memory Barrier. " alt="" coords="890,107,937,133"/>
+<area shape="rect" id="node11" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="668,297,756,324"/>
+<area shape="rect" id="node12" href="$group__kernelapi__handler.html#ga7e35b1f297737d57ac3f79ca8632b34d" title="VMCtlHandler" alt="" coords="660,385,764,412"/>
+<area shape="rect" id="node13" href="$classMemoryContext.html#a9166c20ab0a3708774ec3ac07ae50bb9" title="Get Access flags for a virtual address. " alt="" coords="831,157,996,184"/>
+<area shape="rect" id="node14" href="$classARMCacheV6.html#a88a0e4e6579549ffef53e6b80a970d5f" title="Clean and invalidate entire cache. " alt="" coords="813,208,1014,235"/>
+<area shape="rect" id="node18" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="829,259,997,285"/>
+<area shape="rect" id="node19" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="828,360,999,387"/>
+<area shape="rect" id="node20" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="1063,309,1225,336"/>
+<area shape="rect" id="node22" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="840,411,987,437"/>
+<area shape="rect" id="node24" href="$classProcess.html#a95edf75b28fd5f0dd6468695fbc704e1" title="Get MMU memory context. " alt="" coords="819,461,1008,488"/>
+<area shape="rect" id="node25" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="822,512,1005,539"/>
+<area shape="rect" id="node26" href="$classMemoryContext.html#a314f86fc54c4ee24f1d785e3b9eda0fe" title="Map a range of physical pages to virtual addresses. " alt="" coords="820,563,1007,589"/>
+<area shape="rect" id="node33" href="$classMemoryContext.html#aee370322039e6193d47679700a891b9b" title="Release a range of physical memory by its virtual memory pages. " alt="" coords="812,613,1015,640"/>
+<area shape="rect" id="node34" href="$classMemoryContext.html#a8a62be5bc77d0abdf8e4fa9c9da91830" title="Unmaps a range of virtual memory. " alt="" coords="813,664,1013,691"/>
+<area shape="rect" id="node15" href="$group__libarch__arm.html#ga89596467a58726132500429f17e28f8e" title="Data Synchronisation Barrier. " alt="" coords="1123,157,1165,184"/>
+<area shape="rect" id="node16" href="$group__libarch__arm.html#ga7977246fb5cd6d8ce8eec8d67aed7bf3" title="Flush branch prediction. " alt="" coords="1069,208,1219,235"/>
+<area shape="rect" id="node17" href="$group__libarch__arm.html#ga5eba99ff73d51e209ec4334a7b111a0c" title="Flush Prefetch Buffer. " alt="" coords="1077,259,1211,285"/>
+<area shape="rect" id="node21" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="1077,360,1211,387"/>
+<area shape="rect" id="node23" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="1101,411,1187,437"/>
+<area shape="rect" id="node27" href="$classSplitAllocator.html#ae6660e84ec88e5cc88910fed6957f1f9" title="Allocate memory. " alt="" coords="1068,537,1220,564"/>
+<area shape="rect" id="node32" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="1070,588,1218,615"/>
+<area shape="rect" id="node28" href="$classSplitAllocator.html#a38bb818e168c9f188de6d8c0a28c3771" title="Allocate from high memory. " alt="" coords="1273,563,1452,589"/>
+<area shape="rect" id="node31" href="$classSplitAllocator.html#ac854862ab9204ba2994aca7e1ebf163d" title="Allocate from lower memory. " alt="" coords="1275,512,1451,539"/>
+<area shape="rect" id="node29" href="$classBitAllocator.html#a387bb74bd91c3818a8238e35b92f4e87" title="Allocate memory. " alt="" coords="1500,512,1643,539"/>
+<area shape="rect" id="node30" href="$classBitAllocator.html#aef0d800381639769a03746bde4e5e6a2" title="Get base memory address. " alt="" coords="1509,563,1634,589"/>
+<area shape="rect" id="node35" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="1063,664,1225,691"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="teken_init" name="teken_init">
+<area shape="rect" id="node2" href="$teken_8c.html#a7e8d085d90aa85688999ca2550791ce3" title="teken_set_winsize" alt="" coords="138,5,269,32"/>
+<area shape="rect" id="node3" href="$teken__subr_8h.html#a7b22d206f4404c0e7de72932fe088546" title="teken_subr_do_reset" alt="" coords="132,56,275,83"/>
+<area shape="rect" id="node4" href="$teken__scs_8h.html#aa488c4afc463e3423343884f0d658474" title="teken_scs_us_ascii" alt="" coords="336,5,473,32"/>
+<area shape="rect" id="node5" href="$teken__subr_8h.html#aa1cb923e17cbd637481809eca671d28f" title="teken_subr_save_cursor" alt="" coords="323,56,487,83"/>
+<area shape="rect" id="node6" href="$teken__subr_8h.html#a3c7758cdb6604eec672b218a4ad02ada" title="teken_tab_default" alt="" coords="342,107,467,133"/>
+<area shape="rect" id="node7" href="$group__libposix.html#ga9d73d3a02c9adaedb3aef9b17cf275f4" title="Fill memory with a constant byte. " alt="" coords="552,81,621,108"/>
+<area shape="rect" id="node8" href="$teken__subr_8h.html#a217070289179f40b5f27cf1d0efdac49" title="teken_tab_set" alt="" coords="535,132,639,159"/>
+</map>

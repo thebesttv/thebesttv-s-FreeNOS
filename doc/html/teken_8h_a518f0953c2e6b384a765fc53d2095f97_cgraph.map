@@ -1,0 +1,17 @@
+<map id="teken_input" name="teken_input">
+<area shape="rect" id="node2" href="$teken_8c.html#a49ddaa1959fdbb58623efb6c13cfd6b9" title="teken_input_byte" alt="" coords="143,199,264,225"/>
+<area shape="rect" id="node3" href="$teken_8c.html#a8c437f77b2ebf041939a0331b3b533b2" title="teken_input_char" alt="" coords="312,199,433,225"/>
+<area shape="rect" id="node4" href="$teken__subr_8h.html#a912d7f53eb4ebcbd8846f6d705dfb0fa" title="teken_subr_backspace" alt="" coords="715,173,871,200"/>
+<area shape="rect" id="node6" href="$teken__subr_8h.html#aa294d608942359ff28031a2cc2b9d85e" title="teken_subr_bell" alt="" coords="512,35,625,61"/>
+<area shape="rect" id="node8" href="$teken__subr_8h.html#a9c388512c0a698dcea36765bd8bf95da" title="teken_subr_carriage\l_return" alt="" coords="499,221,638,262"/>
+<area shape="rect" id="node9" href="$teken__subr_8h.html#a6625ce2c01a1d79fa3e5430002e77ce4" title="teken_subr_horizontal_tab" alt="" coords="481,115,656,141"/>
+<area shape="rect" id="node13" href="$teken__subr_8h.html#a137fd6c5e6fbba112093844d69afb4a0" title="teken_subr_newline" alt="" coords="725,376,862,403"/>
+<area shape="rect" id="node16" href="$teken__subr_8h.html#a63ef6394e732fcbf5a1c5c09b6d3ba66" title="teken_subr_newpage" alt="" coords="496,295,641,321"/>
+<area shape="rect" id="node5" href="$teken_8c.html#adc50d1728242e452c201a4534bf8ba53" title="teken_funcs_cursor" alt="" coords="935,224,1071,251"/>
+<area shape="rect" id="node7" href="$teken_8c.html#a150d05792403c252bf9390d2a03295ab" title="teken_funcs_bell" alt="" coords="733,5,853,32"/>
+<area shape="rect" id="node10" href="$teken__subr_8h.html#a221832323048052d861d89ef2d20fab7" title="teken_subr_cursor_forward\l_tabulation" alt="" coords="704,107,883,149"/>
+<area shape="rect" id="node12" href="$teken_8c.html#adb64508ac93ed4c01af4826b0a623bfe" title="teken_funcs_fill" alt="" coords="1131,325,1245,352"/>
+<area shape="rect" id="node11" href="$teken__subr_8h.html#ad391f47e1502b221b86b2cadd71cce5b" title="teken_tab_isset" alt="" coords="946,115,1061,141"/>
+<area shape="rect" id="node14" href="$teken__subr_8h.html#a479a97808129c4a9e1d0a9174a6f3524" title="teken_subr_do_scroll" alt="" coords="931,376,1076,403"/>
+<area shape="rect" id="node15" href="$teken_8c.html#aeb97cce4c053ce2f0e0dd7f6ebd2a07c" title="teken_funcs_copy" alt="" coords="1124,376,1252,403"/>
+</map>

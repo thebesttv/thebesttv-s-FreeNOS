@@ -1,0 +1,51 @@
+<map id="ChannelClient::findProducer" name="ChannelClient::findProducer">
+<area shape="rect" id="node2" href="$classChannelClient.html#af5c4c533e308236e27fadc3023c78fae" title="Connect to a process. " alt="" coords="258,841,417,868"/>
+<area shape="rect" id="node49" href="$classChannelRegistry.html#ac2aed673427aec587152e2e50445c2f1" title="Get one producer. " alt="" coords="239,947,436,973"/>
+<area shape="rect" id="node3" href="$classChannelRegistry.html#abec1162d49834500b8b12ade07195569" title="Register consumer channel. " alt="" coords="510,769,681,810"/>
+<area shape="rect" id="node5" href="$classChannelRegistry.html#a13b4bb2f3c2b9cf41a7892629b30951c" title="Register producer channel. " alt="" coords="510,834,681,875"/>
+<area shape="rect" id="node6" href="$classMemoryChannel.html#a129ab5ef349f3a02c176bfeb9a278067" title="Set message size. " alt="" coords="484,900,707,927"/>
+<area shape="rect" id="node7" href="$classChannel.html#a0a74777169f6e2595c8d6b14a1b81939" title="Set mode. " alt="" coords="531,951,659,977"/>
+<area shape="rect" id="node8" href="$classMemoryChannel.html#a98c90914af564760f49e7fc7c7f2ec2b" title="Set memory pages by virtual address. " alt="" coords="505,667,685,693"/>
+<area shape="rect" id="node10" href="$group__kernelapi.html#ga07a263a55c709f82332071f1c13120e4" title="Prototype for user applications. " alt="" coords="557,717,633,744"/>
+<area shape="rect" id="node4" href="$classHashTable.html#aca817cc527f487ee411e43d76300be51" title="Inserts the given item to the Assocation. " alt="" coords="755,829,880,856"/>
+<area shape="rect" id="node9" href="$classIO.html#a38aa546b761d55567cc7d092952e3846" title="Set I/O base offset. " alt="" coords="771,667,863,693"/>
+<area shape="rect" id="node11" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="773,768,861,795"/>
+<area shape="rect" id="node12" href="$group__kernelapi__handler.html#ga93d23efcf930b139b99f9a1307ee782e" title="VMShareHandler" alt="" coords="757,717,878,744"/>
+<area shape="rect" id="node13" href="$classProcessShares.html#a48284cbd7a9df0bfcab28ab9f2e8ca1d" title="ProcessShares::createShare" alt="" coords="935,347,1124,373"/>
+<area shape="rect" id="node15" href="$classProcessShares.html#a282622007e2da33465b6e60b27835481" title="Read memory share by Process, Core and Tag IDs. " alt="" coords="1189,5,1367,32"/>
+<area shape="rect" id="node31" href="$classKernel.html#aa6a6fcae1a415d0cecae4520d3af7ac3" title="Get process manager. " alt="" coords="1434,616,1617,643"/>
+<area shape="rect" id="node32" href="$classProcessManager.html#a43fa433e35063a2a550dfd4661428433" title="Retrieve a Process by it&#39;s ID. " alt="" coords="1452,667,1599,693"/>
+<area shape="rect" id="node41" href="$classProcessManager.html#af9d82c4029f1ce9e0b82f5e88ee4ad8d" title="Current process running. " alt="" coords="945,869,1113,896"/>
+<area shape="rect" id="node42" href="$classProcess.html#ab582af4dbf38e6654ecde47f889660c7" title="Get process shares. " alt="" coords="1457,869,1594,896"/>
+<area shape="rect" id="node43" href="$classProcessShares.html#aa878f3902b50b53a24bfbf290f547134" title="Remove all shares for the given ProcessID. " alt="" coords="928,768,1131,795"/>
+<area shape="rect" id="node14" href="$classProcessShares.html#ae011696ac9efa332ff3b795917e38b70" title="Get MemoryContext object. " alt="" coords="1186,550,1370,591"/>
+<area shape="rect" id="node16" href="$classMemoryBlock.html#a7ba5b909f6a995a9e28d1e1894cacc4d" title="Copy memory from one place to another. " alt="" coords="1456,31,1595,57"/>
+<area shape="rect" id="node17" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="1699,347,1827,373"/>
+<area shape="rect" id="node18" href="$classCache.html#a09585625a870f0cf9d46379ecc1244a7" title="Clean one data page. " alt="" coords="1699,93,1826,120"/>
+<area shape="rect" id="node20" href="$classProcessShares.html#a1256383b676682d59e8704dc934cf16b" title="Get process. " alt="" coords="1179,245,1377,272"/>
+<area shape="rect" id="node21" href="$classKernel.html#a1252236285654841a16d3c18350ed7f8" title="Get CoreInfo. " alt="" coords="1211,397,1345,424"/>
+<area shape="rect" id="node22" href="$classMemoryContext.html#a7920a9b21903ba20f2abd7fc81ecc9ad" title="Find unused memory. " alt="" coords="1193,296,1363,323"/>
+<area shape="rect" id="node25" href="$classMemoryContext.html#a314f86fc54c4ee24f1d785e3b9eda0fe" title="Map a range of physical pages to virtual addresses. " alt="" coords="1185,448,1371,475"/>
+<area shape="rect" id="node34" href="$classProcess.html#a824da42e1b9d20918edbf029c20a6ee6" title="Raise kernel event. " alt="" coords="1208,195,1348,221"/>
+<area shape="rect" id="node19" href="$classCache.html#ac9e2011537a8785521eaefb181d51884" title="Clean one memory page. " alt="" coords="1900,93,2047,120"/>
+<area shape="rect" id="node23" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="1458,347,1593,373"/>
+<area shape="rect" id="node24" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="1445,296,1606,323"/>
+<area shape="rect" id="node26" href="$classSplitAllocator.html#ae6660e84ec88e5cc88910fed6957f1f9" title="Allocate memory. " alt="" coords="1449,499,1601,525"/>
+<area shape="rect" id="node30" href="$classMemoryContext.html#a7b1ac5af46e2d63afea258bf28c55115" title="Map a physical page to a virtual address. " alt="" coords="1451,448,1599,475"/>
+<area shape="rect" id="node27" href="$classSplitAllocator.html#ac854862ab9204ba2994aca7e1ebf163d" title="Allocate from lower memory. " alt="" coords="1675,524,1851,551"/>
+<area shape="rect" id="node29" href="$classSplitAllocator.html#a38bb818e168c9f188de6d8c0a28c3771" title="Allocate from high memory. " alt="" coords="1673,473,1852,500"/>
+<area shape="rect" id="node28" href="$classBitAllocator.html#a387bb74bd91c3818a8238e35b92f4e87" title="Allocate memory. " alt="" coords="1902,499,2045,525"/>
+<area shape="rect" id="node33" href="$classVector.html#a1a1b1606cd644f5f961c96ec6184b862" title="Returns the item at the given position. " alt="" coords="1719,667,1806,693"/>
+<area shape="rect" id="node35" href="$classMemoryChannel.html#a2b3fcbcacbe4d976e001badf6c485fad" title="Write a message. " alt="" coords="1449,195,1602,221"/>
+<area shape="rect" id="node38" href="$classMemoryChannel.html#a31d52b4825fb157050b132aef0c7c3d0" title="Flush message buffers. " alt="" coords="1449,144,1602,171"/>
+<area shape="rect" id="node40" href="$classProcess.html#ad1344f32f97559ecfd3d19faaded9de1" title="Prevent process from sleeping. " alt="" coords="1464,245,1587,272"/>
+<area shape="rect" id="node36" href="$classARMIO.html#aca1afc2270474c72566457b18c6b77a1" title="read from memory mapped I/O register " alt="" coords="1713,195,1812,221"/>
+<area shape="rect" id="node37" href="$classARMIO.html#ab35d104b8dd881115dcfcb14ac7f36f6" title="write to memory mapped I/O register " alt="" coords="1711,245,1814,272"/>
+<area shape="rect" id="node39" href="$classIO.html#aa7928b1d2869033b7686e80f34d55bd5" title="Get I/O base offset. " alt="" coords="1717,144,1809,171"/>
+<area shape="rect" id="node44" href="$classProcessShares.html#a82a17bec1afe8fb4531c303e06560c01" title="Release one memory share. " alt="" coords="1181,768,1375,795"/>
+<area shape="rect" id="node45" href="$classKernel.html#a237657efb26f12a29bbf61d9a979bc45" title="Get physical memory allocator. " alt="" coords="1457,819,1593,845"/>
+<area shape="rect" id="node46" href="$classAllocator.html#a846a5014f95d414b4fe9b96f39953ced" title="Release memory. " alt="" coords="1464,717,1587,744"/>
+<area shape="rect" id="node47" href="$classMemoryContext.html#a8a62be5bc77d0abdf8e4fa9c9da91830" title="Unmaps a range of virtual memory. " alt="" coords="1425,768,1625,795"/>
+<area shape="rect" id="node48" href="$classMemoryContext.html#a12d93afd2e11d960f9c71923081f302c" title="Unmap a virtual address. " alt="" coords="1681,768,1844,795"/>
+<area shape="rect" id="node50" href="$classHashTable.html#a55e0412bf855cba66404a212fbb6538e" title="Returns the first value for the given key. " alt="" coords="540,1001,651,1028"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="IntelPaging::IntelPaging" name="IntelPaging::IntelPaging">
+<area shape="rect" id="node2" href="$classSplitAllocator.html#ac854862ab9204ba2994aca7e1ebf163d" title="Allocate from lower memory. " alt="" coords="213,5,389,32"/>
+<area shape="rect" id="node4" href="$classIntelPageDirectory.html#aee6d93cdfdeac8d0e2eaf558973b84f5" title="Copy mappings from another directory. " alt="" coords="236,57,367,98"/>
+<area shape="rect" id="node5" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="234,123,369,149"/>
+<area shape="rect" id="node6" href="$classIntelCore.html#a019f18b9ef3e149494bf944879554d66" title="Read the CR3 register. " alt="" coords="234,173,369,200"/>
+<area shape="rect" id="node7" href="$classMemoryBlock.html#a63ed3a49d4476f324652d874718e6760" title="Fill memory with a constant byte. " alt="" coords="237,224,365,251"/>
+<area shape="rect" id="node8" href="$classSplitAllocator.html#ac26bd64d1997696dfd29d9c9d8deada4" title="Convert the given physical address to lower virtual accessible address. " alt="" coords="224,275,379,301"/>
+<area shape="rect" id="node3" href="$classBitAllocator.html#a387bb74bd91c3818a8238e35b92f4e87" title="Allocate memory. " alt="" coords="437,5,580,32"/>
+</map>

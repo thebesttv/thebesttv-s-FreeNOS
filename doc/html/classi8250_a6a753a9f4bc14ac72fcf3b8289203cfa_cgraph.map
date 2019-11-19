@@ -1,0 +1,5 @@
+<map id="i8250::write" name="i8250::write">
+<area shape="rect" id="node2" href="$group__kernelapi.html#ga7d4fc6a1945b5e23bf473d9c0c4edecb" title="ReadByte" alt="" coords="143,5,223,32"/>
+<area shape="rect" id="node4" href="$group__kernelapi.html#gaefe8a5e74d9ea56b1770bf539db1c00d" title="WriteByte" alt="" coords="143,56,223,83"/>
+<area shape="rect" id="node3" href="$group__kernel__arm.html#ga14379c13d4d5b669344abdf1dc7fa5a6" title="Perform a kernel trap with 3 arguments. " alt="" coords="271,31,359,57"/>
+</map>

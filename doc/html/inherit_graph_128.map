@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classShellCommand.html" title="Builtin command for the Shell. " alt="" coords="5,132,116,159"/>
+<area shape="rect" id="node2" href="$classChangeDirCommand.html" title="Change the current working directory. " alt="" coords="164,5,308,32"/>
+<area shape="rect" id="node3" href="$classExitCommand.html" title="Exit the Shell. " alt="" coords="183,56,289,83"/>
+<area shape="rect" id="node4" href="$classHelpCommand.html" title="Prints the help info for all known ShellCommands. " alt="" coords="181,107,291,133"/>
+<area shape="rect" id="node5" href="$classStdioCommand.html" title="Change the standard Input/Output of the shell. " alt="" coords="180,157,292,184"/>
+<area shape="rect" id="node6" href="$classTimeCommand.html" title="Measure the execution time of a program. " alt="" coords="181,208,291,235"/>
+<area shape="rect" id="node7" href="$classWriteCommand.html" title="Write data to a file. " alt="" coords="179,259,293,285"/>
+</map>

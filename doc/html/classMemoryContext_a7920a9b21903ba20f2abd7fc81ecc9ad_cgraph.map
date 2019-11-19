@@ -1,0 +1,4 @@
+<map id="MemoryContext::findFree" name="MemoryContext::findFree">
+<area shape="rect" id="node2" href="$classMemoryContext.html#af33132757d86ab7075fb169cfbbee40d" title="Translate virtual address to physical address. " alt="" coords="224,5,385,32"/>
+<area shape="rect" id="node3" href="$classMemoryMap.html#ae4936d78ee8d255b231cd2114f434756" title="Get memory range for the given region. " alt="" coords="237,56,372,83"/>
+</map>
